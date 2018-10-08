@@ -1,0 +1,35 @@
+{
+  "name": "awesome-cocoa",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-braun/awesome-cocoa.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cocoa",
+    "cocoa-rocks",
+    "swift",
+    "objective-c",
+    "controls",
+    "ui"
+  ],
+  "author": "v-braun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-braun/awesome-cocoa/issues"
+  },
+  "homepage": "https://github.com/v-braun/awesome-cocoa#readme",
+  "devDependencies": {
+    "babel-runtime": "^6.26.0",
+    "colorprint": "^4.1.0",
+    "request": "^2.88.0"
+  }
+}
