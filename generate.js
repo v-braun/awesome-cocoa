@@ -12,6 +12,7 @@ request.get(dataUrl, (err, response, body) => {
 
   var data = JSON.parse(body);
   log.notice(`data file downloaded with ${data.length}`);
+  var mdList = '';
   var recByTag = {}
   for(var rec of data){
     for(var tag of rec.tags){
@@ -21,25 +22,31 @@ request.get(dataUrl, (err, response, body) => {
 
       recByTag[tag].push(rec);
     }
+    
+    mdList += `### [${rec.github.name}](${rec.repo})
+*from [${rec.github.owner.login}](${rec.github.html_url}):*
+> *${rec.github.description}*
+
+--
+
+`;    
   }
 
+
+  
+
   // var md = '';
-  var mdTOC = '# By Tags\n';
-  var mdList = '';
+  var mdTOC = '# Content\n';
+  mdTOC += `- By Category\n`
+
   for (var tag in recByTag) {      
     if (!recByTag.hasOwnProperty(tag)) continue;
     
-    mdTOC += `- [${tag}](#${tag})\n`
+    mdTOC += `\t- ${tag}\n`
 
     var entries = recByTag[tag];
-    mdList += `## ${tag}\n`;
     for(var entry of entries){
-      mdList += `### [${entry.github.name}](${entry.repo})
-> *${entry.github.description}*
-
-*from [${entry.github.owner.login}](${entry.github.html_url})*
-
-`;
+      mdTOC += `\t\t- [${entry.github.name}](###${entry.github.name})\n`
     }
 
     mdList += '\n\n';
