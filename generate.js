@@ -24,7 +24,7 @@ request.get(dataUrl, (err, response, body) => {
   }
 
   // var md = '';
-  var mdTOC = '#By Tags\n';
+  var mdTOC = '# By Tags\n';
   var mdList = '';
   for (var tag in recByTag) {      
     if (!recByTag.hasOwnProperty(tag)) continue;
