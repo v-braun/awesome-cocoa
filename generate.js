@@ -15,18 +15,23 @@ request.get(dataUrl, (err, response, body) => {
   var mdList = '';
   var recByTag = {}
   for(var rec of data){
+    var tags = '';
     for(var tag of rec.tags){
       if(!recByTag[tag]){
         recByTag[tag] = [];
       }
 
+      tags +=  `#️⃣${tag} `;
       recByTag[tag].push(rec);
     }
+
+    
     
     mdList += `### [${rec.github.name}](${rec.repo})
 *from [${rec.github.owner.login}](${rec.github.html_url}):*
 > *${rec.github.description}*
 
+${tags}
 --------------------------
 
 `;    
