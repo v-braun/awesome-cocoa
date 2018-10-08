@@ -27,7 +27,7 @@ request.get(dataUrl, (err, response, body) => {
 *from [${rec.github.owner.login}](${rec.github.html_url}):*
 > *${rec.github.description}*
 
---
+--------------------------
 
 `;    
   }
