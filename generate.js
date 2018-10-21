@@ -86,7 +86,7 @@ function createTOC(data){
 
     let entries = recByTag[tag];
     for(let entry of entries){
-      result += `${space1}${space2}- [${entry.github.name}](#${entry.github.name})\n`
+      result += `${space1}${space2}- [${entry.github.name}](#${entry.github.name.toLowerCase()})\n`
     }
 
    // result += '\n\n';
