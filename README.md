@@ -146,7 +146,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [CHIPageControl](#chipagecontrol)
       - [BubbleTransition](#bubbletransition)
       - [AnimatedMaskLabel](#animatedmasklabel)
-      - [VBRRollingPit](#vbrrollingpit)
       - [AnimatedTransitionGallery](#animatedtransitiongallery)
       - [CBZSplashView](#cbzsplashview)
       - [JazzHands](#jazzhands)
@@ -1154,7 +1153,7 @@ Categories: Picker
 *from [v-braun](https://github.com/v-braun/VBRRollingPit):*
 > *Simple, beatiful and interactive UITabBar* 
 
-Categories: TabBar, Animation
+Categories: TabBar
 
 
 
