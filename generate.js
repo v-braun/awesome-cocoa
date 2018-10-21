@@ -80,15 +80,16 @@ function createTOC(data){
   
   for (let tag in recByTag) {      
     if (!recByTag.hasOwnProperty(tag)) continue;
-    
-    result += `\t- ${tag}\n`
+    let space1 = '    ';
+    let space2 = '  ';
+    result += `${space1}- ${tag}\n`
 
     let entries = recByTag[tag];
     for(let entry of entries){
-      result += `\t\t- [${entry.github.name}](#${entry.github.name})\n`
+      result += `${space1}${space2}- [${entry.github.name}](#${entry.github.name})\n`
     }
 
-    result += '\n\n';
+   // result += '\n\n';
   }
 
   return result;

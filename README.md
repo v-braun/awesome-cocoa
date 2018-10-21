@@ -15,311 +15,237 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#New)
 - [All](#All)
 - By Category
-	- TabBar
-		- [TLYShyNavBar](#TLYShyNavBar)
-		- [animated-tab-bar](#animated-tab-bar)
-		- [Tabman](#Tabman)
-		- [XLPagerTabStrip](#XLPagerTabStrip)
-		- [VBRRollingPit](#VBRRollingPit)
-		- [FoldingTabBar.iOS](#FoldingTabBar.iOS)
-		- [BFPaperTabBarController](#BFPaperTabBarController)
-		- [MinimalTabBar](#MinimalTabBar)
-
-
-	- Cards
-		- [Koloda](#Koloda)
-		- [Cards](#Cards)
-		- [VerticalCardSwiper](#VerticalCardSwiper)
-		- [Wallet](#Wallet)
-
-
-	- Introduction
-		- [SwiftyWalkthrough](#SwiftyWalkthrough)
-		- [BWWalkthrough](#BWWalkthrough)
-		- [AwesomeSpotlightView](#AwesomeSpotlightView)
-		- [MYBlurIntroductionView](#MYBlurIntroductionView)
-		- [Onboard](#Onboard)
-
-
-	- TableView
-		- [SwipeCellKit](#SwipeCellKit)
-		- [SwiftSpreadsheet](#SwiftSpreadsheet)
-		- [SwiftyComments](#SwiftyComments)
-		- [YNExpandableCell](#YNExpandableCell)
-		- [BWSwipeRevealCell](#BWSwipeRevealCell)
-		- [URLEmbeddedView](#URLEmbeddedView)
-		- [VegaScroll](#VegaScroll)
-		- [folding-cell](#folding-cell)
-		- [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
-		- [SlackTextViewController](#SlackTextViewController)
-		- [MPSkewed](#MPSkewed)
-		- [MGSpotyViewController](#MGSpotyViewController)
-
-
-	- PullToRefresh
-		- [PullToMakeSoup](#PullToMakeSoup)
-		- [BreakOutToRefresh](#BreakOutToRefresh)
-		- [UzysAnimatedGifPullToRefresh](#UzysAnimatedGifPullToRefresh)
-		- [MGSpotyViewController](#MGSpotyViewController)
-		- [BOZPongRefreshControl](#BOZPongRefreshControl)
-		- [CBStoreHouseRefreshControl](#CBStoreHouseRefreshControl)
-		- [PullToRefreshCoreText](#PullToRefreshCoreText)
-
-
-	- Menu
-		- [SwipeMenuViewController](#SwipeMenuViewController)
-		- [XLActionController](#XLActionController)
-		- [YNDropDownMenu](#YNDropDownMenu)
-		- [Panels](#Panels)
-		- [SideMenu](#SideMenu)
-		- [MediumMenu](#MediumMenu)
-		- [Hexacon](#Hexacon)
-		- [ENSwiftSideMenu](#ENSwiftSideMenu)
-		- [XLPagerTabStrip](#XLPagerTabStrip)
-		- [MediumScrollFullScreen](#MediumScrollFullScreen)
-		- [AKSwiftSlideMenu](#AKSwiftSlideMenu)
-		- [RESideMenu](#RESideMenu)
-		- [cariocamenu](#cariocamenu)
-		- [REFrostedViewController](#REFrostedViewController)
-		- [TWTSideMenuViewController](#TWTSideMenuViewController)
-		- [AMSlideMenu](#AMSlideMenu)
-
-
-	- Navigation
-		- [SwipeMenuViewController](#SwipeMenuViewController)
-		- [SAHistoryNavigationViewController](#SAHistoryNavigationViewController)
-		- [mntpulltoreact](#mntpulltoreact)
-
-
-	- CollectionView
-		- [SwiftSpreadsheet](#SwiftSpreadsheet)
-		- [ShelfView-iOS](#ShelfView-iOS)
-		- [VegaScroll](#VegaScroll)
-		- [CollectionViewSlantedLayout](#CollectionViewSlantedLayout)
-		- [AZCollectionViewController](#AZCollectionViewController)
-		- [MosaicLayout](#MosaicLayout)
-		- [RAReorderableLayout](#RAReorderableLayout)
-		- [SlackTextViewController](#SlackTextViewController)
-		- [MWPhotoBrowser](#MWPhotoBrowser)
-		- [MHVideoPhotoGallery](#MHVideoPhotoGallery)
-
-
-	- ImageView
-		- [Lightbox](#Lightbox)
-		- [Hexacon](#Hexacon)
-		- [FLAnimatedImage](#FLAnimatedImage)
-		- [EBPhotoPages](#EBPhotoPages)
-		- [ASMediaFocusManager](#ASMediaFocusManager)
-
-
-	- Progress
-		- [CircularProgress](#CircularProgress)
-		- [RSLoadingView](#RSLoadingView)
-		- [RetroProgress](#RetroProgress)
-		- [LiquidLoader](#LiquidLoader)
-		- [MRProgress](#MRProgress)
-		- [GaugeKit](#GaugeKit)
-		- [NVActivityIndicatorView](#NVActivityIndicatorView)
-		- [UzysAnimatedGifPullToRefresh](#UzysAnimatedGifPullToRefresh)
-		- [FFCircularProgressView](#FFCircularProgressView)
-		- [MaterialKit](#MaterialKit)
-		- [M13ProgressSuite](#M13ProgressSuite)
-
-
-	- Toggle
-		- [Switch](#Switch)
-		- [MultiToggleButton](#MultiToggleButton)
-		- [MJMaterialSwitch](#MJMaterialSwitch)
-
-
-	- TreeView
-		- [SwiftyComments](#SwiftyComments)
-		- [RATreeView](#RATreeView)
-
-
-	- Tags
-		- [TagListView](#TagListView)
-		- [WSTagsField](#WSTagsField)
-		- [ActiveLabel.swift](#ActiveLabel.swift)
-		- [EBPhotoPages](#EBPhotoPages)
-
-
-	- TextField
-		- [TagListView](#TagListView)
-		- [Translucid](#Translucid)
-		- [NumberMorphView](#NumberMorphView)
-		- [FloatLabelFields](#FloatLabelFields)
-		- [DTTextField](#DTTextField)
-		- [CountdownLabel](#CountdownLabel)
-		- [WSTagsField](#WSTagsField)
-		- [CBPinEntryView](#CBPinEntryView)
-		- [AnimatedMaskLabel](#AnimatedMaskLabel)
-		- [ActiveLabel.swift](#ActiveLabel.swift)
-		- [TextFieldEffects](#TextFieldEffects)
-		- [HTYTextField](#HTYTextField)
-		- [RKRichTextView](#RKRichTextView)
-		- [JVFloatLabeledTextField](#JVFloatLabeledTextField)
-		- [RichEditorView](#RichEditorView)
-		- [ZSSRichTextEditor](#ZSSRichTextEditor)
-
-
-	- Animation
-		- [Cards](#Cards)
-		- [Transition](#Transition)
-		- [TransitionButton](#TransitionButton)
-		- [Shiny](#Shiny)
-		- [animated-tab-bar](#animated-tab-bar)
-		- [Twinkle](#Twinkle)
-		- [DOFavoriteButton](#DOFavoriteButton)
-		- [CHIPageControl](#CHIPageControl)
-		- [BubbleTransition](#BubbleTransition)
-		- [AnimatedMaskLabel](#AnimatedMaskLabel)
-		- [AnimatedTransitionGallery](#AnimatedTransitionGallery)
-		- [CBZSplashView](#CBZSplashView)
-		- [JazzHands](#JazzHands)
-		- [PulsingHalo](#PulsingHalo)
-		- [DCAnimationKit](#DCAnimationKit)
-		- [WobbleView](#WobbleView)
-		- [RZTransitions](#RZTransitions)
-		- [UITextField-Shake](#UITextField-Shake)
-
-
-	- Button
-		- [TransitionButton](#TransitionButton)
-		- [NFDownloadButton](#NFDownloadButton)
-		- [MultiToggleButton](#MultiToggleButton)
-		- [LGButton](#LGButton)
-		- [DOFavoriteButton](#DOFavoriteButton)
-		- [MaterialKit](#MaterialKit)
-
-
-	- Material
-		- [SideMenu](#SideMenu)
-		- [MJMaterialSwitch](#MJMaterialSwitch)
-		- [FloatLabelFields](#FloatLabelFields)
-		- [DTTextField](#DTTextField)
-		- [CardParts](#CardParts)
-		- [TextFieldEffects](#TextFieldEffects)
-		- [BFPaperTabBarController](#BFPaperTabBarController)
-		- [JVFloatLabeledTextField](#JVFloatLabeledTextField)
-		- [MaterialKit](#MaterialKit)
-
-
-	- Notification
-		- [PKHUD](#PKHUD)
-		- [CFNotify](#CFNotify)
-		- [CDAlertView](#CDAlertView)
-		- [CRToast](#CRToast)
-		- [JFMinimalNotifications](#JFMinimalNotifications)
-		- [TSMessages](#TSMessages)
-		- [LNNotificationsUI](#LNNotificationsUI)
-		- [TWMessageBarManager](#TWMessageBarManager)
-		- [RKDropdownAlert](#RKDropdownAlert)
-		- [RKNotificationHub](#RKNotificationHub)
-		- [Notie](#Notie)
-
-
-	- Parallax
-		- [MXParallaxHeader](#MXParallaxHeader)
-		- [RESideMenu](#RESideMenu)
-		- [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
-		- [MPSkewed](#MPSkewed)
-
-
-	- ScrollView
-		- [MXParallaxHeader](#MXParallaxHeader)
-		- [DSDynamicScrollView](#DSDynamicScrollView)
-
-
-	- Loading
-		- [LiquidLoader](#LiquidLoader)
-		- [KALoader](#KALoader)
-		- [Windless](#Windless)
-
-
-	- PageControl
-		- [FlexiblePageControl](#FlexiblePageControl)
-		- [CHIPageControl](#CHIPageControl)
-
-
-	- Calendar
-		- [DateTimePicker](#DateTimePicker)
-		- [Workaholic](#Workaholic)
-		- [CalendarKit](#CalendarKit)
-		- [JTCalendar](#JTCalendar)
-		- [FSCalendar](#FSCalendar)
-
-
-	- Chart
-		- [Workaholic](#Workaholic)
-
-
-	- RangeSelect
-		- [fluid-slider](#fluid-slider)
-
-
-	- Picker
-		- [reel-search](#reel-search)
-		- [AGCircularPicker](#AGCircularPicker)
-		- [ActionSheetPicker-3.0](#ActionSheetPicker-3.0)
-
-
-	- Bar
-		- [AMScrollingNavbar](#AMScrollingNavbar)
-		- [BLKFlexibleHeightBar](#BLKFlexibleHeightBar)
-		- [CSStickyHeaderFlowLayout](#CSStickyHeaderFlowLayout)
-
-
-	- Toast
-		- [CRToast](#CRToast)
-		- [JFMinimalNotifications](#JFMinimalNotifications)
-
-
-	- Splashscreen
-		- [CBZSplashView](#CBZSplashView)
-		- [VideoSplashKit](#VideoSplashKit)
-
-
-	- Dialog
-		- [KLCPopup](#KLCPopup)
-
-
-	- Gallery
-		- [EBPhotoPages](#EBPhotoPages)
-		- [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
-		- [MWPhotoBrowser](#MWPhotoBrowser)
-		- [MHVideoPhotoGallery](#MHVideoPhotoGallery)
-
-
-	- BlurEffect
-		- [REFrostedViewController](#REFrostedViewController)
-
-
-	- Gestures
-		- [mntpulltoreact](#mntpulltoreact)
-
-
-	- Video
-		- [VideoSplashKit](#VideoSplashKit)
-		- [XCDYouTubeKit](#XCDYouTubeKit)
-		- [MHVideoPhotoGallery](#MHVideoPhotoGallery)
-
-
-	- Badge
-		- [RKNotificationHub](#RKNotificationHub)
-		- [BBBadgeBarButtonItem](#BBBadgeBarButtonItem)
-		- [JSBadgeView](#JSBadgeView)
-
-
-	- Sticky
-		- [CSStickyHeaderFlowLayout](#CSStickyHeaderFlowLayout)
-
-
-	- RichText
-		- [RichEditorView](#RichEditorView)
-		- [ZSSRichTextEditor](#ZSSRichTextEditor)
-
-
+    - TabBar
+      - [TLYShyNavBar](#TLYShyNavBar)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Tabman](#Tabman)
+      - [XLPagerTabStrip](#XLPagerTabStrip)
+      - [VBRRollingPit](#VBRRollingPit)
+      - [FoldingTabBar.iOS](#FoldingTabBar.iOS)
+      - [BFPaperTabBarController](#BFPaperTabBarController)
+      - [MinimalTabBar](#MinimalTabBar)
+    - Cards
+      - [Koloda](#Koloda)
+      - [Cards](#Cards)
+      - [VerticalCardSwiper](#VerticalCardSwiper)
+      - [Wallet](#Wallet)
+    - Introduction
+      - [SwiftyWalkthrough](#SwiftyWalkthrough)
+      - [BWWalkthrough](#BWWalkthrough)
+      - [AwesomeSpotlightView](#AwesomeSpotlightView)
+      - [MYBlurIntroductionView](#MYBlurIntroductionView)
+      - [Onboard](#Onboard)
+    - TableView
+      - [SwipeCellKit](#SwipeCellKit)
+      - [SwiftSpreadsheet](#SwiftSpreadsheet)
+      - [SwiftyComments](#SwiftyComments)
+      - [YNExpandableCell](#YNExpandableCell)
+      - [BWSwipeRevealCell](#BWSwipeRevealCell)
+      - [URLEmbeddedView](#URLEmbeddedView)
+      - [VegaScroll](#VegaScroll)
+      - [folding-cell](#folding-cell)
+      - [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
+      - [SlackTextViewController](#SlackTextViewController)
+      - [MPSkewed](#MPSkewed)
+      - [MGSpotyViewController](#MGSpotyViewController)
+    - PullToRefresh
+      - [PullToMakeSoup](#PullToMakeSoup)
+      - [BreakOutToRefresh](#BreakOutToRefresh)
+      - [UzysAnimatedGifPullToRefresh](#UzysAnimatedGifPullToRefresh)
+      - [MGSpotyViewController](#MGSpotyViewController)
+      - [BOZPongRefreshControl](#BOZPongRefreshControl)
+      - [CBStoreHouseRefreshControl](#CBStoreHouseRefreshControl)
+      - [PullToRefreshCoreText](#PullToRefreshCoreText)
+    - Menu
+      - [SwipeMenuViewController](#SwipeMenuViewController)
+      - [XLActionController](#XLActionController)
+      - [YNDropDownMenu](#YNDropDownMenu)
+      - [Panels](#Panels)
+      - [SideMenu](#SideMenu)
+      - [MediumMenu](#MediumMenu)
+      - [Hexacon](#Hexacon)
+      - [ENSwiftSideMenu](#ENSwiftSideMenu)
+      - [XLPagerTabStrip](#XLPagerTabStrip)
+      - [MediumScrollFullScreen](#MediumScrollFullScreen)
+      - [AKSwiftSlideMenu](#AKSwiftSlideMenu)
+      - [RESideMenu](#RESideMenu)
+      - [cariocamenu](#cariocamenu)
+      - [REFrostedViewController](#REFrostedViewController)
+      - [TWTSideMenuViewController](#TWTSideMenuViewController)
+      - [AMSlideMenu](#AMSlideMenu)
+    - Navigation
+      - [SwipeMenuViewController](#SwipeMenuViewController)
+      - [SAHistoryNavigationViewController](#SAHistoryNavigationViewController)
+      - [mntpulltoreact](#mntpulltoreact)
+    - CollectionView
+      - [SwiftSpreadsheet](#SwiftSpreadsheet)
+      - [ShelfView-iOS](#ShelfView-iOS)
+      - [VegaScroll](#VegaScroll)
+      - [CollectionViewSlantedLayout](#CollectionViewSlantedLayout)
+      - [AZCollectionViewController](#AZCollectionViewController)
+      - [MosaicLayout](#MosaicLayout)
+      - [RAReorderableLayout](#RAReorderableLayout)
+      - [SlackTextViewController](#SlackTextViewController)
+      - [MWPhotoBrowser](#MWPhotoBrowser)
+      - [MHVideoPhotoGallery](#MHVideoPhotoGallery)
+    - ImageView
+      - [Lightbox](#Lightbox)
+      - [Hexacon](#Hexacon)
+      - [FLAnimatedImage](#FLAnimatedImage)
+      - [EBPhotoPages](#EBPhotoPages)
+      - [ASMediaFocusManager](#ASMediaFocusManager)
+    - Progress
+      - [CircularProgress](#CircularProgress)
+      - [RSLoadingView](#RSLoadingView)
+      - [RetroProgress](#RetroProgress)
+      - [LiquidLoader](#LiquidLoader)
+      - [MRProgress](#MRProgress)
+      - [GaugeKit](#GaugeKit)
+      - [NVActivityIndicatorView](#NVActivityIndicatorView)
+      - [UzysAnimatedGifPullToRefresh](#UzysAnimatedGifPullToRefresh)
+      - [FFCircularProgressView](#FFCircularProgressView)
+      - [MaterialKit](#MaterialKit)
+      - [M13ProgressSuite](#M13ProgressSuite)
+    - Toggle
+      - [Switch](#Switch)
+      - [MultiToggleButton](#MultiToggleButton)
+      - [MJMaterialSwitch](#MJMaterialSwitch)
+    - TreeView
+      - [SwiftyComments](#SwiftyComments)
+      - [RATreeView](#RATreeView)
+    - Tags
+      - [TagListView](#TagListView)
+      - [WSTagsField](#WSTagsField)
+      - [ActiveLabel.swift](#ActiveLabel.swift)
+      - [EBPhotoPages](#EBPhotoPages)
+    - TextField
+      - [TagListView](#TagListView)
+      - [Translucid](#Translucid)
+      - [NumberMorphView](#NumberMorphView)
+      - [FloatLabelFields](#FloatLabelFields)
+      - [DTTextField](#DTTextField)
+      - [CountdownLabel](#CountdownLabel)
+      - [WSTagsField](#WSTagsField)
+      - [CBPinEntryView](#CBPinEntryView)
+      - [AnimatedMaskLabel](#AnimatedMaskLabel)
+      - [ActiveLabel.swift](#ActiveLabel.swift)
+      - [TextFieldEffects](#TextFieldEffects)
+      - [HTYTextField](#HTYTextField)
+      - [RKRichTextView](#RKRichTextView)
+      - [JVFloatLabeledTextField](#JVFloatLabeledTextField)
+      - [RichEditorView](#RichEditorView)
+      - [ZSSRichTextEditor](#ZSSRichTextEditor)
+    - Animation
+      - [Cards](#Cards)
+      - [Transition](#Transition)
+      - [TransitionButton](#TransitionButton)
+      - [Shiny](#Shiny)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Twinkle](#Twinkle)
+      - [DOFavoriteButton](#DOFavoriteButton)
+      - [CHIPageControl](#CHIPageControl)
+      - [BubbleTransition](#BubbleTransition)
+      - [AnimatedMaskLabel](#AnimatedMaskLabel)
+      - [AnimatedTransitionGallery](#AnimatedTransitionGallery)
+      - [CBZSplashView](#CBZSplashView)
+      - [JazzHands](#JazzHands)
+      - [PulsingHalo](#PulsingHalo)
+      - [DCAnimationKit](#DCAnimationKit)
+      - [WobbleView](#WobbleView)
+      - [RZTransitions](#RZTransitions)
+      - [UITextField-Shake](#UITextField-Shake)
+    - Button
+      - [TransitionButton](#TransitionButton)
+      - [NFDownloadButton](#NFDownloadButton)
+      - [MultiToggleButton](#MultiToggleButton)
+      - [LGButton](#LGButton)
+      - [DOFavoriteButton](#DOFavoriteButton)
+      - [MaterialKit](#MaterialKit)
+    - Material
+      - [SideMenu](#SideMenu)
+      - [MJMaterialSwitch](#MJMaterialSwitch)
+      - [FloatLabelFields](#FloatLabelFields)
+      - [DTTextField](#DTTextField)
+      - [CardParts](#CardParts)
+      - [TextFieldEffects](#TextFieldEffects)
+      - [BFPaperTabBarController](#BFPaperTabBarController)
+      - [JVFloatLabeledTextField](#JVFloatLabeledTextField)
+      - [MaterialKit](#MaterialKit)
+    - Notification
+      - [PKHUD](#PKHUD)
+      - [CFNotify](#CFNotify)
+      - [CDAlertView](#CDAlertView)
+      - [CRToast](#CRToast)
+      - [JFMinimalNotifications](#JFMinimalNotifications)
+      - [TSMessages](#TSMessages)
+      - [LNNotificationsUI](#LNNotificationsUI)
+      - [TWMessageBarManager](#TWMessageBarManager)
+      - [RKDropdownAlert](#RKDropdownAlert)
+      - [RKNotificationHub](#RKNotificationHub)
+      - [Notie](#Notie)
+    - Parallax
+      - [MXParallaxHeader](#MXParallaxHeader)
+      - [RESideMenu](#RESideMenu)
+      - [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
+      - [MPSkewed](#MPSkewed)
+    - ScrollView
+      - [MXParallaxHeader](#MXParallaxHeader)
+      - [DSDynamicScrollView](#DSDynamicScrollView)
+    - Loading
+      - [LiquidLoader](#LiquidLoader)
+      - [KALoader](#KALoader)
+      - [Windless](#Windless)
+    - PageControl
+      - [FlexiblePageControl](#FlexiblePageControl)
+      - [CHIPageControl](#CHIPageControl)
+    - Calendar
+      - [DateTimePicker](#DateTimePicker)
+      - [Workaholic](#Workaholic)
+      - [CalendarKit](#CalendarKit)
+      - [JTCalendar](#JTCalendar)
+      - [FSCalendar](#FSCalendar)
+    - Chart
+      - [Workaholic](#Workaholic)
+    - RangeSelect
+      - [fluid-slider](#fluid-slider)
+    - Picker
+      - [reel-search](#reel-search)
+      - [AGCircularPicker](#AGCircularPicker)
+      - [ActionSheetPicker-3.0](#ActionSheetPicker-3.0)
+    - Bar
+      - [AMScrollingNavbar](#AMScrollingNavbar)
+      - [BLKFlexibleHeightBar](#BLKFlexibleHeightBar)
+      - [CSStickyHeaderFlowLayout](#CSStickyHeaderFlowLayout)
+    - Toast
+      - [CRToast](#CRToast)
+      - [JFMinimalNotifications](#JFMinimalNotifications)
+    - Splashscreen
+      - [CBZSplashView](#CBZSplashView)
+      - [VideoSplashKit](#VideoSplashKit)
+    - Dialog
+      - [KLCPopup](#KLCPopup)
+    - Gallery
+      - [EBPhotoPages](#EBPhotoPages)
+      - [SAParallaxViewControllerSwift](#SAParallaxViewControllerSwift)
+      - [MWPhotoBrowser](#MWPhotoBrowser)
+      - [MHVideoPhotoGallery](#MHVideoPhotoGallery)
+    - BlurEffect
+      - [REFrostedViewController](#REFrostedViewController)
+    - Gestures
+      - [mntpulltoreact](#mntpulltoreact)
+    - Video
+      - [VideoSplashKit](#VideoSplashKit)
+      - [XCDYouTubeKit](#XCDYouTubeKit)
+      - [MHVideoPhotoGallery](#MHVideoPhotoGallery)
+    - Badge
+      - [RKNotificationHub](#RKNotificationHub)
+      - [BBBadgeBarButtonItem](#BBBadgeBarButtonItem)
+      - [JSBadgeView](#JSBadgeView)
+    - Sticky
+      - [CSStickyHeaderFlowLayout](#CSStickyHeaderFlowLayout)
+    - RichText
+      - [RichEditorView](#RichEditorView)
+      - [ZSSRichTextEditor](#ZSSRichTextEditor)
 
 
 # New
