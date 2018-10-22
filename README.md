@@ -15,6 +15,40 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#New)
 - [All](#All)
 - By Category
+    - Animation
+      - [garland-view](#garland-view)
+      - [Cards](#cards)
+      - [Transition](#transition)
+      - [TransitionButton](#transitionbutton)
+      - [Shiny](#shiny)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Twinkle](#twinkle)
+      - [DOFavoriteButton](#dofavoritebutton)
+      - [CHIPageControl](#chipagecontrol)
+      - [BubbleTransition](#bubbletransition)
+      - [AnimatedMaskLabel](#animatedmasklabel)
+      - [AnimatedTransitionGallery](#animatedtransitiongallery)
+      - [CBZSplashView](#cbzsplashview)
+      - [JazzHands](#jazzhands)
+      - [PulsingHalo](#pulsinghalo)
+      - [DCAnimationKit](#dcanimationkit)
+      - [WobbleView](#wobbleview)
+      - [RZTransitions](#rztransitions)
+      - [UITextField-Shake](#uitextfield-shake)
+    - TableView
+      - [garland-view](#garland-view)
+      - [SwipeCellKit](#swipecellkit)
+      - [SwiftSpreadsheet](#swiftspreadsheet)
+      - [SwiftyComments](#swiftycomments)
+      - [YNExpandableCell](#ynexpandablecell)
+      - [BWSwipeRevealCell](#bwswiperevealcell)
+      - [URLEmbeddedView](#urlembeddedview)
+      - [VegaScroll](#vegascroll)
+      - [folding-cell](#folding-cell)
+      - [SAParallaxViewControllerSwift](#saparallaxviewcontrollerswift)
+      - [SlackTextViewController](#slacktextviewcontroller)
+      - [MPSkewed](#mpskewed)
+      - [MGSpotyViewController](#mgspotyviewcontroller)
     - TabBar
       - [TLYShyNavBar](#tlyshynavbar)
       - [animated-tab-bar](#animated-tab-bar)
@@ -35,19 +69,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [AwesomeSpotlightView](#awesomespotlightview)
       - [MYBlurIntroductionView](#myblurintroductionview)
       - [Onboard](#onboard)
-    - TableView
-      - [SwipeCellKit](#swipecellkit)
-      - [SwiftSpreadsheet](#swiftspreadsheet)
-      - [SwiftyComments](#swiftycomments)
-      - [YNExpandableCell](#ynexpandablecell)
-      - [BWSwipeRevealCell](#bwswiperevealcell)
-      - [URLEmbeddedView](#urlembeddedview)
-      - [VegaScroll](#vegascroll)
-      - [folding-cell](#folding-cell)
-      - [SAParallaxViewControllerSwift](#saparallaxviewcontrollerswift)
-      - [SlackTextViewController](#slacktextviewcontroller)
-      - [MPSkewed](#mpskewed)
-      - [MGSpotyViewController](#mgspotyviewcontroller)
     - PullToRefresh
       - [PullToMakeSoup](#pulltomakesoup)
       - [BreakOutToRefresh](#breakouttorefresh)
@@ -135,25 +156,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
       - [RichEditorView](#richeditorview)
       - [ZSSRichTextEditor](#zssrichtexteditor)
-    - Animation
-      - [Cards](#cards)
-      - [Transition](#transition)
-      - [TransitionButton](#transitionbutton)
-      - [Shiny](#shiny)
-      - [animated-tab-bar](#animated-tab-bar)
-      - [Twinkle](#twinkle)
-      - [DOFavoriteButton](#dofavoritebutton)
-      - [CHIPageControl](#chipagecontrol)
-      - [BubbleTransition](#bubbletransition)
-      - [AnimatedMaskLabel](#animatedmasklabel)
-      - [AnimatedTransitionGallery](#animatedtransitiongallery)
-      - [CBZSplashView](#cbzsplashview)
-      - [JazzHands](#jazzhands)
-      - [PulsingHalo](#pulsinghalo)
-      - [DCAnimationKit](#dcanimationkit)
-      - [WobbleView](#wobbleview)
-      - [RZTransitions](#rztransitions)
-      - [UITextField-Shake](#uitextfield-shake)
     - Button
       - [TransitionButton](#transitionbutton)
       - [NFDownloadButton](#nfdownloadbutton)
@@ -249,6 +251,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [garland-view](https://github.com/Ramotion/garland-view)
+*from [Ramotion](https://github.com/Ramotion/garland-view):*
+> *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
+
+Categories: Animation, TableView
+
+
+![](https://github.com/Ramotion/garland-view/raw/master/garland-view.gif)
+
+
+
+
+--------------------------
 
 ### [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
 *from [telly](https://github.com/telly/TLYShyNavBar):*
@@ -373,21 +389,17 @@ Categories: Progress
 
 
 
+# All
+
+### [garland-view](https://github.com/Ramotion/garland-view)
+*from [Ramotion](https://github.com/Ramotion/garland-view):*
+> *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
+
+Categories: Animation, TableView
+
+
 
 --------------------------
-
-### [Switch](https://github.com/T-Pham/Switch)
-*from [T-Pham](https://github.com/T-Pham/Switch):*
-> *An iOS switch control implemented in Swift with full Interface Builder support.* 
-
-Categories: Toggle
-
-
-![](https://raw.githubusercontent.com/T-Pham/Switch/master/switch.gif)
-
-
-
-# All
 
 ### [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
 *from [telly](https://github.com/telly/TLYShyNavBar):*
