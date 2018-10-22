@@ -11,11 +11,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
   
 # Content  
-- [Contributing](#Contributing)
-- [New](#New)
-- [All](#All)
+- [Contributing](#contributing)
+- [New](#new)
+- [All](#all)
 - By Category
     - Animation
+      - [CLWaterWaveView](#clwaterwaveview)
       - [garland-view](#garland-view)
       - [Cards](#cards)
       - [Transition](#transition)
@@ -252,6 +253,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
+*from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
+> *A UIView what able to show water wave effect* 
+
+Categories: Animation
+
+
+![](https://raw.githubusercontent.com/cristi-lupu/CLWaterWaveView/master/intro.gif)
+
+
+
+
+--------------------------
+
 ### [garland-view](https://github.com/Ramotion/garland-view)
 *from [Ramotion](https://github.com/Ramotion/garland-view):*
 > *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
@@ -375,21 +390,17 @@ Categories: ImageView
 
 
 
+# All
+
+### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
+*from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
+> *A UIView what able to show water wave effect* 
+
+Categories: Animation
+
+
 
 --------------------------
-
-### [CircularProgress](https://github.com/sindresorhus/CircularProgress)
-*from [sindresorhus](https://github.com/sindresorhus/CircularProgress):*
-> *Circular progress indicator for your macOS app* 
-
-Categories: Progress
-
-
-![](https://raw.githubusercontent.com/sindresorhus/CircularProgress/master/screenshot.gif)
-
-
-
-# All
 
 ### [garland-view](https://github.com/Ramotion/garland-view)
 *from [Ramotion](https://github.com/Ramotion/garland-view):*
