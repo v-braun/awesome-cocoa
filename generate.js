@@ -72,9 +72,9 @@ function createTOC(data){
   }
   let result = `  
 # Content  
-- [Contributing](#Contributing)
-- [New](#New)
-- [All](#All)
+- [Contributing](#contributing)
+- [New](#new)
+- [All](#all)
 - By Category
 `
   
