@@ -15,6 +15,9 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - BlurEffect
+      - [VisualEffectView](#visualeffectview)
+      - [REFrostedViewController](#refrostedviewcontroller)
     - Animation
       - [CLWaterWaveView](#clwaterwaveview)
       - [garland-view](#garland-view)
@@ -232,8 +235,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SAParallaxViewControllerSwift](#saparallaxviewcontrollerswift)
       - [MWPhotoBrowser](#mwphotobrowser)
       - [MHVideoPhotoGallery](#mhvideophotogallery)
-    - BlurEffect
-      - [REFrostedViewController](#refrostedviewcontroller)
     - Gestures
       - [mntpulltoreact](#mntpulltoreact)
     - Video
@@ -252,6 +253,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
+*from [efremidze](https://github.com/efremidze/VisualEffectView):*
+> *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
+
+Categories: BlurEffect
+
+
+![](https://raw.githubusercontent.com/efremidze/VisualEffectView/master/Images/demo.gif)
+
+
+
+
+--------------------------
 
 ### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
 *from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
@@ -376,21 +391,17 @@ Categories: CollectionView, TableView
 
 
 
+# All
+
+### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
+*from [efremidze](https://github.com/efremidze/VisualEffectView):*
+> *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
+
+Categories: BlurEffect
+
+
 
 --------------------------
-
-### [Lightbox](https://github.com/hyperoslo/Lightbox)
-*from [hyperoslo](https://github.com/hyperoslo/Lightbox):*
-> *:milky_way: A convenient and easy to use image viewer for your iOS app* 
-
-Categories: ImageView
-
-
-![](https://raw.githubusercontent.com/hyperoslo/Lightbox/master/Images/demo.png)
-
-
-
-# All
 
 ### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
 *from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
