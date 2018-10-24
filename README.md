@@ -15,6 +15,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Style
+      - [NightNight](#nightnight)
     - ImageView
       - [InitialsImageView](#initialsimageview)
       - [Lightbox](#lightbox)
@@ -255,6 +257,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [NightNight](https://github.com/Draveness/NightNight)
+*from [Draveness](https://github.com/Draveness/NightNight):*
+> *Elegant way to integrate night mode to swift projects* 
+
+Categories: Style
+
+
+![](https://raw.githubusercontent.com/Draveness/NightNight/master/images/Demo.gif)
+
+
+
+
+--------------------------
+
 ### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
 *from [bachonk](https://github.com/bachonk/InitialsImageView):*
 > *A simple UIImageView extension for using initials as a profile image, written in swift* 
@@ -378,21 +394,17 @@ Categories: PullToRefresh
 
 
 
+# All
+
+### [NightNight](https://github.com/Draveness/NightNight)
+*from [Draveness](https://github.com/Draveness/NightNight):*
+> *Elegant way to integrate night mode to swift projects* 
+
+Categories: Style
+
+
 
 --------------------------
-
-### [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController)
-*from [yysskk](https://github.com/yysskk/SwipeMenuViewController):*
-> *Swipable tab and menu View and ViewController.* 
-
-Categories: Menu, Navigation
-
-
-![](https://raw.githubusercontent.com/yysskk/Assets/master/SwipeMenuViewController/demo_flexible.gif)
-
-
-
-# All
 
 ### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
 *from [bachonk](https://github.com/bachonk/InitialsImageView):*
