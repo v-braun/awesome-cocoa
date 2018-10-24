@@ -15,6 +15,13 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - ImageView
+      - [InitialsImageView](#initialsimageview)
+      - [Lightbox](#lightbox)
+      - [Hexacon](#hexacon)
+      - [FLAnimatedImage](#flanimatedimage)
+      - [EBPhotoPages](#ebphotopages)
+      - [ASMediaFocusManager](#asmediafocusmanager)
     - BlurEffect
       - [VisualEffectView](#visualeffectview)
       - [REFrostedViewController](#refrostedviewcontroller)
@@ -113,12 +120,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SlackTextViewController](#slacktextviewcontroller)
       - [MWPhotoBrowser](#mwphotobrowser)
       - [MHVideoPhotoGallery](#mhvideophotogallery)
-    - ImageView
-      - [Lightbox](#lightbox)
-      - [Hexacon](#hexacon)
-      - [FLAnimatedImage](#flanimatedimage)
-      - [EBPhotoPages](#ebphotopages)
-      - [ASMediaFocusManager](#asmediafocusmanager)
     - Progress
       - [CircularProgress](#circularprogress)
       - [RSLoadingView](#rsloadingview)
@@ -254,6 +255,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
+*from [bachonk](https://github.com/bachonk/InitialsImageView):*
+> *A simple UIImageView extension for using initials as a profile image, written in swift* 
+
+Categories: ImageView
+
+
+![](https://camo.githubusercontent.com/859bde21dc4f52dd94a16123301712fc95d6b53f/68747470733a2f2f692e696d6775722e636f6d2f4b45384f66724c2e706e67)
+
+
+
+
+--------------------------
+
 ### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
 *from [efremidze](https://github.com/efremidze/VisualEffectView):*
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
@@ -377,21 +392,17 @@ Categories: Menu, Navigation
 
 
 
+# All
+
+### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
+*from [bachonk](https://github.com/bachonk/InitialsImageView):*
+> *A simple UIImageView extension for using initials as a profile image, written in swift* 
+
+Categories: ImageView
+
+
 
 --------------------------
-
-### [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)
-*from [stuffrabbit](https://github.com/stuffrabbit/SwiftSpreadsheet):*
-> *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
-
-Categories: CollectionView, TableView
-
-
-![](https://thumbs.gfycat.com/SilentLightheartedAmmonite-size_restricted.gif)
-
-
-
-# All
 
 ### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
 *from [efremidze](https://github.com/efremidze/VisualEffectView):*
