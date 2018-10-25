@@ -15,19 +15,10 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
-    - Style
-      - [NightNight](#nightnight)
-    - ImageView
-      - [InitialsImageView](#initialsimageview)
-      - [Lightbox](#lightbox)
-      - [Hexacon](#hexacon)
-      - [FLAnimatedImage](#flanimatedimage)
-      - [EBPhotoPages](#ebphotopages)
-      - [ASMediaFocusManager](#asmediafocusmanager)
-    - BlurEffect
-      - [VisualEffectView](#visualeffectview)
-      - [REFrostedViewController](#refrostedviewcontroller)
+    - Map
+      - [FlyoverKit](#flyoverkit)
     - Animation
+      - [FlyoverKit](#flyoverkit)
       - [CLWaterWaveView](#clwaterwaveview)
       - [garland-view](#garland-view)
       - [Cards](#cards)
@@ -48,6 +39,31 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - Progress
+      - [DockProgress](#dockprogress)
+      - [CircularProgress](#circularprogress)
+      - [RSLoadingView](#rsloadingview)
+      - [RetroProgress](#retroprogress)
+      - [LiquidLoader](#liquidloader)
+      - [MRProgress](#mrprogress)
+      - [GaugeKit](#gaugekit)
+      - [NVActivityIndicatorView](#nvactivityindicatorview)
+      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
+      - [FFCircularProgressView](#ffcircularprogressview)
+      - [MaterialKit](#materialkit)
+      - [M13ProgressSuite](#m13progresssuite)
+    - Style
+      - [NightNight](#nightnight)
+    - ImageView
+      - [InitialsImageView](#initialsimageview)
+      - [Lightbox](#lightbox)
+      - [Hexacon](#hexacon)
+      - [FLAnimatedImage](#flanimatedimage)
+      - [EBPhotoPages](#ebphotopages)
+      - [ASMediaFocusManager](#asmediafocusmanager)
+    - BlurEffect
+      - [VisualEffectView](#visualeffectview)
+      - [REFrostedViewController](#refrostedviewcontroller)
     - TableView
       - [garland-view](#garland-view)
       - [SwipeCellKit](#swipecellkit)
@@ -122,18 +138,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SlackTextViewController](#slacktextviewcontroller)
       - [MWPhotoBrowser](#mwphotobrowser)
       - [MHVideoPhotoGallery](#mhvideophotogallery)
-    - Progress
-      - [CircularProgress](#circularprogress)
-      - [RSLoadingView](#rsloadingview)
-      - [RetroProgress](#retroprogress)
-      - [LiquidLoader](#liquidloader)
-      - [MRProgress](#mrprogress)
-      - [GaugeKit](#gaugekit)
-      - [NVActivityIndicatorView](#nvactivityindicatorview)
-      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
-      - [FFCircularProgressView](#ffcircularprogressview)
-      - [MaterialKit](#materialkit)
-      - [M13ProgressSuite](#m13progresssuite)
     - Toggle
       - [Switch](#switch)
       - [MultiToggleButton](#multitogglebutton)
@@ -257,6 +261,34 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
+*from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
+> *360° flyover on an MKMapView 🚁* 
+
+Categories: Map, Animation
+
+
+![](https://raw.githubusercontent.com/SvenTiigi/FlyoverKit/gh-pages/readMeAssets/FlyoverKitExampleApplication.gif)
+
+
+
+
+--------------------------
+
+### [DockProgress](https://github.com/sindresorhus/DockProgress)
+*from [sindresorhus](https://github.com/sindresorhus/DockProgress):*
+> *Show progress in your app's Dock icon* 
+
+Categories: Progress
+
+
+![](https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif)
+
+
+
+
+--------------------------
+
 ### [NightNight](https://github.com/Draveness/NightNight)
 *from [Draveness](https://github.com/Draveness/NightNight):*
 > *Elegant way to integrate night mode to swift projects* 
@@ -366,35 +398,27 @@ Categories: Introduction
 
 
 
-
---------------------------
-
-### [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
-*from [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit):*
-> *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
-
-Categories: TableView
-
-
-![](https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif)
-
-
-
-
---------------------------
-
-### [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup)
-*from [Yalantis](https://github.com/Yalantis/PullToMakeSoup):*
-> *Custom animated pull-to-refresh that can be easily added to UIScrollView* 
-
-Categories: PullToRefresh
-
-
-![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
-
-
-
 # All
+
+### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
+*from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
+> *360° flyover on an MKMapView 🚁* 
+
+Categories: Map, Animation
+
+
+
+--------------------------
+
+### [DockProgress](https://github.com/sindresorhus/DockProgress)
+*from [sindresorhus](https://github.com/sindresorhus/DockProgress):*
+> *Show progress in your app's Dock icon* 
+
+Categories: Progress
+
+
+
+--------------------------
 
 ### [NightNight](https://github.com/Draveness/NightNight)
 *from [Draveness](https://github.com/Draveness/NightNight):*
