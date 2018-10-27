@@ -15,6 +15,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - TabBar
+      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
+      - [TLYShyNavBar](#tlyshynavbar)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Tabman](#tabman)
+      - [XLPagerTabStrip](#xlpagertabstrip)
+      - [VBRRollingPit](#vbrrollingpit)
+      - [FoldingTabBar.iOS](#foldingtabbar.ios)
+      - [BFPaperTabBarController](#bfpapertabbarcontroller)
+      - [MinimalTabBar](#minimaltabbar)
+    - PageControl
+      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
+      - [FlexiblePageControl](#flexiblepagecontrol)
+      - [CHIPageControl](#chipagecontrol)
     - Map
       - [FlyoverKit](#flyoverkit)
     - Animation
@@ -78,15 +92,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SlackTextViewController](#slacktextviewcontroller)
       - [MPSkewed](#mpskewed)
       - [MGSpotyViewController](#mgspotyviewcontroller)
-    - TabBar
-      - [TLYShyNavBar](#tlyshynavbar)
-      - [animated-tab-bar](#animated-tab-bar)
-      - [Tabman](#tabman)
-      - [XLPagerTabStrip](#xlpagertabstrip)
-      - [VBRRollingPit](#vbrrollingpit)
-      - [FoldingTabBar.iOS](#foldingtabbar.ios)
-      - [BFPaperTabBarController](#bfpapertabbarcontroller)
-      - [MinimalTabBar](#minimaltabbar)
     - Cards
       - [Koloda](#koloda)
       - [Cards](#cards)
@@ -208,9 +213,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [LiquidLoader](#liquidloader)
       - [KALoader](#kaloader)
       - [Windless](#windless)
-    - PageControl
-      - [FlexiblePageControl](#flexiblepagecontrol)
-      - [CHIPageControl](#chipagecontrol)
     - Calendar
       - [DateTimePicker](#datetimepicker)
       - [Workaholic](#workaholic)
@@ -260,6 +262,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
+*from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
+> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
+
+Categories: TabBar, PageControl
+
+
+![](https://camo.githubusercontent.com/90e2e5abbe8155744d579951b93a1260edef855e/687474703a2f2f692e696d6775722e636f6d2f7a6c66574461312e676966)
+
+
+
+
+--------------------------
 
 ### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
 *from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
@@ -384,21 +400,17 @@ Categories: Cards
 
 
 
+# All
+
+### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
+*from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
+> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
+
+Categories: TabBar, PageControl
+
+
 
 --------------------------
-
-### [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough)
-*from [ruipfcosta](https://github.com/ruipfcosta/SwiftyWalkthrough):*
-> *The easiest way to create a great walkthrough experience in your apps, powered by Swift.* 
-
-Categories: Introduction
-
-
-![](https://raw.githubusercontent.com/ruipfcosta/SwiftyWalkthrough/master/extras/demo.gif)
-
-
-
-# All
 
 ### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
 *from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
