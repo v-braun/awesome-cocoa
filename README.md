@@ -15,23 +15,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
-    - TabBar
-      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
-      - [TLYShyNavBar](#tlyshynavbar)
-      - [animated-tab-bar](#animated-tab-bar)
-      - [Tabman](#tabman)
-      - [XLPagerTabStrip](#xlpagertabstrip)
-      - [VBRRollingPit](#vbrrollingpit)
-      - [FoldingTabBar.iOS](#foldingtabbar.ios)
-      - [BFPaperTabBarController](#bfpapertabbarcontroller)
-      - [MinimalTabBar](#minimaltabbar)
-    - PageControl
-      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
-      - [FlexiblePageControl](#flexiblepagecontrol)
-      - [CHIPageControl](#chipagecontrol)
     - Map
+      - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
     - Animation
+      - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
       - [CLWaterWaveView](#clwaterwaveview)
       - [garland-view](#garland-view)
@@ -53,6 +41,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - TabBar
+      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
+      - [TLYShyNavBar](#tlyshynavbar)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Tabman](#tabman)
+      - [XLPagerTabStrip](#xlpagertabstrip)
+      - [VBRRollingPit](#vbrrollingpit)
+      - [FoldingTabBar.iOS](#foldingtabbar.ios)
+      - [BFPaperTabBarController](#bfpapertabbarcontroller)
+      - [MinimalTabBar](#minimaltabbar)
+    - PageControl
+      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
+      - [FlexiblePageControl](#flexiblepagecontrol)
+      - [CHIPageControl](#chipagecontrol)
     - Progress
       - [DockProgress](#dockprogress)
       - [CircularProgress](#circularprogress)
@@ -263,6 +265,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
+*from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
+> *Request the Location Services via a 3D 360° flyover MKMapView 🗺* 
+
+Categories: Map, Animation
+
+
+![](https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest.gif)
+
+
+
+
+--------------------------
+
 ### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
 *from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
 > *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
@@ -386,21 +402,17 @@ Categories: TabBar
 
 
 
+# All
+
+### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
+*from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
+> *Request the Location Services via a 3D 360° flyover MKMapView 🗺* 
+
+Categories: Map, Animation
+
+
 
 --------------------------
-
-### [Koloda](https://github.com/Yalantis/Koloda)
-*from [Yalantis](https://github.com/Yalantis/Koloda):*
-> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
-
-Categories: Cards
-
-
-![](https://github.com/Yalantis/Koloda/raw/master/Koloda_v2_example_animation.gif)
-
-
-
-# All
 
 ### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
 *from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
