@@ -15,15 +15,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
-    - ImageView
-      - [URWeatherView](#urweatherview)
-      - [InitialsImageView](#initialsimageview)
-      - [Lightbox](#lightbox)
-      - [Hexacon](#hexacon)
-      - [FLAnimatedImage](#flanimatedimage)
-      - [EBPhotoPages](#ebphotopages)
-      - [ASMediaFocusManager](#asmediafocusmanager)
     - Animation
+      - [Comets](#comets)
       - [URWeatherView](#urweatherview)
       - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
@@ -47,6 +40,16 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - Particle
+      - [Comets](#comets)
+    - ImageView
+      - [URWeatherView](#urweatherview)
+      - [InitialsImageView](#initialsimageview)
+      - [Lightbox](#lightbox)
+      - [Hexacon](#hexacon)
+      - [FLAnimatedImage](#flanimatedimage)
+      - [EBPhotoPages](#ebphotopages)
+      - [ASMediaFocusManager](#asmediafocusmanager)
     - Map
       - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
@@ -267,6 +270,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [Comets](https://github.com/cruisediary/Comets)
+*from [cruisediary](https://github.com/cruisediary/Comets):*
+> *☄️Comets: Animating Particles in Swift* 
+
+Categories: Animation, Particle
+
+
+![](https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif)
+
+
+
+
+--------------------------
+
 ### [URWeatherView](https://github.com/jegumhon/URWeatherView)
 *from [jegumhon](https://github.com/jegumhon/URWeatherView):*
 > *Show the weather effects onto view written in Swift3* 
@@ -390,21 +407,17 @@ Categories: Animation
 
 
 
+# All
+
+### [Comets](https://github.com/cruisediary/Comets)
+*from [cruisediary](https://github.com/cruisediary/Comets):*
+> *☄️Comets: Animating Particles in Swift* 
+
+Categories: Animation, Particle
+
+
 
 --------------------------
-
-### [garland-view](https://github.com/Ramotion/garland-view)
-*from [Ramotion](https://github.com/Ramotion/garland-view):*
-> *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
-
-Categories: Animation, TableView
-
-
-![](https://github.com/Ramotion/garland-view/raw/master/garland-view.gif)
-
-
-
-# All
 
 ### [URWeatherView](https://github.com/jegumhon/URWeatherView)
 *from [jegumhon](https://github.com/jegumhon/URWeatherView):*
