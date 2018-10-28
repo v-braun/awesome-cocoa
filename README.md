@@ -15,10 +15,16 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
-    - Map
-      - [STLocationRequest](#stlocationrequest)
-      - [FlyoverKit](#flyoverkit)
+    - ImageView
+      - [URWeatherView](#urweatherview)
+      - [InitialsImageView](#initialsimageview)
+      - [Lightbox](#lightbox)
+      - [Hexacon](#hexacon)
+      - [FLAnimatedImage](#flanimatedimage)
+      - [EBPhotoPages](#ebphotopages)
+      - [ASMediaFocusManager](#asmediafocusmanager)
     - Animation
+      - [URWeatherView](#urweatherview)
       - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
       - [CLWaterWaveView](#clwaterwaveview)
@@ -41,6 +47,9 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - Map
+      - [STLocationRequest](#stlocationrequest)
+      - [FlyoverKit](#flyoverkit)
     - TabBar
       - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
       - [TLYShyNavBar](#tlyshynavbar)
@@ -70,13 +79,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [M13ProgressSuite](#m13progresssuite)
     - Style
       - [NightNight](#nightnight)
-    - ImageView
-      - [InitialsImageView](#initialsimageview)
-      - [Lightbox](#lightbox)
-      - [Hexacon](#hexacon)
-      - [FLAnimatedImage](#flanimatedimage)
-      - [EBPhotoPages](#ebphotopages)
-      - [ASMediaFocusManager](#asmediafocusmanager)
     - BlurEffect
       - [VisualEffectView](#visualeffectview)
       - [REFrostedViewController](#refrostedviewcontroller)
@@ -265,6 +267,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [URWeatherView](https://github.com/jegumhon/URWeatherView)
+*from [jegumhon](https://github.com/jegumhon/URWeatherView):*
+> *Show the weather effects onto view written in Swift3* 
+
+Categories: ImageView, Animation
+
+
+![](https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true)
+
+
+
+
+--------------------------
+
 ### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
 *from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
 > *Request the Location Services via a 3D 360° flyover MKMapView 🗺* 
@@ -388,21 +404,17 @@ Categories: Animation, TableView
 
 
 
+# All
+
+### [URWeatherView](https://github.com/jegumhon/URWeatherView)
+*from [jegumhon](https://github.com/jegumhon/URWeatherView):*
+> *Show the weather effects onto view written in Swift3* 
+
+Categories: ImageView, Animation
+
+
 
 --------------------------
-
-### [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
-*from [telly](https://github.com/telly/TLYShyNavBar):*
-> *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
-
-Categories: TabBar
-
-
-![](https://github.com/telly/TLYShyNavBar/raw/master/resources/battle-tested-demo.gif)
-
-
-
-# All
 
 ### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
 *from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
