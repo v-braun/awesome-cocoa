@@ -15,6 +15,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Progress
+      - [GradientCircularProgress](#gradientcircularprogress)
+      - [DockProgress](#dockprogress)
+      - [CircularProgress](#circularprogress)
+      - [RSLoadingView](#rsloadingview)
+      - [RetroProgress](#retroprogress)
+      - [LiquidLoader](#liquidloader)
+      - [MRProgress](#mrprogress)
+      - [GaugeKit](#gaugekit)
+      - [NVActivityIndicatorView](#nvactivityindicatorview)
+      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
+      - [FFCircularProgressView](#ffcircularprogressview)
+      - [MaterialKit](#materialkit)
+      - [M13ProgressSuite](#m13progresssuite)
     - TextField
       - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
       - [TagListView](#taglistview)
@@ -96,19 +110,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
       - [FlexiblePageControl](#flexiblepagecontrol)
       - [CHIPageControl](#chipagecontrol)
-    - Progress
-      - [DockProgress](#dockprogress)
-      - [CircularProgress](#circularprogress)
-      - [RSLoadingView](#rsloadingview)
-      - [RetroProgress](#retroprogress)
-      - [LiquidLoader](#liquidloader)
-      - [MRProgress](#mrprogress)
-      - [GaugeKit](#gaugekit)
-      - [NVActivityIndicatorView](#nvactivityindicatorview)
-      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
-      - [FFCircularProgressView](#ffcircularprogressview)
-      - [MaterialKit](#materialkit)
-      - [M13ProgressSuite](#m13progresssuite)
     - Style
       - [NightNight](#nightnight)
     - BlurEffect
@@ -272,6 +273,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+*from [keygx](https://github.com/keygx/GradientCircularProgress):*
+> *Customizable progress indicator library in Swift* 
+
+Categories: Progress
+
+
+![](https://raw.githubusercontent.com/keygx/GradientCircularProgress/master/images/scr_BlueDarkStyle_01.png)
+
+
+
+
+--------------------------
+
 ### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
 *from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
 > *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
@@ -395,21 +410,17 @@ Categories: ImageView
 
 
 
+# All
+
+### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+*from [keygx](https://github.com/keygx/GradientCircularProgress):*
+> *Customizable progress indicator library in Swift* 
+
+Categories: Progress
+
+
 
 --------------------------
-
-### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
-*from [efremidze](https://github.com/efremidze/VisualEffectView):*
-> *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
-
-Categories: BlurEffect
-
-
-![](https://raw.githubusercontent.com/efremidze/VisualEffectView/master/Images/demo.gif)
-
-
-
-# All
 
 ### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
 *from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
