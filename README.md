@@ -15,6 +15,35 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - TextField
+      - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
+      - [TagListView](#taglistview)
+      - [Translucid](#translucid)
+      - [NumberMorphView](#numbermorphview)
+      - [FloatLabelFields](#floatlabelfields)
+      - [DTTextField](#dttextfield)
+      - [CountdownLabel](#countdownlabel)
+      - [WSTagsField](#wstagsfield)
+      - [CBPinEntryView](#cbpinentryview)
+      - [AnimatedMaskLabel](#animatedmasklabel)
+      - [ActiveLabel.swift](#activelabel.swift)
+      - [TextFieldEffects](#textfieldeffects)
+      - [HTYTextField](#htytextfield)
+      - [RKRichTextView](#rkrichtextview)
+      - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
+      - [RichEditorView](#richeditorview)
+      - [ZSSRichTextEditor](#zssrichtexteditor)
+    - Material
+      - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
+      - [SideMenu](#sidemenu)
+      - [MJMaterialSwitch](#mjmaterialswitch)
+      - [FloatLabelFields](#floatlabelfields)
+      - [DTTextField](#dttextfield)
+      - [CardParts](#cardparts)
+      - [TextFieldEffects](#textfieldeffects)
+      - [BFPaperTabBarController](#bfpapertabbarcontroller)
+      - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
+      - [MaterialKit](#materialkit)
     - Animation
       - [Comets](#comets)
       - [URWeatherView](#urweatherview)
@@ -162,39 +191,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WSTagsField](#wstagsfield)
       - [ActiveLabel.swift](#activelabel.swift)
       - [EBPhotoPages](#ebphotopages)
-    - TextField
-      - [TagListView](#taglistview)
-      - [Translucid](#translucid)
-      - [NumberMorphView](#numbermorphview)
-      - [FloatLabelFields](#floatlabelfields)
-      - [DTTextField](#dttextfield)
-      - [CountdownLabel](#countdownlabel)
-      - [WSTagsField](#wstagsfield)
-      - [CBPinEntryView](#cbpinentryview)
-      - [AnimatedMaskLabel](#animatedmasklabel)
-      - [ActiveLabel.swift](#activelabel.swift)
-      - [TextFieldEffects](#textfieldeffects)
-      - [HTYTextField](#htytextfield)
-      - [RKRichTextView](#rkrichtextview)
-      - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
-      - [RichEditorView](#richeditorview)
-      - [ZSSRichTextEditor](#zssrichtexteditor)
     - Button
       - [TransitionButton](#transitionbutton)
       - [NFDownloadButton](#nfdownloadbutton)
       - [MultiToggleButton](#multitogglebutton)
       - [LGButton](#lgbutton)
       - [DOFavoriteButton](#dofavoritebutton)
-      - [MaterialKit](#materialkit)
-    - Material
-      - [SideMenu](#sidemenu)
-      - [MJMaterialSwitch](#mjmaterialswitch)
-      - [FloatLabelFields](#floatlabelfields)
-      - [DTTextField](#dttextfield)
-      - [CardParts](#cardparts)
-      - [TextFieldEffects](#textfieldeffects)
-      - [BFPaperTabBarController](#bfpapertabbarcontroller)
-      - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
       - [MaterialKit](#materialkit)
     - Notification
       - [PKHUD](#pkhud)
@@ -269,6 +271,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
+*from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
+> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
+
+Categories: TextField, Material
+
+
+![](https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/showcase-example.gif)
+
+
+
+
+--------------------------
 
 ### [Comets](https://github.com/cruisediary/Comets)
 *from [cruisediary](https://github.com/cruisediary/Comets):*
@@ -393,21 +409,17 @@ Categories: BlurEffect
 
 
 
+# All
+
+### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
+*from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
+> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
+
+Categories: TextField, Material
+
+
 
 --------------------------
-
-### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
-*from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
-> *A UIView what able to show water wave effect* 
-
-Categories: Animation
-
-
-![](https://raw.githubusercontent.com/cristi-lupu/CLWaterWaveView/master/intro.gif)
-
-
-
-# All
 
 ### [Comets](https://github.com/cruisediary/Comets)
 *from [cruisediary](https://github.com/cruisediary/Comets):*
