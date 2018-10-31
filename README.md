@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [All](#all)
 - By Category
     - Progress
+      - [SSSpinnerButton](#ssspinnerbutton)
       - [GradientCircularProgress](#gradientcircularprogress)
       - [DockProgress](#dockprogress)
       - [CircularProgress](#circularprogress)
@@ -29,6 +30,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [FFCircularProgressView](#ffcircularprogressview)
       - [MaterialKit](#materialkit)
       - [M13ProgressSuite](#m13progresssuite)
+    - Button
+      - [SSSpinnerButton](#ssspinnerbutton)
+      - [TransitionButton](#transitionbutton)
+      - [NFDownloadButton](#nfdownloadbutton)
+      - [MultiToggleButton](#multitogglebutton)
+      - [LGButton](#lgbutton)
+      - [DOFavoriteButton](#dofavoritebutton)
+      - [MaterialKit](#materialkit)
     - TextField
       - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
       - [TagListView](#taglistview)
@@ -192,13 +201,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WSTagsField](#wstagsfield)
       - [ActiveLabel.swift](#activelabel.swift)
       - [EBPhotoPages](#ebphotopages)
-    - Button
-      - [TransitionButton](#transitionbutton)
-      - [NFDownloadButton](#nfdownloadbutton)
-      - [MultiToggleButton](#multitogglebutton)
-      - [LGButton](#lgbutton)
-      - [DOFavoriteButton](#dofavoritebutton)
-      - [MaterialKit](#materialkit)
     - Notification
       - [PKHUD](#pkhud)
       - [CFNotify](#cfnotify)
@@ -272,6 +274,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
+*from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
+> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
+
+Categories: Progress, Button
+
+
+![](https://raw.githubusercontent.com/simformsolutions/SSSpinnerButton/master/SSSpinnerButton.gif)
+
+
+
+
+--------------------------
 
 ### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
 *from [keygx](https://github.com/keygx/GradientCircularProgress):*
@@ -396,21 +412,17 @@ Categories: Style
 
 
 
+# All
+
+### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
+*from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
+> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
+
+Categories: Progress, Button
+
+
 
 --------------------------
-
-### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
-*from [bachonk](https://github.com/bachonk/InitialsImageView):*
-> *A simple UIImageView extension for using initials as a profile image, written in swift* 
-
-Categories: ImageView
-
-
-![](https://camo.githubusercontent.com/859bde21dc4f52dd94a16123301712fc95d6b53f/68747470733a2f2f692e696d6775722e636f6d2f4b45384f66724c2e706e67)
-
-
-
-# All
 
 ### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
 *from [keygx](https://github.com/keygx/GradientCircularProgress):*
