@@ -15,6 +15,18 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - CollectionView
+      - [CenteredCollectionView](#centeredcollectionview)
+      - [SwiftSpreadsheet](#swiftspreadsheet)
+      - [ShelfView-iOS](#shelfview-ios)
+      - [VegaScroll](#vegascroll)
+      - [CollectionViewSlantedLayout](#collectionviewslantedlayout)
+      - [AZCollectionViewController](#azcollectionviewcontroller)
+      - [MosaicLayout](#mosaiclayout)
+      - [RAReorderableLayout](#rareorderablelayout)
+      - [SlackTextViewController](#slacktextviewcontroller)
+      - [MWPhotoBrowser](#mwphotobrowser)
+      - [MHVideoPhotoGallery](#mhvideophotogallery)
     - Progress
       - [SSSpinnerButton](#ssspinnerbutton)
       - [GradientCircularProgress](#gradientcircularprogress)
@@ -178,17 +190,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SwipeMenuViewController](#swipemenuviewcontroller)
       - [SAHistoryNavigationViewController](#sahistorynavigationviewcontroller)
       - [mntpulltoreact](#mntpulltoreact)
-    - CollectionView
-      - [SwiftSpreadsheet](#swiftspreadsheet)
-      - [ShelfView-iOS](#shelfview-ios)
-      - [VegaScroll](#vegascroll)
-      - [CollectionViewSlantedLayout](#collectionviewslantedlayout)
-      - [AZCollectionViewController](#azcollectionviewcontroller)
-      - [MosaicLayout](#mosaiclayout)
-      - [RAReorderableLayout](#rareorderablelayout)
-      - [SlackTextViewController](#slacktextviewcontroller)
-      - [MWPhotoBrowser](#mwphotobrowser)
-      - [MHVideoPhotoGallery](#mhvideophotogallery)
     - Toggle
       - [Switch](#switch)
       - [MultiToggleButton](#multitogglebutton)
@@ -274,6 +275,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
+*from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
+> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
+
+Categories: CollectionView
+
+
+![](https://raw.githubusercontent.com/ananthbh/CenteredCollectionView/master/.github/demo.gif)
+
+
+
+
+--------------------------
 
 ### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
 *from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
@@ -398,21 +413,17 @@ Categories: Progress
 
 
 
+# All
+
+### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
+*from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
+> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
+
+Categories: CollectionView
+
+
 
 --------------------------
-
-### [NightNight](https://github.com/Draveness/NightNight)
-*from [Draveness](https://github.com/Draveness/NightNight):*
-> *Elegant way to integrate night mode to swift projects* 
-
-Categories: Style
-
-
-![](https://raw.githubusercontent.com/Draveness/NightNight/master/images/Demo.gif)
-
-
-
-# All
 
 ### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
 *from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
