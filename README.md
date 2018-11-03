@@ -15,6 +15,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Shadow
+      - [ShadowView](#shadowview)
     - CollectionView
       - [CenteredCollectionView](#centeredcollectionview)
       - [SwiftSpreadsheet](#swiftspreadsheet)
@@ -276,6 +278,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [ShadowView](https://github.com/PierrePerrin/ShadowView)
+*from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
+> *An iOS Library that makes shadows management easy on UIView.* 
+
+Categories: Shadow
+
+
+![](https://raw.githubusercontent.com/PierrePerrin/ShadowView/master/Ressources/Example.png)
+
+
+
+
+--------------------------
+
 ### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
 *from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
 > *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
@@ -399,21 +415,17 @@ Categories: Map, Animation
 
 
 
+# All
+
+### [ShadowView](https://github.com/PierrePerrin/ShadowView)
+*from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
+> *An iOS Library that makes shadows management easy on UIView.* 
+
+Categories: Shadow
+
+
 
 --------------------------
-
-### [DockProgress](https://github.com/sindresorhus/DockProgress)
-*from [sindresorhus](https://github.com/sindresorhus/DockProgress):*
-> *Show progress in your app's Dock icon* 
-
-Categories: Progress
-
-
-![](https://raw.githubusercontent.com/sindresorhus/DockProgress/master/screenshot-circle.gif)
-
-
-
-# All
 
 ### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
 *from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
