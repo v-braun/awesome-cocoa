@@ -15,6 +15,24 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Menu
+      - [GuillotineMenu](#guillotinemenu)
+      - [SwipeMenuViewController](#swipemenuviewcontroller)
+      - [XLActionController](#xlactioncontroller)
+      - [YNDropDownMenu](#yndropdownmenu)
+      - [Panels](#panels)
+      - [SideMenu](#sidemenu)
+      - [MediumMenu](#mediummenu)
+      - [Hexacon](#hexacon)
+      - [ENSwiftSideMenu](#enswiftsidemenu)
+      - [XLPagerTabStrip](#xlpagertabstrip)
+      - [MediumScrollFullScreen](#mediumscrollfullscreen)
+      - [AKSwiftSlideMenu](#akswiftslidemenu)
+      - [RESideMenu](#residemenu)
+      - [cariocamenu](#cariocamenu)
+      - [REFrostedViewController](#refrostedviewcontroller)
+      - [TWTSideMenuViewController](#twtsidemenuviewcontroller)
+      - [AMSlideMenu](#amslidemenu)
     - Shadow
       - [ShadowView](#shadowview)
     - CollectionView
@@ -171,23 +189,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [BOZPongRefreshControl](#bozpongrefreshcontrol)
       - [CBStoreHouseRefreshControl](#cbstorehouserefreshcontrol)
       - [PullToRefreshCoreText](#pulltorefreshcoretext)
-    - Menu
-      - [SwipeMenuViewController](#swipemenuviewcontroller)
-      - [XLActionController](#xlactioncontroller)
-      - [YNDropDownMenu](#yndropdownmenu)
-      - [Panels](#panels)
-      - [SideMenu](#sidemenu)
-      - [MediumMenu](#mediummenu)
-      - [Hexacon](#hexacon)
-      - [ENSwiftSideMenu](#enswiftsidemenu)
-      - [XLPagerTabStrip](#xlpagertabstrip)
-      - [MediumScrollFullScreen](#mediumscrollfullscreen)
-      - [AKSwiftSlideMenu](#akswiftslidemenu)
-      - [RESideMenu](#residemenu)
-      - [cariocamenu](#cariocamenu)
-      - [REFrostedViewController](#refrostedviewcontroller)
-      - [TWTSideMenuViewController](#twtsidemenuviewcontroller)
-      - [AMSlideMenu](#amslidemenu)
     - Navigation
       - [SwipeMenuViewController](#swipemenuviewcontroller)
       - [SAHistoryNavigationViewController](#sahistorynavigationviewcontroller)
@@ -277,6 +278,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+*from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
+> *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
+
+Categories: Menu
+
+
+![](https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif)
+
+
+
+
+--------------------------
 
 ### [ShadowView](https://github.com/PierrePerrin/ShadowView)
 *from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
@@ -401,21 +416,17 @@ Categories: TabBar, PageControl
 
 
 
+# All
+
+### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+*from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
+> *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
+
+Categories: Menu
+
+
 
 --------------------------
-
-### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
-*from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
-> *360° flyover on an MKMapView 🚁* 
-
-Categories: Map, Animation
-
-
-![](https://raw.githubusercontent.com/SvenTiigi/FlyoverKit/gh-pages/readMeAssets/FlyoverKitExampleApplication.gif)
-
-
-
-# All
 
 ### [ShadowView](https://github.com/PierrePerrin/ShadowView)
 *from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
