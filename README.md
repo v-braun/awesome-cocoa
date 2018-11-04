@@ -15,6 +15,13 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Introduction
+      - [WhatsNewKit](#whatsnewkit)
+      - [SwiftyWalkthrough](#swiftywalkthrough)
+      - [BWWalkthrough](#bwwalkthrough)
+      - [AwesomeSpotlightView](#awesomespotlightview)
+      - [MYBlurIntroductionView](#myblurintroductionview)
+      - [Onboard](#onboard)
     - Menu
       - [GuillotineMenu](#guillotinemenu)
       - [SwipeMenuViewController](#swipemenuviewcontroller)
@@ -175,12 +182,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [Cards](#cards)
       - [VerticalCardSwiper](#verticalcardswiper)
       - [Wallet](#wallet)
-    - Introduction
-      - [SwiftyWalkthrough](#swiftywalkthrough)
-      - [BWWalkthrough](#bwwalkthrough)
-      - [AwesomeSpotlightView](#awesomespotlightview)
-      - [MYBlurIntroductionView](#myblurintroductionview)
-      - [Onboard](#onboard)
     - PullToRefresh
       - [PullToMakeSoup](#pulltomakesoup)
       - [BreakOutToRefresh](#breakouttorefresh)
@@ -278,6 +279,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
+*from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
+> *Showcase your awesome new app features 📱* 
+
+Categories: Introduction
+
+
+![](https://raw.githubusercontent.com/SvenTiigi/WhatsNewKit/gh-pages/readMeAssets/WhatsNewKit.gif)
+
+
+
+
+--------------------------
 
 ### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 *from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
@@ -402,21 +417,17 @@ Categories: Map, Animation
 
 
 
+# All
+
+### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
+*from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
+> *Showcase your awesome new app features 📱* 
+
+Categories: Introduction
+
+
 
 --------------------------
-
-### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
-*from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
-> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
-
-Categories: TabBar, PageControl
-
-
-![](https://camo.githubusercontent.com/90e2e5abbe8155744d579951b93a1260edef855e/687474703a2f2f692e696d6775722e636f6d2f7a6c66574461312e676966)
-
-
-
-# All
 
 ### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 *from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
