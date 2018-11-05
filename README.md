@@ -15,6 +15,9 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Chart
+      - [JYRadarChart](#jyradarchart)
+      - [Workaholic](#workaholic)
     - Calendar
       - [TimelineTableViewCell](#timelinetableviewcell)
       - [DateTimePicker](#datetimepicker)
@@ -237,8 +240,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [LiquidLoader](#liquidloader)
       - [KALoader](#kaloader)
       - [Windless](#windless)
-    - Chart
-      - [Workaholic](#workaholic)
     - RangeSelect
       - [fluid-slider](#fluid-slider)
     - Picker
@@ -280,6 +281,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
+*from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
+> *an iOS open source Radar Chart implementation* 
+
+Categories: Chart
+
+
+![](https://raw.githubusercontent.com/johnnywjy/JYRadarChart/master/screenshots/screenshot_1.png)
+
+
+
+
+--------------------------
 
 ### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
 *from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
@@ -404,21 +419,17 @@ Categories: Animation, Particle
 
 
 
+# All
+
+### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
+*from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
+> *an iOS open source Radar Chart implementation* 
+
+Categories: Chart
+
+
 
 --------------------------
-
-### [URWeatherView](https://github.com/jegumhon/URWeatherView)
-*from [jegumhon](https://github.com/jegumhon/URWeatherView):*
-> *Show the weather effects onto view written in Swift3* 
-
-Categories: ImageView, Animation
-
-
-![](https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_cloudy.gif?raw=true)
-
-
-
-# All
 
 ### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
 *from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
