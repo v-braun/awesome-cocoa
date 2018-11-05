@@ -15,6 +15,13 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Calendar
+      - [TimelineTableViewCell](#timelinetableviewcell)
+      - [DateTimePicker](#datetimepicker)
+      - [Workaholic](#workaholic)
+      - [CalendarKit](#calendarkit)
+      - [JTCalendar](#jtcalendar)
+      - [FSCalendar](#fscalendar)
     - Introduction
       - [WhatsNewKit](#whatsnewkit)
       - [SwiftyWalkthrough](#swiftywalkthrough)
@@ -230,12 +237,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [LiquidLoader](#liquidloader)
       - [KALoader](#kaloader)
       - [Windless](#windless)
-    - Calendar
-      - [DateTimePicker](#datetimepicker)
-      - [Workaholic](#workaholic)
-      - [CalendarKit](#calendarkit)
-      - [JTCalendar](#jtcalendar)
-      - [FSCalendar](#fscalendar)
     - Chart
       - [Workaholic](#workaholic)
     - RangeSelect
@@ -279,6 +280,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
+*from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
+> *Simple timeline view implemented by UITableViewCell* 
+
+Categories: Calendar
+
+
+![](https://raw.githubusercontent.com/kf99916/TimelineTableViewCell/master/screenshots/timelineTableView.png)
+
+
+
+
+--------------------------
 
 ### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
 *from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
@@ -403,21 +418,17 @@ Categories: ImageView, Animation
 
 
 
+# All
+
+### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
+*from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
+> *Simple timeline view implemented by UITableViewCell* 
+
+Categories: Calendar
+
+
 
 --------------------------
-
-### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
-*from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
-> *Request the Location Services via a 3D 360° flyover MKMapView 🗺* 
-
-Categories: Map, Animation
-
-
-![](https://raw.githubusercontent.com/SvenTiigi/STLocationRequest/gh-pages/readMeAssets/STLocationRequest.gif)
-
-
-
-# All
 
 ### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
 *from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
