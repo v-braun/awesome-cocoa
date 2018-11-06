@@ -15,6 +15,10 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - BlurEffect
+      - [ForceBlur](#forceblur)
+      - [VisualEffectView](#visualeffectview)
+      - [REFrostedViewController](#refrostedviewcontroller)
     - Chart
       - [JYRadarChart](#jyradarchart)
       - [Workaholic](#workaholic)
@@ -170,9 +174,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [CHIPageControl](#chipagecontrol)
     - Style
       - [NightNight](#nightnight)
-    - BlurEffect
-      - [VisualEffectView](#visualeffectview)
-      - [REFrostedViewController](#refrostedviewcontroller)
     - TableView
       - [garland-view](#garland-view)
       - [SwipeCellKit](#swipecellkit)
@@ -281,6 +282,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+### [ForceBlur](https://github.com/Yalantis/ForceBlur)
+*from [Yalantis](https://github.com/Yalantis/ForceBlur):*
+> *ForceBlur Animation for iOS Messaging Apps* 
+
+Categories: BlurEffect
+
+
+![](https://github.com/Yalantis/ForceBlur/raw/master/Resources/preview.gif)
+
+
+
+
+--------------------------
 
 ### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
 *from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
@@ -405,21 +420,17 @@ Categories: TextField, Material
 
 
 
+# All
+
+### [ForceBlur](https://github.com/Yalantis/ForceBlur)
+*from [Yalantis](https://github.com/Yalantis/ForceBlur):*
+> *ForceBlur Animation for iOS Messaging Apps* 
+
+Categories: BlurEffect
+
+
 
 --------------------------
-
-### [Comets](https://github.com/cruisediary/Comets)
-*from [cruisediary](https://github.com/cruisediary/Comets):*
-> *☄️Comets: Animating Particles in Swift* 
-
-Categories: Animation, Particle
-
-
-![](https://raw.githubusercontent.com/cruisediary/Comets/master/README/comet.gif)
-
-
-
-# All
 
 ### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
 *from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
