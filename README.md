@@ -15,6 +15,25 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Menu
+      - [PopMenu](#popmenu)
+      - [GuillotineMenu](#guillotinemenu)
+      - [SwipeMenuViewController](#swipemenuviewcontroller)
+      - [XLActionController](#xlactioncontroller)
+      - [YNDropDownMenu](#yndropdownmenu)
+      - [Panels](#panels)
+      - [SideMenu](#sidemenu)
+      - [MediumMenu](#mediummenu)
+      - [Hexacon](#hexacon)
+      - [ENSwiftSideMenu](#enswiftsidemenu)
+      - [XLPagerTabStrip](#xlpagertabstrip)
+      - [MediumScrollFullScreen](#mediumscrollfullscreen)
+      - [AKSwiftSlideMenu](#akswiftslidemenu)
+      - [RESideMenu](#residemenu)
+      - [cariocamenu](#cariocamenu)
+      - [REFrostedViewController](#refrostedviewcontroller)
+      - [TWTSideMenuViewController](#twtsidemenuviewcontroller)
+      - [AMSlideMenu](#amslidemenu)
     - BlurEffect
       - [ForceBlur](#forceblur)
       - [VisualEffectView](#visualeffectview)
@@ -36,24 +55,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [AwesomeSpotlightView](#awesomespotlightview)
       - [MYBlurIntroductionView](#myblurintroductionview)
       - [Onboard](#onboard)
-    - Menu
-      - [GuillotineMenu](#guillotinemenu)
-      - [SwipeMenuViewController](#swipemenuviewcontroller)
-      - [XLActionController](#xlactioncontroller)
-      - [YNDropDownMenu](#yndropdownmenu)
-      - [Panels](#panels)
-      - [SideMenu](#sidemenu)
-      - [MediumMenu](#mediummenu)
-      - [Hexacon](#hexacon)
-      - [ENSwiftSideMenu](#enswiftsidemenu)
-      - [XLPagerTabStrip](#xlpagertabstrip)
-      - [MediumScrollFullScreen](#mediumscrollfullscreen)
-      - [AKSwiftSlideMenu](#akswiftslidemenu)
-      - [RESideMenu](#residemenu)
-      - [cariocamenu](#cariocamenu)
-      - [REFrostedViewController](#refrostedviewcontroller)
-      - [TWTSideMenuViewController](#twtsidemenuviewcontroller)
-      - [AMSlideMenu](#amslidemenu)
     - Shadow
       - [ShadowView](#shadowview)
     - CollectionView
@@ -283,6 +284,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [PopMenu](https://github.com/CaliCastle/PopMenu)
+*from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
+> *A cool and customizable popup style action sheet for iOS 😎* 
+
+Categories: Menu
+
+
+![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/FeatureScreenShot_1.png)
+
+
+
+
+--------------------------
+
 ### [ForceBlur](https://github.com/Yalantis/ForceBlur)
 *from [Yalantis](https://github.com/Yalantis/ForceBlur):*
 > *ForceBlur Animation for iOS Messaging Apps* 
@@ -406,21 +421,17 @@ Categories: Progress
 
 
 
+# All
+
+### [PopMenu](https://github.com/CaliCastle/PopMenu)
+*from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
+> *A cool and customizable popup style action sheet for iOS 😎* 
+
+Categories: Menu
+
+
 
 --------------------------
-
-### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
-*from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
-> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
-
-Categories: TextField, Material
-
-
-![](https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master//SkyFloatingLabelTextField/images/showcase-example.gif)
-
-
-
-# All
 
 ### [ForceBlur](https://github.com/Yalantis/ForceBlur)
 *from [Yalantis](https://github.com/Yalantis/ForceBlur):*
