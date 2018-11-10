@@ -15,6 +15,17 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - ImageView
+      - [ComplimentaryGradientView](#complimentarygradientview)
+      - [URWeatherView](#urweatherview)
+      - [InitialsImageView](#initialsimageview)
+      - [Lightbox](#lightbox)
+      - [Hexacon](#hexacon)
+      - [FLAnimatedImage](#flanimatedimage)
+      - [EBPhotoPages](#ebphotopages)
+      - [ASMediaFocusManager](#asmediafocusmanager)
+    - Gradient
+      - [ComplimentaryGradientView](#complimentarygradientview)
     - Menu
       - [PopMenu](#popmenu)
       - [GuillotineMenu](#guillotinemenu)
@@ -148,14 +159,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [UITextField-Shake](#uitextfield-shake)
     - Particle
       - [Comets](#comets)
-    - ImageView
-      - [URWeatherView](#urweatherview)
-      - [InitialsImageView](#initialsimageview)
-      - [Lightbox](#lightbox)
-      - [Hexacon](#hexacon)
-      - [FLAnimatedImage](#flanimatedimage)
-      - [EBPhotoPages](#ebphotopages)
-      - [ASMediaFocusManager](#asmediafocusmanager)
     - Map
       - [STLocationRequest](#stlocationrequest)
       - [FlyoverKit](#flyoverkit)
@@ -284,6 +287,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
+*from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
+> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
+
+Categories: ImageView, Gradient
+
+
+![](https://cloud.githubusercontent.com/assets/14007152/17952751/733ba4ba-6a3b-11e6-9ae6-2b23d92b0dea.png)
+
+
+
+
+--------------------------
+
 ### [PopMenu](https://github.com/CaliCastle/PopMenu)
 *from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
 > *A cool and customizable popup style action sheet for iOS 😎* 
@@ -407,21 +424,17 @@ Categories: Progress, Button
 
 
 
+# All
+
+### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
+*from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
+> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
+
+Categories: ImageView, Gradient
+
+
 
 --------------------------
-
-### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
-*from [keygx](https://github.com/keygx/GradientCircularProgress):*
-> *Customizable progress indicator library in Swift* 
-
-Categories: Progress
-
-
-![](https://raw.githubusercontent.com/keygx/GradientCircularProgress/master/images/scr_BlueDarkStyle_01.png)
-
-
-
-# All
 
 ### [PopMenu](https://github.com/CaliCastle/PopMenu)
 *from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
