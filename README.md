@@ -15,6 +15,22 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Progress
+      - [ARSLineProgress](#arslineprogress)
+      - [SSSpinnerButton](#ssspinnerbutton)
+      - [GradientCircularProgress](#gradientcircularprogress)
+      - [DockProgress](#dockprogress)
+      - [CircularProgress](#circularprogress)
+      - [RSLoadingView](#rsloadingview)
+      - [RetroProgress](#retroprogress)
+      - [LiquidLoader](#liquidloader)
+      - [MRProgress](#mrprogress)
+      - [GaugeKit](#gaugekit)
+      - [NVActivityIndicatorView](#nvactivityindicatorview)
+      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
+      - [FFCircularProgressView](#ffcircularprogressview)
+      - [MaterialKit](#materialkit)
+      - [M13ProgressSuite](#m13progresssuite)
     - ImageView
       - [ComplimentaryGradientView](#complimentarygradientview)
       - [URWeatherView](#urweatherview)
@@ -80,21 +96,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SlackTextViewController](#slacktextviewcontroller)
       - [MWPhotoBrowser](#mwphotobrowser)
       - [MHVideoPhotoGallery](#mhvideophotogallery)
-    - Progress
-      - [SSSpinnerButton](#ssspinnerbutton)
-      - [GradientCircularProgress](#gradientcircularprogress)
-      - [DockProgress](#dockprogress)
-      - [CircularProgress](#circularprogress)
-      - [RSLoadingView](#rsloadingview)
-      - [RetroProgress](#retroprogress)
-      - [LiquidLoader](#liquidloader)
-      - [MRProgress](#mrprogress)
-      - [GaugeKit](#gaugekit)
-      - [NVActivityIndicatorView](#nvactivityindicatorview)
-      - [UzysAnimatedGifPullToRefresh](#uzysanimatedgifpulltorefresh)
-      - [FFCircularProgressView](#ffcircularprogressview)
-      - [MaterialKit](#materialkit)
-      - [M13ProgressSuite](#m13progresssuite)
     - Button
       - [SSSpinnerButton](#ssspinnerbutton)
       - [TransitionButton](#transitionbutton)
@@ -287,6 +288,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
+*from [soberman](https://github.com/soberman/ARSLineProgress):*
+> *iOS progress bar, replacement for the default activity indicator.* 
+
+Categories: Progress
+
+
+![](https://camo.githubusercontent.com/744058cbebea04ccc14551801c9dd960d1c50e45/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f776974686f75745f66696e616c5f616e696d6174696f6e2e676966)
+
+
+
+
+--------------------------
+
 ### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
 *from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
 > *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
@@ -410,21 +425,17 @@ Categories: CollectionView
 
 
 
+# All
+
+### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
+*from [soberman](https://github.com/soberman/ARSLineProgress):*
+> *iOS progress bar, replacement for the default activity indicator.* 
+
+Categories: Progress
+
+
 
 --------------------------
-
-### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
-*from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
-> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
-
-Categories: Progress, Button
-
-
-![](https://raw.githubusercontent.com/simformsolutions/SSSpinnerButton/master/SSSpinnerButton.gif)
-
-
-
-# All
 
 ### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
 *from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
