@@ -15,6 +15,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Animation
+      - [Hero](#hero)
+      - [Comets](#comets)
+      - [URWeatherView](#urweatherview)
+      - [STLocationRequest](#stlocationrequest)
+      - [FlyoverKit](#flyoverkit)
+      - [CLWaterWaveView](#clwaterwaveview)
+      - [garland-view](#garland-view)
+      - [Cards](#cards)
+      - [Transition](#transition)
+      - [TransitionButton](#transitionbutton)
+      - [Shiny](#shiny)
+      - [animated-tab-bar](#animated-tab-bar)
+      - [Twinkle](#twinkle)
+      - [DOFavoriteButton](#dofavoritebutton)
+      - [CHIPageControl](#chipagecontrol)
+      - [BubbleTransition](#bubbletransition)
+      - [AnimatedMaskLabel](#animatedmasklabel)
+      - [AnimatedTransitionGallery](#animatedtransitiongallery)
+      - [CBZSplashView](#cbzsplashview)
+      - [JazzHands](#jazzhands)
+      - [PulsingHalo](#pulsinghalo)
+      - [DCAnimationKit](#dcanimationkit)
+      - [WobbleView](#wobbleview)
+      - [RZTransitions](#rztransitions)
+      - [UITextField-Shake](#uitextfield-shake)
     - Progress
       - [ARSLineProgress](#arslineprogress)
       - [SSSpinnerButton](#ssspinnerbutton)
@@ -133,31 +159,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [BFPaperTabBarController](#bfpapertabbarcontroller)
       - [JVFloatLabeledTextField](#jvfloatlabeledtextfield)
       - [MaterialKit](#materialkit)
-    - Animation
-      - [Comets](#comets)
-      - [URWeatherView](#urweatherview)
-      - [STLocationRequest](#stlocationrequest)
-      - [FlyoverKit](#flyoverkit)
-      - [CLWaterWaveView](#clwaterwaveview)
-      - [garland-view](#garland-view)
-      - [Cards](#cards)
-      - [Transition](#transition)
-      - [TransitionButton](#transitionbutton)
-      - [Shiny](#shiny)
-      - [animated-tab-bar](#animated-tab-bar)
-      - [Twinkle](#twinkle)
-      - [DOFavoriteButton](#dofavoritebutton)
-      - [CHIPageControl](#chipagecontrol)
-      - [BubbleTransition](#bubbletransition)
-      - [AnimatedMaskLabel](#animatedmasklabel)
-      - [AnimatedTransitionGallery](#animatedtransitiongallery)
-      - [CBZSplashView](#cbzsplashview)
-      - [JazzHands](#jazzhands)
-      - [PulsingHalo](#pulsinghalo)
-      - [DCAnimationKit](#dcanimationkit)
-      - [WobbleView](#wobbleview)
-      - [RZTransitions](#rztransitions)
-      - [UITextField-Shake](#uitextfield-shake)
     - Particle
       - [Comets](#comets)
     - Map
@@ -288,6 +289,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [Hero](https://github.com/HeroTransitions/Hero)
+*from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
+> *Elegant transition library for iOS & tvOS* 
+
+Categories: Animation
+
+
+![](https://camo.githubusercontent.com/22d05ffa3ebcdabc0e46885d905a4958313c7a46/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f73696d706c652e737667)
+
+
+
+
+--------------------------
+
 ### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
 *from [soberman](https://github.com/soberman/ARSLineProgress):*
 > *iOS progress bar, replacement for the default activity indicator.* 
@@ -411,21 +426,17 @@ Categories: Shadow
 
 
 
+# All
+
+### [Hero](https://github.com/HeroTransitions/Hero)
+*from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
+> *Elegant transition library for iOS & tvOS* 
+
+Categories: Animation
+
+
 
 --------------------------
-
-### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
-*from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
-> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
-
-Categories: CollectionView
-
-
-![](https://raw.githubusercontent.com/ananthbh/CenteredCollectionView/master/.github/demo.gif)
-
-
-
-# All
 
 ### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
 *from [soberman](https://github.com/soberman/ARSLineProgress):*
