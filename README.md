@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [All](#all)
 - By Category
     - Animation
+      - [RoundCoachMark](#roundcoachmark)
       - [Hero](#hero)
       - [Comets](#comets)
       - [URWeatherView](#urweatherview)
@@ -41,6 +42,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - Button
+      - [RoundCoachMark](#roundcoachmark)
+      - [SSSpinnerButton](#ssspinnerbutton)
+      - [TransitionButton](#transitionbutton)
+      - [NFDownloadButton](#nfdownloadbutton)
+      - [MultiToggleButton](#multitogglebutton)
+      - [LGButton](#lgbutton)
+      - [DOFavoriteButton](#dofavoritebutton)
+      - [MaterialKit](#materialkit)
     - Progress
       - [ARSLineProgress](#arslineprogress)
       - [SSSpinnerButton](#ssspinnerbutton)
@@ -122,14 +132,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [SlackTextViewController](#slacktextviewcontroller)
       - [MWPhotoBrowser](#mwphotobrowser)
       - [MHVideoPhotoGallery](#mhvideophotogallery)
-    - Button
-      - [SSSpinnerButton](#ssspinnerbutton)
-      - [TransitionButton](#transitionbutton)
-      - [NFDownloadButton](#nfdownloadbutton)
-      - [MultiToggleButton](#multitogglebutton)
-      - [LGButton](#lgbutton)
-      - [DOFavoriteButton](#dofavoritebutton)
-      - [MaterialKit](#materialkit)
     - TextField
       - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
       - [TagListView](#taglistview)
@@ -289,6 +291,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
+*from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
+> *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
+
+Categories: Animation, Button
+
+
+![](https://github.com/digital-horizon/RoundCoachMark/raw/master/demo.gif)
+
+
+
+
+--------------------------
+
 ### [Hero](https://github.com/HeroTransitions/Hero)
 *from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
 > *Elegant transition library for iOS & tvOS* 
@@ -412,21 +428,17 @@ Categories: Menu
 
 
 
+# All
+
+### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
+*from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
+> *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
+
+Categories: Animation, Button
+
+
 
 --------------------------
-
-### [ShadowView](https://github.com/PierrePerrin/ShadowView)
-*from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
-> *An iOS Library that makes shadows management easy on UIView.* 
-
-Categories: Shadow
-
-
-![](https://raw.githubusercontent.com/PierrePerrin/ShadowView/master/Ressources/Example.png)
-
-
-
-# All
 
 ### [Hero](https://github.com/HeroTransitions/Hero)
 *from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
