@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [All](#all)
 - By Category
     - Animation
+      - [SABlurImageView](#sablurimageview)
       - [RoundCoachMark](#roundcoachmark)
       - [Hero](#hero)
       - [Comets](#comets)
@@ -42,6 +43,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [WobbleView](#wobbleview)
       - [RZTransitions](#rztransitions)
       - [UITextField-Shake](#uitextfield-shake)
+    - BlurEffect
+      - [SABlurImageView](#sablurimageview)
+      - [ForceBlur](#forceblur)
+      - [VisualEffectView](#visualeffectview)
+      - [REFrostedViewController](#refrostedviewcontroller)
     - Button
       - [RoundCoachMark](#roundcoachmark)
       - [SSSpinnerButton](#ssspinnerbutton)
@@ -97,10 +103,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [REFrostedViewController](#refrostedviewcontroller)
       - [TWTSideMenuViewController](#twtsidemenuviewcontroller)
       - [AMSlideMenu](#amslidemenu)
-    - BlurEffect
-      - [ForceBlur](#forceblur)
-      - [VisualEffectView](#visualeffectview)
-      - [REFrostedViewController](#refrostedviewcontroller)
     - Chart
       - [JYRadarChart](#jyradarchart)
       - [Workaholic](#workaholic)
@@ -291,6 +293,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
+*from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
+> *You can use blur effect and it's animation easily to call only two methods.* 
+
+Categories: Animation, BlurEffect
+
+
+![](https://raw.githubusercontent.com/marty-suzuki/SABlurImageView/master/SampleImage/sample.gif)
+
+
+
+
+--------------------------
+
 ### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
 *from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
@@ -414,21 +430,17 @@ Categories: Introduction
 
 
 
+# All
+
+### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
+*from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
+> *You can use blur effect and it's animation easily to call only two methods.* 
+
+Categories: Animation, BlurEffect
+
+
 
 --------------------------
-
-### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
-*from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
-> *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
-
-Categories: Menu
-
-
-![](https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif)
-
-
-
-# All
 
 ### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
 *from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
