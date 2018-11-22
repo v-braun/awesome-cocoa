@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [All](#all)
 - By Category
     - Animation
+      - [ZoomTransitioning](#zoomtransitioning)
       - [SABlurImageView](#sablurimageview)
       - [RoundCoachMark](#roundcoachmark)
       - [Hero](#hero)
@@ -293,6 +294,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
+*from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
+> *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
+
+Categories: Animation
+
+
+![](https://github.com/WorldDownTown/ZoomTransitioning/raw/master/images/demo.gif)
+
+
+
+
+--------------------------
+
 ### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
 *from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
 > *You can use blur effect and it's animation easily to call only two methods.* 
@@ -416,21 +431,17 @@ Categories: Calendar
 
 
 
+# All
+
+### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
+*from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
+> *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
+
+Categories: Animation
+
+
 
 --------------------------
-
-### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
-*from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
-> *Showcase your awesome new app features 📱* 
-
-Categories: Introduction
-
-
-![](https://raw.githubusercontent.com/SvenTiigi/WhatsNewKit/gh-pages/readMeAssets/WhatsNewKit.gif)
-
-
-
-# All
 
 ### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
 *from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
