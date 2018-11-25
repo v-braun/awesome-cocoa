@@ -15,6 +15,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - Rating
+      - [FloatRatingView](#floatratingview)
     - Animation
       - [ZoomTransitioning](#zoomtransitioning)
       - [SABlurImageView](#sablurimageview)
@@ -294,6 +296,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
+*from [glenyi](https://github.com/glenyi/FloatRatingView):*
+> *Whole, half or floating point ratings control written in Swift* 
+
+Categories: Rating
+
+
+![](https://raw.githubusercontent.com/strekfus/FloatRatingView/master/FloatRatingView.gif)
+
+
+
+
+--------------------------
+
 ### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
 *from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
 > *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
@@ -417,21 +433,17 @@ Categories: Chart
 
 
 
+# All
+
+### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
+*from [glenyi](https://github.com/glenyi/FloatRatingView):*
+> *Whole, half or floating point ratings control written in Swift* 
+
+Categories: Rating
+
+
 
 --------------------------
-
-### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
-*from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
-> *Simple timeline view implemented by UITableViewCell* 
-
-Categories: Calendar
-
-
-![](https://raw.githubusercontent.com/kf99916/TimelineTableViewCell/master/screenshots/timelineTableView.png)
-
-
-
-# All
 
 ### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
 *from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
