@@ -15,6 +15,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - MediaPlayer
+      - [PandoraPlayer](#pandoraplayer)
     - Rating
       - [FloatRatingView](#floatratingview)
     - Animation
@@ -296,6 +298,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
+> *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
+
+Categories: MediaPlayer
+
+
+![](https://camo.githubusercontent.com/7faa6619b75174b63f687955c688409b2f2871ce/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f326134616462333135303136363539373163653565316334)
+
+
+
+
+--------------------------
+
 ### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
 *from [glenyi](https://github.com/glenyi/FloatRatingView):*
 > *Whole, half or floating point ratings control written in Swift* 
@@ -419,21 +435,17 @@ Categories: BlurEffect
 
 
 
+# All
+
+### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
+> *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
+
+Categories: MediaPlayer
+
+
 
 --------------------------
-
-### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
-*from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
-> *an iOS open source Radar Chart implementation* 
-
-Categories: Chart
-
-
-![](https://raw.githubusercontent.com/johnnywjy/JYRadarChart/master/screenshots/screenshot_1.png)
-
-
-
-# All
 
 ### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
 *from [glenyi](https://github.com/glenyi/FloatRatingView):*
