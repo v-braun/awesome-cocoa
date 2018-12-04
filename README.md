@@ -15,8 +15,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
-    - MediaPlayer
+    - PageControl
       - [TKRubberIndicator](#tkrubberindicator)
+      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
+      - [FlexiblePageControl](#flexiblepagecontrol)
+      - [CHIPageControl](#chipagecontrol)
+    - MediaPlayer
       - [PandoraPlayer](#pandoraplayer)
     - Rating
       - [FloatRatingView](#floatratingview)
@@ -184,10 +188,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [FoldingTabBar.iOS](#foldingtabbar.ios)
       - [BFPaperTabBarController](#bfpapertabbarcontroller)
       - [MinimalTabBar](#minimaltabbar)
-    - PageControl
-      - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
-      - [FlexiblePageControl](#flexiblepagecontrol)
-      - [CHIPageControl](#chipagecontrol)
     - Style
       - [NightNight](#nightnight)
     - TableView
@@ -303,7 +303,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 *from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
 > *A rubber animation pagecontrol* 
 
-Categories: MediaPlayer
+Categories: PageControl
 
 
 ![](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
@@ -442,7 +442,7 @@ Categories: Menu
 *from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
 > *A rubber animation pagecontrol* 
 
-Categories: MediaPlayer
+Categories: PageControl
 
 
 
