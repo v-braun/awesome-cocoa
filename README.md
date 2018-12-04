@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [All](#all)
 - By Category
     - MediaPlayer
+      - [TKRubberIndicator](#tkrubberindicator)
       - [PandoraPlayer](#pandoraplayer)
     - Rating
       - [FloatRatingView](#floatratingview)
@@ -298,6 +299,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
+*from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
+> *A rubber animation pagecontrol* 
+
+Categories: MediaPlayer
+
+
+![](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
+
+
+
+
+--------------------------
+
 ### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
 *from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
 > *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
@@ -421,21 +436,17 @@ Categories: Menu
 
 
 
+# All
+
+### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
+*from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
+> *A rubber animation pagecontrol* 
+
+Categories: MediaPlayer
+
+
 
 --------------------------
-
-### [ForceBlur](https://github.com/Yalantis/ForceBlur)
-*from [Yalantis](https://github.com/Yalantis/ForceBlur):*
-> *ForceBlur Animation for iOS Messaging Apps* 
-
-Categories: BlurEffect
-
-
-![](https://github.com/Yalantis/ForceBlur/raw/master/Resources/preview.gif)
-
-
-
-# All
 
 ### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
 *from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
