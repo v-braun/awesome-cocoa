@@ -17,22 +17,14 @@ function createList(recByTag){
   for (let tag in recByTag) {      
     if (!recByTag.hasOwnProperty(tag)) continue;
 
-  let entries = []
-  let records = recByTag[tag];
+    let records = recByTag[tag];
     result += `
 ## ${tag}
-`
+`;
     for(let rec of records){
       let entry = createEntry(rec);
-      entries.push(entry)
+      result += entry + '\n\n';
     }
-
-    result += entries.join(`
-
-
---------------------------
-    
-`);
   }
 
   return result;
