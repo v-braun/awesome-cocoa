@@ -4,8 +4,8 @@ const log = require('colorprint');
 const fs = require('fs');
 
 function createEntry(rec){
-  let md = `### [${rec.github.name}](${rec.repo})
-*from [${rec.github.owner.login}](${rec.github.html_url}):*
+  let md = `**[${rec.github.name}](${rec.repo})**
+*from [${rec.github.owner.login}](${rec.github.owner.html_url}):*
 > *${rec.github.description}* 
 
 `
@@ -32,7 +32,7 @@ function createList(recByTag){
 
 --------------------------
     
-    `);
+`);
   }
 
   return result;

@@ -57,8 +57,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
-### [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)
-*from [manuelescrig](https://github.com/manuelescrig/MEVHorizontalContacts):*
+**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
+*from [manuelescrig](https://github.com/manuelescrig):*
 > *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
 
 
@@ -70,8 +70,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
-*from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
+*from [TBXark](https://github.com/TBXark):*
 > *A rubber animation pagecontrol* 
 
 
@@ -83,8 +83,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
+**[PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)**
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
 > *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
 
 
@@ -96,8 +96,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
-*from [glenyi](https://github.com/glenyi/FloatRatingView):*
+**[FloatRatingView](https://github.com/glenyi/FloatRatingView)**
+*from [glenyi](https://github.com/glenyi):*
 > *Whole, half or floating point ratings control written in Swift* 
 
 
@@ -109,8 +109,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
-*from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
+**[ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)**
+*from [WorldDownTown](https://github.com/WorldDownTown):*
 > *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
 
 
@@ -122,8 +122,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
-*from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
+**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
 > *You can use blur effect and it's animation easily to call only two methods.* 
 
 
@@ -135,8 +135,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
-*from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
+**[RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)**
+*from [digital-horizon](https://github.com/digital-horizon):*
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
 
 
@@ -148,8 +148,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [Hero](https://github.com/HeroTransitions/Hero)
-*from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
+**[Hero](https://github.com/HeroTransitions/Hero)**
+*from [HeroTransitions](https://github.com/HeroTransitions):*
 > *Elegant transition library for iOS & tvOS* 
 
 
@@ -161,8 +161,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
-*from [soberman](https://github.com/soberman/ARSLineProgress):*
+**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
+*from [soberman](https://github.com/soberman):*
 > *iOS progress bar, replacement for the default activity indicator.* 
 
 
@@ -174,8 +174,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
 
-### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
-*from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
+**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
+*from [gkye](https://github.com/gkye):*
 > *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
 
 
@@ -187,8 +187,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 ## CollectionView
-### [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)
-*from [manuelescrig](https://github.com/manuelescrig/MEVHorizontalContacts):*
+**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
+*from [manuelescrig](https://github.com/manuelescrig):*
 > *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
 
 
@@ -196,8 +196,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)
-*from [ananthbh](https://github.com/ananthbh/CenteredCollectionView):*
+**[CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)**
+*from [ananthbh](https://github.com/ananthbh):*
 > *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
 
 
@@ -205,8 +205,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)
-*from [stuffrabbit](https://github.com/stuffrabbit/SwiftSpreadsheet):*
+**[SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)**
+*from [stuffrabbit](https://github.com/stuffrabbit):*
 > *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
 
 
@@ -214,8 +214,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)
-*from [tdscientist](https://github.com/tdscientist/ShelfView-iOS):*
+**[ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)**
+*from [tdscientist](https://github.com/tdscientist):*
 > *iOS custom view to display books on shelf* 
 
 
@@ -223,8 +223,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)
-*from [yacir](https://github.com/yacir/CollectionViewSlantedLayout):*
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)**
+*from [yacir](https://github.com/yacir):*
 > *UICollectionViewLayout to display slanted content* 
 
 
@@ -232,8 +232,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)
-*from [AfrozZaheer](https://github.com/AfrozZaheer/AZCollectionViewController):*
+**[AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)**
+*from [AfrozZaheer](https://github.com/AfrozZaheer):*
 > * Easy way to integrate pagination with dummy views in CollectionView, make Instagram "Discover" within minutes.* 
 
 
@@ -241,8 +241,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MosaicLayout](https://github.com/betzerra/MosaicLayout)
-*from [betzerra](https://github.com/betzerra/MosaicLayout):*
+**[MosaicLayout](https://github.com/betzerra/MosaicLayout)**
+*from [betzerra](https://github.com/betzerra):*
 > *MosaicLayout using UICollectionViews* 
 
 
@@ -250,14 +250,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)
-*from [ra1028](https://github.com/ra1028/RAReorderableLayout):*
+**[RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)**
+*from [ra1028](https://github.com/ra1028):*
 > *A UICollectionView layout whitch can move item with drag and drop.* 
 
 
 ## PageControl
-### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
-*from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
+*from [TBXark](https://github.com/TBXark):*
 > *A rubber animation pagecontrol* 
 
 
@@ -265,26 +265,26 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)
-*from [shima11](https://github.com/shima11/FlexiblePageControl):*
+**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)**
+*from [shima11](https://github.com/shima11):*
 > *A flexible UIPageControl like Instagram.* 
 
 
 ## MediaPlayer
-### [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions/PandoraPlayer):*
+**[PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)**
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
 > *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
 
 
 ## Rating
-### [FloatRatingView](https://github.com/glenyi/FloatRatingView)
-*from [glenyi](https://github.com/glenyi/FloatRatingView):*
+**[FloatRatingView](https://github.com/glenyi/FloatRatingView)**
+*from [glenyi](https://github.com/glenyi):*
 > *Whole, half or floating point ratings control written in Swift* 
 
 
 ## Animation
-### [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
-*from [WorldDownTown](https://github.com/WorldDownTown/ZoomTransitioning):*
+**[ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)**
+*from [WorldDownTown](https://github.com/WorldDownTown):*
 > *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
 
 
@@ -292,8 +292,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)
-*from [marty-suzuki](https://github.com/marty-suzuki/SABlurImageView):*
+**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
 > *You can use blur effect and it's animation easily to call only two methods.* 
 
 
@@ -301,8 +301,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)
-*from [digital-horizon](https://github.com/digital-horizon/RoundCoachMark):*
+**[RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)**
+*from [digital-horizon](https://github.com/digital-horizon):*
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
 
 
@@ -310,8 +310,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Hero](https://github.com/HeroTransitions/Hero)
-*from [HeroTransitions](https://github.com/HeroTransitions/Hero):*
+**[Hero](https://github.com/HeroTransitions/Hero)**
+*from [HeroTransitions](https://github.com/HeroTransitions):*
 > *Elegant transition library for iOS & tvOS* 
 
 
@@ -319,8 +319,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Comets](https://github.com/cruisediary/Comets)
-*from [cruisediary](https://github.com/cruisediary/Comets):*
+**[Comets](https://github.com/cruisediary/Comets)**
+*from [cruisediary](https://github.com/cruisediary):*
 > *☄️Comets: Animating Particles in Swift* 
 
 
@@ -328,8 +328,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
-*from [cristi-lupu](https://github.com/cristi-lupu/CLWaterWaveView):*
+**[CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)**
+*from [cristi-lupu](https://github.com/cristi-lupu):*
 > *A UIView what able to show water wave effect* 
 
 
@@ -337,8 +337,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [garland-view](https://github.com/Ramotion/garland-view)
-*from [Ramotion](https://github.com/Ramotion/garland-view):*
+**[garland-view](https://github.com/Ramotion/garland-view)**
+*from [Ramotion](https://github.com/Ramotion):*
 > *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
 
 
@@ -346,8 +346,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Transition](https://github.com/Touchwonders/Transition)
-*from [Touchwonders](https://github.com/Touchwonders/Transition):*
+**[Transition](https://github.com/Touchwonders/Transition)**
+*from [Touchwonders](https://github.com/Touchwonders):*
 > *Easy interactive interruptible custom ViewController transitions* 
 
 
@@ -355,8 +355,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Shiny](https://github.com/efremidze/Shiny)
-*from [efremidze](https://github.com/efremidze/Shiny):*
+**[Shiny](https://github.com/efremidze/Shiny)**
+*from [efremidze](https://github.com/efremidze):*
 > *Iridescent Effect View (inspired by Apple Pay Cash) ✨* 
 
 
@@ -364,8 +364,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Twinkle](https://github.com/piemonte/Twinkle)
-*from [piemonte](https://github.com/piemonte/Twinkle):*
+**[Twinkle](https://github.com/piemonte/Twinkle)**
+*from [piemonte](https://github.com/piemonte):*
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift* 
 
 
@@ -373,8 +373,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)
-*from [ChiliLabs](https://github.com/ChiliLabs/CHIPageControl):*
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)**
+*from [ChiliLabs](https://github.com/ChiliLabs):*
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.* 
 
 
@@ -382,8 +382,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BubbleTransition](https://github.com/andreamazz/BubbleTransition)
-*from [andreamazz](https://github.com/andreamazz/BubbleTransition):*
+**[BubbleTransition](https://github.com/andreamazz/BubbleTransition)**
+*from [andreamazz](https://github.com/andreamazz):*
 > *A custom modal transition that presents and dismiss a controller with an expanding bubble effect.* 
 
 
@@ -391,8 +391,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)
-*from [shu223](https://github.com/shu223/AnimatedTransitionGallery):*
+**[AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)**
+*from [shu223](https://github.com/shu223):*
 > *A gallery app of custom animated transitions for iOS.* 
 
 
@@ -400,8 +400,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
-*from [callumboddy](https://github.com/callumboddy/CBZSplashView):*
+**[CBZSplashView](https://github.com/callumboddy/CBZSplashView)**
+*from [callumboddy](https://github.com/callumboddy):*
 > *Twitter style Splash Screen View. Grows to reveal the Initial view behind* 
 
 
@@ -409,8 +409,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [JazzHands](https://github.com/IFTTT/JazzHands)
-*from [IFTTT](https://github.com/IFTTT/JazzHands):*
+**[JazzHands](https://github.com/IFTTT/JazzHands)**
+*from [IFTTT](https://github.com/IFTTT):*
 > *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.* 
 
 
@@ -418,8 +418,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [PulsingHalo](https://github.com/shu223/PulsingHalo)
-*from [shu223](https://github.com/shu223/PulsingHalo):*
+**[PulsingHalo](https://github.com/shu223/PulsingHalo)**
+*from [shu223](https://github.com/shu223):*
 > *iOS Component for creating a pulsing animation.* 
 
 
@@ -427,8 +427,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit)
-*from [daltoniam](https://github.com/daltoniam/DCAnimationKit):*
+**[DCAnimationKit](https://github.com/daltoniam/DCAnimationKit)**
+*from [daltoniam](https://github.com/daltoniam):*
 > *A collection of animations for iOS. Simple, just add water animations.* 
 
 
@@ -436,8 +436,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [WobbleView](https://github.com/inFullMobile/WobbleView)
-*from [inFullMobile](https://github.com/inFullMobile/WobbleView):*
+**[WobbleView](https://github.com/inFullMobile/WobbleView)**
+*from [inFullMobile](https://github.com/inFullMobile):*
 > *null* 
 
 
@@ -445,8 +445,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RZTransitions](https://github.com/Raizlabs/RZTransitions)
-*from [Raizlabs](https://github.com/Raizlabs/RZTransitions):*
+**[RZTransitions](https://github.com/Raizlabs/RZTransitions)**
+*from [Raizlabs](https://github.com/Raizlabs):*
 > *A library of custom iOS View Controller Animations and Interactions.* 
 
 
@@ -454,14 +454,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)
-*from [andreamazz](https://github.com/andreamazz/UITextField-Shake):*
+**[UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)**
+*from [andreamazz](https://github.com/andreamazz):*
 > *UITextField category that adds shake animation* 
 
 
 ## Progress
-### [ARSLineProgress](https://github.com/soberman/ARSLineProgress)
-*from [soberman](https://github.com/soberman/ARSLineProgress):*
+**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
+*from [soberman](https://github.com/soberman):*
 > *iOS progress bar, replacement for the default activity indicator.* 
 
 
@@ -469,8 +469,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)
-*from [simformsolutions](https://github.com/simformsolutions/SSSpinnerButton):*
+**[SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)**
+*from [simformsolutions](https://github.com/simformsolutions):*
 > *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
 
 
@@ -478,8 +478,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
-*from [keygx](https://github.com/keygx/GradientCircularProgress):*
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)**
+*from [keygx](https://github.com/keygx):*
 > *Customizable progress indicator library in Swift* 
 
 
@@ -487,8 +487,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [DockProgress](https://github.com/sindresorhus/DockProgress)
-*from [sindresorhus](https://github.com/sindresorhus/DockProgress):*
+**[DockProgress](https://github.com/sindresorhus/DockProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
 > *Show progress in your app's Dock icon* 
 
 
@@ -496,8 +496,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CircularProgress](https://github.com/sindresorhus/CircularProgress)
-*from [sindresorhus](https://github.com/sindresorhus/CircularProgress):*
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
 > *Circular progress indicator for your macOS app* 
 
 
@@ -505,8 +505,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RSLoadingView](https://github.com/roytornado/RSLoadingView)
-*from [roytornado](https://github.com/roytornado/RSLoadingView):*
+**[RSLoadingView](https://github.com/roytornado/RSLoadingView)**
+*from [roytornado](https://github.com/roytornado):*
 > *Awesome loading animations using 3D engine written with Swift* 
 
 
@@ -514,8 +514,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RetroProgress](https://github.com/hyperoslo/RetroProgress)
-*from [hyperoslo](https://github.com/hyperoslo/RetroProgress):*
+**[RetroProgress](https://github.com/hyperoslo/RetroProgress)**
+*from [hyperoslo](https://github.com/hyperoslo):*
 > *💈 Retro looking progress bar straight from the 90s* 
 
 
@@ -523,8 +523,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MRProgress](https://github.com/mrackwitz/MRProgress)
-*from [mrackwitz](https://github.com/mrackwitz/MRProgress):*
+**[MRProgress](https://github.com/mrackwitz/MRProgress)**
+*from [mrackwitz](https://github.com/mrackwitz):*
 > *Collection of iOS drop-in components to visualize progress* 
 
 
@@ -532,8 +532,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [GaugeKit](https://github.com/skywinder/GaugeKit)
-*from [skywinder](https://github.com/skywinder/GaugeKit):*
+**[GaugeKit](https://github.com/skywinder/GaugeKit)**
+*from [skywinder](https://github.com/skywinder):*
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.* 
 
 
@@ -541,8 +541,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-*from [ninjaprox](https://github.com/ninjaprox/NVActivityIndicatorView):*
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
+*from [ninjaprox](https://github.com/ninjaprox):*
 > *A collection of awesome loading animations* 
 
 
@@ -550,8 +550,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)
-*from [uzysjung](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh):*
+**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)**
+*from [uzysjung](https://github.com/uzysjung):*
 > *Add PullToRefresh using animated GIF to any scrollView with just simple code* 
 
 
@@ -559,8 +559,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)
-*from [elbryan](https://github.com/elbryan/FFCircularProgressView):*
+**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)**
+*from [elbryan](https://github.com/elbryan):*
 > *FFCircularProgressView - An iOS 7-inspired blue circular progress view* 
 
 
@@ -568,14 +568,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)
-*from [Marxon13](https://github.com/Marxon13/M13ProgressSuite):*
+**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
+*from [Marxon13](https://github.com/Marxon13):*
 > *A suite containing many tools to display progress information on iOS.* 
 
 
 ## ImageView
-### [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
-*from [gkye](https://github.com/gkye/ComplimentaryGradientView):*
+**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
+*from [gkye](https://github.com/gkye):*
 > *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
 
 
@@ -583,8 +583,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [URWeatherView](https://github.com/jegumhon/URWeatherView)
-*from [jegumhon](https://github.com/jegumhon/URWeatherView):*
+**[URWeatherView](https://github.com/jegumhon/URWeatherView)**
+*from [jegumhon](https://github.com/jegumhon):*
 > *Show the weather effects onto view written in Swift3* 
 
 
@@ -592,8 +592,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [InitialsImageView](https://github.com/bachonk/InitialsImageView)
-*from [bachonk](https://github.com/bachonk/InitialsImageView):*
+**[InitialsImageView](https://github.com/bachonk/InitialsImageView)**
+*from [bachonk](https://github.com/bachonk):*
 > *A simple UIImageView extension for using initials as a profile image, written in swift* 
 
 
@@ -601,8 +601,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Lightbox](https://github.com/hyperoslo/Lightbox)
-*from [hyperoslo](https://github.com/hyperoslo/Lightbox):*
+**[Lightbox](https://github.com/hyperoslo/Lightbox)**
+*from [hyperoslo](https://github.com/hyperoslo):*
 > *:milky_way: A convenient and easy to use image viewer for your iOS app* 
 
 
@@ -610,8 +610,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)
-*from [Flipboard](https://github.com/Flipboard/FLAnimatedImage):*
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
+*from [Flipboard](https://github.com/Flipboard):*
 > *Performant animated GIF engine for iOS* 
 
 
@@ -619,8 +619,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)
-*from [EddyBorja](https://github.com/EddyBorja/EBPhotoPages):*
+**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)**
+*from [EddyBorja](https://github.com/EddyBorja):*
 > *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.* 
 
 
@@ -628,14 +628,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)
-*from [autresphere](https://github.com/autresphere/ASMediaFocusManager):*
+**[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
+*from [autresphere](https://github.com/autresphere):*
 > *iOS library to animate your image and video thumbnails to fullscreen.* 
 
 
 ## Menu
-### [PopMenu](https://github.com/CaliCastle/PopMenu)
-*from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
+**[PopMenu](https://github.com/CaliCastle/PopMenu)**
+*from [CaliCastle](https://github.com/CaliCastle):*
 > *A cool and customizable popup style action sheet for iOS 😎* 
 
 
@@ -643,8 +643,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
-*from [Yalantis](https://github.com/Yalantis/GuillotineMenu):*
+**[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)**
+*from [Yalantis](https://github.com/Yalantis):*
 > *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
 
 
@@ -652,8 +652,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController)
-*from [yysskk](https://github.com/yysskk/SwipeMenuViewController):*
+**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController)**
+*from [yysskk](https://github.com/yysskk):*
 > *Swipable tab and menu View and ViewController.* 
 
 
@@ -661,8 +661,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [XLActionController](https://github.com/xmartlabs/XLActionController)
-*from [xmartlabs](https://github.com/xmartlabs/XLActionController):*
+**[XLActionController](https://github.com/xmartlabs/XLActionController)**
+*from [xmartlabs](https://github.com/xmartlabs):*
 > *Fully customizable and extensible action sheet controller written in Swift* 
 
 
@@ -670,8 +670,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)
-*from [younatics](https://github.com/younatics/YNDropDownMenu):*
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)**
+*from [younatics](https://github.com/younatics):*
 > *✨ Awesome Dropdown menu for iOS with Swift 4* 
 
 
@@ -679,8 +679,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Panels](https://github.com/antoniocasero/Panels)
-*from [antoniocasero](https://github.com/antoniocasero/Panels):*
+**[Panels](https://github.com/antoniocasero/Panels)**
+*from [antoniocasero](https://github.com/antoniocasero):*
 > *Panels is a framework to easily add sliding panels to your application* 
 
 
@@ -688,8 +688,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SideMenu](https://github.com/jonkykong/SideMenu)
-*from [jonkykong](https://github.com/jonkykong/SideMenu):*
+**[SideMenu](https://github.com/jonkykong/SideMenu)**
+*from [jonkykong](https://github.com/jonkykong):*
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.* 
 
 
@@ -697,8 +697,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MediumMenu](https://github.com/pixyzehn/MediumMenu)
-*from [pixyzehn](https://github.com/pixyzehn/MediumMenu):*
+**[MediumMenu](https://github.com/pixyzehn/MediumMenu)**
+*from [pixyzehn](https://github.com/pixyzehn):*
 > *A menu based on Medium iOS app.* 
 
 
@@ -706,8 +706,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Hexacon](https://github.com/gautier-gdx/Hexacon)
-*from [gautier-gdx](https://github.com/gautier-gdx/Hexacon):*
+**[Hexacon](https://github.com/gautier-gdx/Hexacon)**
+*from [gautier-gdx](https://github.com/gautier-gdx):*
 > *A fancy hexagonal layout for displaying data like your Apple Watch* 
 
 
@@ -715,8 +715,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
-*from [evnaz](https://github.com/evnaz/ENSwiftSideMenu):*
+**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)**
+*from [evnaz](https://github.com/evnaz):*
 > *A simple side menu for iOS written in Swift. * 
 
 
@@ -724,8 +724,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
-*from [xmartlabs](https://github.com/xmartlabs/XLPagerTabStrip):*
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)**
+*from [xmartlabs](https://github.com/xmartlabs):*
 > *Android PagerTabStrip for iOS.* 
 
 
@@ -733,8 +733,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen)
-*from [pixyzehn](https://github.com/pixyzehn/MediumScrollFullScreen):*
+**[MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen)**
+*from [pixyzehn](https://github.com/pixyzehn):*
 > *Medium's upper and lower Menu in Scroll.* 
 
 
@@ -742,8 +742,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu)
-*from [ashishkakkad8](https://github.com/ashishkakkad8/AKSwiftSlideMenu):*
+**[AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu)**
+*from [ashishkakkad8](https://github.com/ashishkakkad8):*
 > *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11* 
 
 
@@ -751,8 +751,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RESideMenu](https://github.com/romaonthego/RESideMenu)
-*from [romaonthego](https://github.com/romaonthego/RESideMenu):*
+**[RESideMenu](https://github.com/romaonthego/RESideMenu)**
+*from [romaonthego](https://github.com/romaonthego):*
 > *iOS 7/8 style side menu with parallax effect.* 
 
 
@@ -760,8 +760,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [cariocamenu](https://github.com/arn00s/cariocamenu)
-*from [arn00s](https://github.com/arn00s/cariocamenu):*
+**[cariocamenu](https://github.com/arn00s/cariocamenu)**
+*from [arn00s](https://github.com/arn00s):*
 > *The fastest zero-tap iOS menu.* 
 
 
@@ -769,8 +769,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
-*from [romaonthego](https://github.com/romaonthego/REFrostedViewController):*
+**[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)**
+*from [romaonthego](https://github.com/romaonthego):*
 > *iOS 7/8 style blurred view controller that appears on top of your view controller.* 
 
 
@@ -778,8 +778,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)
-*from [twotoasters](https://github.com/twotoasters/TWTSideMenuViewController):*
+**[TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)**
+*from [twotoasters](https://github.com/twotoasters):*
 > *Side Menus for iOS 7* 
 
 
@@ -787,14 +787,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)
-*from [arturdev](https://github.com/arturdev/AMSlideMenu):*
+**[AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)**
+*from [arturdev](https://github.com/arturdev):*
 > *Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.* 
 
 
 ## BlurEffect
-### [ForceBlur](https://github.com/Yalantis/ForceBlur)
-*from [Yalantis](https://github.com/Yalantis/ForceBlur):*
+**[ForceBlur](https://github.com/Yalantis/ForceBlur)**
+*from [Yalantis](https://github.com/Yalantis):*
 > *ForceBlur Animation for iOS Messaging Apps* 
 
 
@@ -802,20 +802,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [VisualEffectView](https://github.com/efremidze/VisualEffectView)
-*from [efremidze](https://github.com/efremidze/VisualEffectView):*
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView)**
+*from [efremidze](https://github.com/efremidze):*
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
 
 
 ## Chart
-### [JYRadarChart](https://github.com/johnnywjy/JYRadarChart)
-*from [johnnywjy](https://github.com/johnnywjy/JYRadarChart):*
+**[JYRadarChart](https://github.com/johnnywjy/JYRadarChart)**
+*from [johnnywjy](https://github.com/johnnywjy):*
 > *an iOS open source Radar Chart implementation* 
 
 
 ## Calendar
-### [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)
-*from [kf99916](https://github.com/kf99916/TimelineTableViewCell):*
+**[TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell)**
+*from [kf99916](https://github.com/kf99916):*
 > *Simple timeline view implemented by UITableViewCell* 
 
 
@@ -823,8 +823,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker)
-*from [itsmeichigo](https://github.com/itsmeichigo/DateTimePicker):*
+**[DateTimePicker](https://github.com/itsmeichigo/DateTimePicker)**
+*from [itsmeichigo](https://github.com/itsmeichigo):*
 > *A nicer iOS UI component for picking date and time* 
 
 
@@ -832,8 +832,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Workaholic](https://github.com/hemangshah/Workaholic)
-*from [hemangshah](https://github.com/hemangshah/Workaholic):*
+**[Workaholic](https://github.com/hemangshah/Workaholic)**
+*from [hemangshah](https://github.com/hemangshah):*
 > *A Github's like work contribution timeline. 🤸🏻* 
 
 
@@ -841,8 +841,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CalendarKit](https://github.com/richardtop/CalendarKit)
-*from [richardtop](https://github.com/richardtop/CalendarKit):*
+**[CalendarKit](https://github.com/richardtop/CalendarKit)**
+*from [richardtop](https://github.com/richardtop):*
 > *📅 Fully customizable calendar for iOS* 
 
 
@@ -850,8 +850,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [JTCalendar](https://github.com/jonathantribouharet/JTCalendar)
-*from [jonathantribouharet](https://github.com/jonathantribouharet/JTCalendar):*
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar)**
+*from [jonathantribouharet](https://github.com/jonathantribouharet):*
 > *A customizable calendar view for iOS.* 
 
 
@@ -859,14 +859,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FSCalendar](https://github.com/WenchaoIOS/FSCalendar)
-*from [WenchaoD](https://github.com/WenchaoD/FSCalendar):*
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar)**
+*from [WenchaoD](https://github.com/WenchaoD):*
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift* 
 
 
 ## Introduction
-### [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
-*from [SvenTiigi](https://github.com/SvenTiigi/WhatsNewKit):*
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)**
+*from [SvenTiigi](https://github.com/SvenTiigi):*
 > *Showcase your awesome new app features 📱* 
 
 
@@ -874,8 +874,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough)
-*from [ruipfcosta](https://github.com/ruipfcosta/SwiftyWalkthrough):*
+**[SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough)**
+*from [ruipfcosta](https://github.com/ruipfcosta):*
 > *The easiest way to create a great walkthrough experience in your apps, powered by Swift.* 
 
 
@@ -883,8 +883,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BWWalkthrough](https://github.com/ariok/BWWalkthrough)
-*from [ariok](https://github.com/ariok/BWWalkthrough):*
+**[BWWalkthrough](https://github.com/ariok/BWWalkthrough)**
+*from [ariok](https://github.com/ariok):*
 > *BWWalkthrough is a class to build custom walkthroughs for your iOS App* 
 
 
@@ -892,8 +892,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView)
-*from [aleksandrshoshiashvili](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView):*
+**[AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView)**
+*from [aleksandrshoshiashvili](https://github.com/aleksandrshoshiashvili):*
 > *Awesome tool for create tutorial walkthrough or coach tour* 
 
 
@@ -901,8 +901,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
-*from [MatthewYork](https://github.com/MatthewYork/MYBlurIntroductionView):*
+**[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)**
+*from [MatthewYork](https://github.com/MatthewYork):*
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.* 
 
 
@@ -910,20 +910,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Onboard](https://github.com/mamaral/Onboard)
-*from [mamaral](https://github.com/mamaral/Onboard):*
+**[Onboard](https://github.com/mamaral/Onboard)**
+*from [mamaral](https://github.com/mamaral):*
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.* 
 
 
 ## Shadow
-### [ShadowView](https://github.com/PierrePerrin/ShadowView)
-*from [PierrePerrin](https://github.com/PierrePerrin/ShadowView):*
+**[ShadowView](https://github.com/PierrePerrin/ShadowView)**
+*from [PierrePerrin](https://github.com/PierrePerrin):*
 > *An iOS Library that makes shadows management easy on UIView.* 
 
 
 ## TextField
-### [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
-*from [Skyscanner](https://github.com/Skyscanner/SkyFloatingLabelTextField):*
+**[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)**
+*from [Skyscanner](https://github.com/Skyscanner):*
 > *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
 
 
@@ -931,8 +931,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Translucid](https://github.com/Ekhoo/Translucid)
-*from [Ekhoo](https://github.com/Ekhoo/Translucid):*
+**[Translucid](https://github.com/Ekhoo/Translucid)**
+*from [Ekhoo](https://github.com/Ekhoo):*
 > *Lightweight library to set an Image as text background. Written in swift.* 
 
 
@@ -940,8 +940,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [NumberMorphView](https://github.com/me-abhinav/NumberMorphView)
-*from [me-abhinav](https://github.com/me-abhinav/NumberMorphView):*
+**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)**
+*from [me-abhinav](https://github.com/me-abhinav):*
 > *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.* 
 
 
@@ -949,8 +949,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FloatLabelFields](https://github.com/FahimF/FloatLabelFields)
-*from [FahimF](https://github.com/FahimF/FloatLabelFields):*
+**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields)**
+*from [FahimF](https://github.com/FahimF):*
 > *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.* 
 
 
@@ -958,8 +958,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [DTTextField](https://github.com/iDhaval/DTTextField)
-*from [iDhaval](https://github.com/iDhaval/DTTextField):*
+**[DTTextField](https://github.com/iDhaval/DTTextField)**
+*from [iDhaval](https://github.com/iDhaval):*
 > *DTTextField is a custom textfield with floating placeholder and error label* 
 
 
@@ -967,8 +967,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
-*from [suzuki-0000](https://github.com/suzuki-0000/CountdownLabel):*
+**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
 > *Simple countdown UILabel with morphing animation, and some useful function.* 
 
 
@@ -976,8 +976,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [WSTagsField](https://github.com/whitesmith/WSTagsField)
-*from [whitesmith](https://github.com/whitesmith/WSTagsField):*
+**[WSTagsField](https://github.com/whitesmith/WSTagsField)**
+*from [whitesmith](https://github.com/whitesmith):*
 > *An iOS text field that represents different Tags* 
 
 
@@ -985,8 +985,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)
-*from [Fawxy](https://github.com/Fawxy/CBPinEntryView):*
+**[CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)**
+*from [Fawxy](https://github.com/Fawxy):*
 > *A customisable view for entering arbitrary length numerical pins or codes in iOS.* 
 
 
@@ -994,8 +994,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)
-*from [jogendra](https://github.com/jogendra/AnimatedMaskLabel):*
+**[AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)**
+*from [jogendra](https://github.com/jogendra):*
 > *Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.* 
 
 
@@ -1003,8 +1003,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [HTYTextField](https://github.com/hanton/HTYTextField)
-*from [hanton](https://github.com/hanton/HTYTextField):*
+**[HTYTextField](https://github.com/hanton/HTYTextField)**
+*from [hanton](https://github.com/hanton):*
 > *A UITextField with bouncy placeholder. * 
 
 
@@ -1012,8 +1012,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RKRichTextView](https://github.com/ren6/RKRichTextView)
-*from [ren6](https://github.com/ren6/RKRichTextView):*
+**[RKRichTextView](https://github.com/ren6/RKRichTextView)**
+*from [ren6](https://github.com/ren6):*
 > *Rich Text Editor for iOS* 
 
 
@@ -1021,14 +1021,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RichEditorView](https://github.com/cjwirth/RichEditorView)
-*from [cjwirth](https://github.com/cjwirth/RichEditorView):*
+**[RichEditorView](https://github.com/cjwirth/RichEditorView)**
+*from [cjwirth](https://github.com/cjwirth):*
 > *RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.* 
 
 
 ## Map
-### [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)
-*from [SvenTiigi](https://github.com/SvenTiigi/STLocationRequest):*
+**[STLocationRequest](https://github.com/SvenTiigi/STLocationRequest)**
+*from [SvenTiigi](https://github.com/SvenTiigi):*
 > *Request the Location Services via a 3D 360° flyover MKMapView 🗺* 
 
 
@@ -1036,14 +1036,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
-*from [SvenTiigi](https://github.com/SvenTiigi/FlyoverKit):*
+**[FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)**
+*from [SvenTiigi](https://github.com/SvenTiigi):*
 > *360° flyover on an MKMapView 🚁* 
 
 
 ## TabBar
-### [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
-*from [cwRichardKim](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers):*
+**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
 > *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
 
 
@@ -1051,8 +1051,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
-*from [telly](https://github.com/telly/TLYShyNavBar):*
+**[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)**
+*from [telly](https://github.com/telly):*
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
 
 
@@ -1060,8 +1060,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)
-*from [Ramotion](https://github.com/Ramotion/animated-tab-bar):*
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)**
+*from [Ramotion](https://github.com/Ramotion):*
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion* 
 
 
@@ -1069,8 +1069,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Tabman](https://github.com/uias/Tabman)
-*from [uias](https://github.com/uias/Tabman):*
+**[Tabman](https://github.com/uias/Tabman)**
+*from [uias](https://github.com/uias):*
 > *™️ A powerful paging view controller with tab bar.* 
 
 
@@ -1078,8 +1078,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [VBRRollingPit](https://github.com/v-braun/VBRRollingPit)
-*from [v-braun](https://github.com/v-braun/VBRRollingPit):*
+**[VBRRollingPit](https://github.com/v-braun/VBRRollingPit)**
+*from [v-braun](https://github.com/v-braun):*
 > *Simple, beatiful and interactive UITabBar* 
 
 
@@ -1087,8 +1087,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)
-*from [Yalantis](https://github.com/Yalantis/FoldingTabBar.iOS):*
+**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)**
+*from [Yalantis](https://github.com/Yalantis):*
 > *Folding Tab Bar and Tab Bar Controller* 
 
 
@@ -1096,8 +1096,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)
-*from [bfeher](https://github.com/bfeher/BFPaperTabBarController):*
+**[BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)**
+*from [bfeher](https://github.com/bfeher):*
 > *iOS UITabBar (controller) inspired by Google's Paper Material Design.* 
 
 
@@ -1105,20 +1105,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)
-*from [jamesdunay](https://github.com/jamesdunay/MinimalTabBar):*
+**[MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)**
+*from [jamesdunay](https://github.com/jamesdunay):*
 > *null* 
 
 
 ## Style
-### [NightNight](https://github.com/Draveness/NightNight)
-*from [Draveness](https://github.com/Draveness/NightNight):*
+**[NightNight](https://github.com/Draveness/NightNight)**
+*from [Draveness](https://github.com/Draveness):*
 > *Elegant way to integrate night mode to swift projects* 
 
 
 ## Cards
-### [Koloda](https://github.com/Yalantis/Koloda)
-*from [Yalantis](https://github.com/Yalantis/Koloda):*
+**[Koloda](https://github.com/Yalantis/Koloda)**
+*from [Yalantis](https://github.com/Yalantis):*
 > *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
 
 
@@ -1126,8 +1126,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Cards](https://github.com/PaoloCuscela/Cards)
-*from [PaoloCuscela](https://github.com/PaoloCuscela/Cards):*
+**[Cards](https://github.com/PaoloCuscela/Cards)**
+*from [PaoloCuscela](https://github.com/PaoloCuscela):*
 > *Awesome iOS 11 appstore cards in swift 4.* 
 
 
@@ -1135,8 +1135,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)
-*from [JoniVR](https://github.com/JoniVR/VerticalCardSwiper):*
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
+*from [JoniVR](https://github.com/JoniVR):*
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
 
 
@@ -1144,14 +1144,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Wallet](https://github.com/rshevchuk/Wallet)
-*from [rshevchuk](https://github.com/rshevchuk/Wallet):*
+**[Wallet](https://github.com/rshevchuk/Wallet)**
+*from [rshevchuk](https://github.com/rshevchuk):*
 > *Wallet is a library to manage cards and passes.* 
 
 
 ## TableView
-### [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
-*from [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit):*
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)**
+*from [SwipeCellKit](https://github.com/SwipeCellKit):*
 > *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
 
 
@@ -1159,8 +1159,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SwiftyComments](https://github.com/tsucres/SwiftyComments)
-*from [tsucres](https://github.com/tsucres/SwiftyComments):*
+**[SwiftyComments](https://github.com/tsucres/SwiftyComments)**
+*from [tsucres](https://github.com/tsucres):*
 > *UITableView based component designed to display a hierarchy of expandable/foldable comments.* 
 
 
@@ -1168,8 +1168,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [YNExpandableCell](https://github.com/younatics/YNExpandableCell)
-*from [younatics](https://github.com/younatics/YNExpandableCell):*
+**[YNExpandableCell](https://github.com/younatics/YNExpandableCell)**
+*from [younatics](https://github.com/younatics):*
 > *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4* 
 
 
@@ -1177,8 +1177,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)
-*from [bitwit](https://github.com/bitwit/BWSwipeRevealCell):*
+**[BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)**
+*from [bitwit](https://github.com/bitwit):*
 > *A Swift library for swipeable table cells* 
 
 
@@ -1186,8 +1186,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)
-*from [marty-suzuki](https://github.com/marty-suzuki/URLEmbeddedView):*
+**[URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
 > *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.* 
 
 
@@ -1195,8 +1195,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions/VegaScroll):*
+**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)**
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.* 
 
 
@@ -1204,8 +1204,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [folding-cell](https://github.com/Ramotion/folding-cell)
-*from [Ramotion](https://github.com/Ramotion/folding-cell):*
+**[folding-cell](https://github.com/Ramotion/folding-cell)**
+*from [Ramotion](https://github.com/Ramotion):*
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion* 
 
 
@@ -1213,8 +1213,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)
-*from [marty-suzuki](https://github.com/marty-suzuki/SAParallaxViewControllerSwift):*
+**[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
 > *SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.* 
 
 
@@ -1222,8 +1222,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [SlackTextViewController](https://github.com/slackhq/SlackTextViewController)
-*from [slackhq](https://github.com/slackhq/SlackTextViewController):*
+**[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**
+*from [slackhq](https://github.com/slackhq):*
 > *A drop-in UIViewController subclass with a growing text input view and other useful messaging features* 
 
 
@@ -1231,14 +1231,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MPSkewed](https://github.com/MP0w/MPSkewed)
-*from [MP0w](https://github.com/MP0w/MPSkewed):*
+**[MPSkewed](https://github.com/MP0w/MPSkewed)**
+*from [MP0w](https://github.com/MP0w):*
 > *An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images * 
 
 
 ## PullToRefresh
-### [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup)
-*from [Yalantis](https://github.com/Yalantis/PullToMakeSoup):*
+**[PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup)**
+*from [Yalantis](https://github.com/Yalantis):*
 > *Custom animated pull-to-refresh that can be easily added to UIScrollView* 
 
 
@@ -1246,8 +1246,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh)
-*from [dasdom](https://github.com/dasdom/BreakOutToRefresh):*
+**[BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh)**
+*from [dasdom](https://github.com/dasdom):*
 > *Play BreakOut while loading - A playable pull to refresh view using SpriteKit* 
 
 
@@ -1255,8 +1255,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController)
-*from [matteogobbi](https://github.com/matteogobbi/MGSpotyViewController):*
+**[MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController)**
+*from [matteogobbi](https://github.com/matteogobbi):*
 > *Beautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.* 
 
 
@@ -1264,8 +1264,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BOZPongRefreshControl](https://github.com/boztalay/BOZPongRefreshControl)
-*from [boztalay](https://github.com/boztalay/BOZPongRefreshControl):*
+**[BOZPongRefreshControl](https://github.com/boztalay/BOZPongRefreshControl)**
+*from [boztalay](https://github.com/boztalay):*
 > *A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app* 
 
 
@@ -1273,8 +1273,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)
-*from [coolbeet](https://github.com/coolbeet/CBStoreHouseRefreshControl):*
+**[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)**
+*from [coolbeet](https://github.com/coolbeet):*
 > *Fully customizable pull-to-refresh control inspired by Storehouse iOS app* 
 
 
@@ -1282,14 +1282,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)
-*from [cemolcay](https://github.com/cemolcay/PullToRefreshCoreText):*
+**[PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)**
+*from [cemolcay](https://github.com/cemolcay):*
 > *PullToRefresh extension for all UIScrollView type classes with animated text drawing style* 
 
 
 ## Toggle
-### [Switch](https://github.com/T-Pham/Switch)
-*from [T-Pham](https://github.com/T-Pham/Switch):*
+**[Switch](https://github.com/T-Pham/Switch)**
+*from [T-Pham](https://github.com/T-Pham):*
 > *An iOS switch control implemented in Swift with full Interface Builder support.* 
 
 
@@ -1297,14 +1297,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch)
-*from [JaleelNazir](https://github.com/JaleelNazir/MJMaterialSwitch):*
+**[MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch)**
+*from [JaleelNazir](https://github.com/JaleelNazir):*
 > *A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift* 
 
 
 ## Tags
-### [TagListView](https://github.com/ElaWorkshop/TagListView)
-*from [ElaWorkshop](https://github.com/ElaWorkshop/TagListView):*
+**[TagListView](https://github.com/ElaWorkshop/TagListView)**
+*from [ElaWorkshop](https://github.com/ElaWorkshop):*
 > *Simple and highly customizable iOS tag list view, in Swift.* 
 
 
@@ -1312,14 +1312,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)
-*from [optonaut](https://github.com/optonaut/ActiveLabel.swift):*
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)**
+*from [optonaut](https://github.com/optonaut):*
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift* 
 
 
 ## Button
-### [TransitionButton](https://github.com/AladinWay/TransitionButton)
-*from [AladinWay](https://github.com/AladinWay/TransitionButton):*
+**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
+*from [AladinWay](https://github.com/AladinWay):*
 > *UIButton sublass for loading and transition animation.* 
 
 
@@ -1327,8 +1327,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)
-*from [LeonardoCardoso](https://github.com/LeonardoCardoso/NFDownloadButton):*
+**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
+*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
 > *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
 
 
@@ -1336,8 +1336,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MultiToggleButton](https://github.com/yonat/MultiToggleButton)
-*from [yonat](https://github.com/yonat/MultiToggleButton):*
+**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
+*from [yonat](https://github.com/yonat):*
 > *Multiple state tap to toggle UIButton in Swift* 
 
 
@@ -1345,8 +1345,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [LGButton](https://github.com/loregr/LGButton)
-*from [loregr](https://github.com/loregr/LGButton):*
+**[LGButton](https://github.com/loregr/LGButton)**
+*from [loregr](https://github.com/loregr):*
 > *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
 
 
@@ -1354,14 +1354,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
-*from [okmr-d](https://github.com/okmr-d/DOFavoriteButton):*
+**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
+*from [okmr-d](https://github.com/okmr-d):*
 > *Cute Animated Button written in Swift.* 
 
 
 ## Notification
-### [PKHUD](https://github.com/pkluz/PKHUD)
-*from [pkluz](https://github.com/pkluz/PKHUD):*
+**[PKHUD](https://github.com/pkluz/PKHUD)**
+*from [pkluz](https://github.com/pkluz):*
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.* 
 
 
@@ -1369,8 +1369,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CFNotify](https://github.com/hallelujahbaby/CFNotify)
-*from [hallelujahbaby](https://github.com/hallelujahbaby/CFNotify):*
+**[CFNotify](https://github.com/hallelujahbaby/CFNotify)**
+*from [hallelujahbaby](https://github.com/hallelujahbaby):*
 > *A customizable framework to create draggable views* 
 
 
@@ -1378,8 +1378,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CDAlertView](https://github.com/candostdagdeviren/CDAlertView)
-*from [candostdagdeviren](https://github.com/candostdagdeviren/CDAlertView):*
+**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView)**
+*from [candostdagdeviren](https://github.com/candostdagdeviren):*
 > *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift* 
 
 
@@ -1387,8 +1387,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [CRToast](https://github.com/cruffenach/CRToast)
-*from [cruffenach](https://github.com/cruffenach/CRToast):*
+**[CRToast](https://github.com/cruffenach/CRToast)**
+*from [cruffenach](https://github.com/cruffenach):*
 > *A modern iOS toast view that can fit your notification needs* 
 
 
@@ -1396,8 +1396,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
-*from [atljeremy](https://github.com/atljeremy/JFMinimalNotifications):*
+**[JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)**
+*from [atljeremy](https://github.com/atljeremy):*
 > *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.* 
 
 
@@ -1405,8 +1405,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [TSMessages](https://github.com/KrauseFx/TSMessages)
-*from [KrauseFx](https://github.com/KrauseFx/TSMessages):*
+**[TSMessages](https://github.com/KrauseFx/TSMessages)**
+*from [KrauseFx](https://github.com/KrauseFx):*
 > *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot* 
 
 
@@ -1414,8 +1414,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)
-*from [LeoNatan](https://github.com/LeoNatan/LNNotificationsUI):*
+**[LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)**
+*from [LeoNatan](https://github.com/LeoNatan):*
 > *A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.* 
 
 
@@ -1423,8 +1423,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
-*from [terryworona](https://github.com/terryworona/TWMessageBarManager):*
+**[TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)**
+*from [terryworona](https://github.com/terryworona):*
 > *An iOS manager for presenting system-wide notifications via a dropdown message bar.* 
 
 
@@ -1432,8 +1432,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
-*from [cwRichardKim](https://github.com/cwRichardKim/RKDropdownAlert):*
+**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
 > *iOS / Objective C: an extremely simple UIAlertView alternative* 
 
 
@@ -1441,8 +1441,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)
-*from [cwRichardKim](https://github.com/cwRichardKim/RKNotificationHub):*
+**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
 > *Make any UIView a full fledged notification center* 
 
 
@@ -1450,20 +1450,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Notie](https://github.com/thii/Notie)
-*from [thii](https://github.com/thii/Notie):*
+**[Notie](https://github.com/thii/Notie)**
+*from [thii](https://github.com/thii):*
 > *In-app notification in Swift, with customizable buttons and input text field.* 
 
 
 ## Parallax
-### [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)
-*from [maxep](https://github.com/maxep/MXParallaxHeader):*
+**[MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)**
+*from [maxep](https://github.com/maxep):*
 > *Simple parallax header for UIScrollView* 
 
 
 ## Loading
-### [LiquidLoader](https://github.com/yoavlt/LiquidLoader)
-*from [yoavlt](https://github.com/yoavlt/LiquidLoader):*
+**[LiquidLoader](https://github.com/yoavlt/LiquidLoader)**
+*from [yoavlt](https://github.com/yoavlt):*
 > *Spinner loader components with liquid animation* 
 
 
@@ -1471,8 +1471,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [KALoader](https://github.com/Kirillzzy/KALoader)
-*from [Kirillzzy](https://github.com/Kirillzzy/KALoader):*
+**[KALoader](https://github.com/Kirillzzy/KALoader)**
+*from [Kirillzzy](https://github.com/Kirillzzy):*
 > *Beautiful animated placeholders for showing loading of data* 
 
 
@@ -1480,20 +1480,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [Windless](https://github.com/Interactive-Studio/Windless)
-*from [Interactive-Studio](https://github.com/Interactive-Studio/Windless):*
+**[Windless](https://github.com/Interactive-Studio/Windless)**
+*from [Interactive-Studio](https://github.com/Interactive-Studio):*
 > *Windless makes it easy to implement invisible layout loading view.* 
 
 
 ## RangeSelect
-### [fluid-slider](https://github.com/Ramotion/fluid-slider)
-*from [Ramotion](https://github.com/Ramotion/fluid-slider):*
+**[fluid-slider](https://github.com/Ramotion/fluid-slider)**
+*from [Ramotion](https://github.com/Ramotion):*
 > *:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion* 
 
 
 ## Picker
-### [reel-search](https://github.com/Ramotion/reel-search)
-*from [Ramotion](https://github.com/Ramotion/reel-search):*
+**[reel-search](https://github.com/Ramotion/reel-search)**
+*from [Ramotion](https://github.com/Ramotion):*
 > *:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion* 
 
 
@@ -1501,8 +1501,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [AGCircularPicker](https://github.com/agilie/AGCircularPicker)
-*from [agilie](https://github.com/agilie/AGCircularPicker):*
+**[AGCircularPicker](https://github.com/agilie/AGCircularPicker)**
+*from [agilie](https://github.com/agilie):*
 > *AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter* 
 
 
@@ -1510,14 +1510,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0)
-*from [skywinder](https://github.com/skywinder/ActionSheetPicker-3.0):*
+**[ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0)**
+*from [skywinder](https://github.com/skywinder):*
 > *Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.* 
 
 
 ## Material
-### [CardParts](https://github.com/intuit/CardParts)
-*from [intuit](https://github.com/intuit/CardParts):*
+**[CardParts](https://github.com/intuit/CardParts)**
+*from [intuit](https://github.com/intuit):*
 > *A reactive, card-based UI framework built on UIKit for iOS developers.* 
 
 
@@ -1525,8 +1525,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [TextFieldEffects](https://github.com/raulriera/TextFieldEffects)
-*from [raulriera](https://github.com/raulriera/TextFieldEffects):*
+**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects)**
+*from [raulriera](https://github.com/raulriera):*
 > *Custom UITextFields effects inspired by Codrops, built using Swift* 
 
 
@@ -1534,8 +1534,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
-*from [jverdi](https://github.com/jverdi/JVFloatLabeledTextField):*
+**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)**
+*from [jverdi](https://github.com/jverdi):*
 > *UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users* 
 
 
@@ -1543,14 +1543,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MaterialKit](https://github.com/nghialv/MaterialKit)
-*from [nghialv](https://github.com/nghialv/MaterialKit):*
+**[MaterialKit](https://github.com/nghialv/MaterialKit)**
+*from [nghialv](https://github.com/nghialv):*
 > *Material design components for iOS written in Swift* 
 
 
 ## Bar
-### [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
-*from [andreamazz](https://github.com/andreamazz/AMScrollingNavbar):*
+**[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)**
+*from [andreamazz](https://github.com/andreamazz):*
 > *Scrollable UINavigationBar that follows the scrolling of a UIScrollView* 
 
 
@@ -1558,44 +1558,44 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)
-*from [bryankeller](https://github.com/bryankeller/BLKFlexibleHeightBar):*
+**[BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)**
+*from [bryankeller](https://github.com/bryankeller):*
 > *Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.* 
 
 
 ## ScrollView
-### [DSDynamicScrollView](https://github.com/damirstuhec/DSDynamicScrollView)
-*from [damirstuhec](https://github.com/damirstuhec/DSDynamicScrollView):*
+**[DSDynamicScrollView](https://github.com/damirstuhec/DSDynamicScrollView)**
+*from [damirstuhec](https://github.com/damirstuhec):*
 > *iOS (Swift + Objective-C) component for building dynamic and animated UIScrollView.* 
 
 
 ## Dialog
-### [KLCPopup](https://github.com/jmascia/KLCPopup)
-*from [jmascia](https://github.com/jmascia/KLCPopup):*
+**[KLCPopup](https://github.com/jmascia/KLCPopup)**
+*from [jmascia](https://github.com/jmascia):*
 > *A simple and flexible class for presenting custom views as a popup in iOS.* 
 
 
 ## TreeView
-### [RATreeView](https://github.com/Augustyniak/RATreeView)
-*from [Augustyniak](https://github.com/Augustyniak/RATreeView):*
+**[RATreeView](https://github.com/Augustyniak/RATreeView)**
+*from [Augustyniak](https://github.com/Augustyniak):*
 > *Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.* 
 
 
 ## Navigation
-### [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)
-*from [marty-suzuki](https://github.com/marty-suzuki/SAHistoryNavigationViewController):*
+**[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
 > *SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!* 
 
 
 ## Gestures
-### [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact)
-*from [mentionapp](https://github.com/mentionapp/mntpulltoreact):*
+**[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact)**
+*from [mentionapp](https://github.com/mentionapp):*
 > *One gesture, many actions. An evolution of Pull to Refresh.* 
 
 
 ## Gallery
-### [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
-*from [mwaterfall](https://github.com/mwaterfall/MWPhotoBrowser):*
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)**
+*from [mwaterfall](https://github.com/mwaterfall):*
 > *A simple iOS photo and video browser with grid view, captions and selections.* 
 
 
@@ -1603,14 +1603,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery)
-*from [mariohahn](https://github.com/mariohahn/MHVideoPhotoGallery):*
+**[MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery)**
+*from [mariohahn](https://github.com/mariohahn):*
 > *A Photo and Video Gallery * 
 
 
 ## Video
-### [VideoSplashKit](https://github.com/movielala/VideoSplashKit)
-*from [svtek](https://github.com/svtek/VideoSplashKit):*
+**[VideoSplashKit](https://github.com/movielala/VideoSplashKit)**
+*from [svtek](https://github.com/svtek):*
 > *VideoSplashKit - UIViewController library for creating easy intro pages with background videos* 
 
 
@@ -1618,14 +1618,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit)
-*from [0xced](https://github.com/0xced/XCDYouTubeKit):*
+**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit)**
+*from [0xced](https://github.com/0xced):*
 > *YouTube video player for iOS, tvOS and macOS* 
 
 
 ## Badge
-### [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem)
-*from [TanguyAladenise](https://github.com/TanguyAladenise/BBBadgeBarButtonItem):*
+**[BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem)**
+*from [TanguyAladenise](https://github.com/TanguyAladenise):*
 > *A BarButtonItem with a badge on top.* 
 
 
@@ -1633,20 +1633,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 --------------------------
     
-    ### [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)
-*from [JaviSoto](https://github.com/JaviSoto/JSBadgeView):*
+**[JSBadgeView](https://github.com/JaviSoto/JSBadgeView)**
+*from [JaviSoto](https://github.com/JaviSoto):*
 > *Customizable UIKit badge view like the one on applications in the iOS springboard.* 
 
 
 ## Sticky
-### [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)
-*from [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout):*
+**[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)**
+*from [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout):*
 > *UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.* 
 
 
 ## RichText
-### [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
-*from [nnhubbard](https://github.com/nnhubbard/ZSSRichTextEditor):*
+**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)**
+*from [nnhubbard](https://github.com/nnhubbard):*
 > *A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view* 
 
 
