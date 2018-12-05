@@ -15,6 +15,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [All](#all)
 - By Category
+    - CollectionView
+      - [MEVHorizontalContacts](#mevhorizontalcontacts)
+      - [CenteredCollectionView](#centeredcollectionview)
+      - [SwiftSpreadsheet](#swiftspreadsheet)
+      - [ShelfView-iOS](#shelfview-ios)
+      - [VegaScroll](#vegascroll)
+      - [CollectionViewSlantedLayout](#collectionviewslantedlayout)
+      - [AZCollectionViewController](#azcollectionviewcontroller)
+      - [MosaicLayout](#mosaiclayout)
+      - [RAReorderableLayout](#rareorderablelayout)
+      - [SlackTextViewController](#slacktextviewcontroller)
+      - [MWPhotoBrowser](#mwphotobrowser)
+      - [MHVideoPhotoGallery](#mhvideophotogallery)
     - PageControl
       - [TKRubberIndicator](#tkrubberindicator)
       - [RKSwipeBetweenViewControllers](#rkswipebetweenviewcontrollers)
@@ -132,18 +145,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
       - [Onboard](#onboard)
     - Shadow
       - [ShadowView](#shadowview)
-    - CollectionView
-      - [CenteredCollectionView](#centeredcollectionview)
-      - [SwiftSpreadsheet](#swiftspreadsheet)
-      - [ShelfView-iOS](#shelfview-ios)
-      - [VegaScroll](#vegascroll)
-      - [CollectionViewSlantedLayout](#collectionviewslantedlayout)
-      - [AZCollectionViewController](#azcollectionviewcontroller)
-      - [MosaicLayout](#mosaiclayout)
-      - [RAReorderableLayout](#rareorderablelayout)
-      - [SlackTextViewController](#slacktextviewcontroller)
-      - [MWPhotoBrowser](#mwphotobrowser)
-      - [MHVideoPhotoGallery](#mhvideophotogallery)
     - TextField
       - [SkyFloatingLabelTextField](#skyfloatinglabeltextfield)
       - [TagListView](#taglistview)
@@ -299,6 +300,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+### [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)
+*from [manuelescrig](https://github.com/manuelescrig/MEVHorizontalContacts):*
+> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
+
+Categories: CollectionView
+
+
+![](https://cloud.githubusercontent.com/assets/1849990/15137846/645a0d18-168c-11e6-96e2-651d8f8de3b0.gif)
+
+
+
+
+--------------------------
+
 ### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
 *from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
 > *A rubber animation pagecontrol* 
@@ -422,21 +437,17 @@ Categories: ImageView, Gradient
 
 
 
+# All
+
+### [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)
+*from [manuelescrig](https://github.com/manuelescrig/MEVHorizontalContacts):*
+> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
+
+Categories: CollectionView
+
+
 
 --------------------------
-
-### [PopMenu](https://github.com/CaliCastle/PopMenu)
-*from [CaliCastle](https://github.com/CaliCastle/PopMenu):*
-> *A cool and customizable popup style action sheet for iOS 😎* 
-
-Categories: Menu
-
-
-![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/FeatureScreenShot_1.png)
-
-
-
-# All
 
 ### [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
 *from [TBXark](https://github.com/TBXark/TKRubberIndicator):*
