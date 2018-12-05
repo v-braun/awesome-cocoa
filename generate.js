@@ -4,30 +4,36 @@ const log = require('colorprint');
 const fs = require('fs');
 
 function createEntry(rec){
-  let tags = rec.tags.join(', ');
-    
   let md = `### [${rec.github.name}](${rec.repo})
 *from [${rec.github.owner.login}](${rec.github.html_url}):*
 > *${rec.github.description}* 
 
-Categories: ${tags}
 `
   return md
 }
 
-function createList(data){
-  let entries = []
-  for(let rec of data){
-    let entry = createEntry(rec);
-    entries.push(entry)
-  }
+function createList(recByTag){
+  let result = '';
+  for (let tag in recByTag) {      
+    if (!recByTag.hasOwnProperty(tag)) continue;
 
-  let result = entries.join(`
+  let entries = []
+  let records = recByTag[tag];
+    result += `
+## ${tag}
+`
+    for(let rec of records){
+      let entry = createEntry(rec);
+      entries.push(entry)
+    }
+
+    result += entries.join(`
 
 
 --------------------------
-
-`);
+    
+    `);
+  }
 
   return result;
 }
@@ -59,37 +65,31 @@ function createNew(data){
   return result;
 }
 
-function createTOC(data){
+function createRecByTag(data){
   let recByTag = {};
   for(let rec of data){
-    for(let tag of rec.tags){
-      if(!recByTag[tag]){
-        recByTag[tag] = [];
-      }
-
-      recByTag[tag].push(rec);
+    let tag = rec.tags[0];
+    if(!recByTag[tag]){
+      recByTag[tag] = [];
     }
+
+    recByTag[tag].push(rec);
   }
+
+  return recByTag;
+}
+
+function createTOC(recByTag){
   let result = `  
 # Content  
-- [Contributing](#contributing)
 - [New](#new)
-- [All](#all)
-- By Category
+- [By Category](#By-Category)
 `
   
   for (let tag in recByTag) {      
     if (!recByTag.hasOwnProperty(tag)) continue;
     let space1 = '    ';
-    let space2 = '  ';
-    result += `${space1}- ${tag}\n`
-
-    let entries = recByTag[tag];
-    for(let entry of entries){
-      result += `${space1}${space2}- [${entry.github.name}](#${entry.github.name.toLowerCase()})\n`
-    }
-
-   // result += '\n\n';
+    result += `${space1}- [${tag}](#${tag})\n`
   }
 
   return result;
@@ -105,9 +105,11 @@ request.get(dataUrl, (err, response, body) => {
   let data = JSON.parse(body);
   log.notice(`data file downloaded with ${data.length}`);
   
-  let toc = createTOC(data)
-  let list = createList(data);
+  let recByTag = createRecByTag(data);
+  let toc = createTOC(recByTag)
+  let list = createList(recByTag);
   let newList = createNew(data);
+
   
   let mdAll = `
 # awesome-cocoa
@@ -126,7 +128,6 @@ ${toc}
 
 ${newList}
 
-# All
 
 ${list}
 `;
