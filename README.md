@@ -13,6 +13,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Gradient](#Gradient)
     - [TabBar](#TabBar)
     - [CollectionView](#CollectionView)
     - [PageControl](#PageControl)
@@ -56,6 +57,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[Shift](https://github.com/kgellci/Shift)**
+*from [kgellci](https://github.com/kgellci):*
+> *Animate gradient changes with time or motion for iOS Swift* 
+
+
+
+![](https://raw.githubusercontent.com/kgellci/Shift/master/README/Shift_gif.gif)
+
+
+
+
+--------------------------
 
 **[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
 *from [Cuberto](https://github.com/Cuberto):*
@@ -171,20 +185,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
-*from [soberman](https://github.com/soberman):*
-> *iOS progress bar, replacement for the default activity indicator.* 
-
-
-
-![](https://camo.githubusercontent.com/744058cbebea04ccc14551801c9dd960d1c50e45/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f776974686f75745f66696e616c5f616e696d6174696f6e2e676966)
-
-
-
 # By Category
+
+## Gradient
+**[Shift](https://github.com/kgellci/Shift)**
+*from [kgellci](https://github.com/kgellci):*
+> *Animate gradient changes with time or motion for iOS Swift* 
+
+
+
 
 ## TabBar
 **[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
