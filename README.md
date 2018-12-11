@@ -13,6 +13,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Panel](#Panel)
     - [Gradient](#Gradient)
     - [TabBar](#TabBar)
     - [CollectionView](#CollectionView)
@@ -57,6 +58,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[panelkit](https://github.com/louisdh/panelkit)**
+*from [louisdh](https://github.com/louisdh):*
+> *A UI framework that enables panels on iOS.* 
+
+
+
+![](https://github.com/louisdh/panelkit/raw/master/readme-resources/example.gif)
+
+
+
+
+--------------------------
 
 **[Shift](https://github.com/kgellci/Shift)**
 *from [kgellci](https://github.com/kgellci):*
@@ -172,20 +186,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[Hero](https://github.com/HeroTransitions/Hero)**
-*from [HeroTransitions](https://github.com/HeroTransitions):*
-> *Elegant transition library for iOS & tvOS* 
-
-
-
-![](https://camo.githubusercontent.com/22d05ffa3ebcdabc0e46885d905a4958313c7a46/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f73696d706c652e737667)
-
-
-
 # By Category
+
+## Panel
+**[panelkit](https://github.com/louisdh/panelkit)**
+*from [louisdh](https://github.com/louisdh):*
+> *A UI framework that enables panels on iOS.* 
+
+
+
 
 ## Gradient
 **[Shift](https://github.com/kgellci/Shift)**
