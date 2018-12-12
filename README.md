@@ -13,6 +13,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [ImageView](#ImageView)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
     - [TabBar](#TabBar)
@@ -22,7 +23,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Rating](#Rating)
     - [Animation](#Animation)
     - [Progress](#Progress)
-    - [ImageView](#ImageView)
     - [Menu](#Menu)
     - [BlurEffect](#BlurEffect)
     - [Chart](#Chart)
@@ -58,6 +58,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
+*from [scihant](https://github.com/scihant):*
+> *A library that displays spherical or cylindrical panoramas with touch or motion based controls.* 
+
+
+
+![](https://cloud.githubusercontent.com/assets/3991481/23154113/ce5aa6b8-f814-11e6-9c97-4d91629733f8.gif)
+
+
+
+
+--------------------------
 
 **[panelkit](https://github.com/louisdh/panelkit)**
 *from [louisdh](https://github.com/louisdh):*
@@ -173,20 +186,57 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)**
-*from [digital-horizon](https://github.com/digital-horizon):*
-> *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
-
-
-
-![](https://github.com/digital-horizon/RoundCoachMark/raw/master/demo.gif)
-
-
-
 # By Category
+
+## ImageView
+**[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
+*from [scihant](https://github.com/scihant):*
+> *A library that displays spherical or cylindrical panoramas with touch or motion based controls.* 
+
+
+
+**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
+*from [gkye](https://github.com/gkye):*
+> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
+
+
+
+**[URWeatherView](https://github.com/jegumhon/URWeatherView)**
+*from [jegumhon](https://github.com/jegumhon):*
+> *Show the weather effects onto view written in Swift3* 
+
+
+
+**[InitialsImageView](https://github.com/bachonk/InitialsImageView)**
+*from [bachonk](https://github.com/bachonk):*
+> *A simple UIImageView extension for using initials as a profile image, written in swift* 
+
+
+
+**[Lightbox](https://github.com/hyperoslo/Lightbox)**
+*from [hyperoslo](https://github.com/hyperoslo):*
+> *:milky_way: A convenient and easy to use image viewer for your iOS app* 
+
+
+
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
+*from [Flipboard](https://github.com/Flipboard):*
+> *Performant animated GIF engine for iOS* 
+
+
+
+**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)**
+*from [EddyBorja](https://github.com/EddyBorja):*
+> *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.* 
+
+
+
+**[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
+*from [autresphere](https://github.com/autresphere):*
+> *iOS library to animate your image and video thumbnails to fullscreen.* 
+
+
+
 
 ## Panel
 **[panelkit](https://github.com/louisdh/panelkit)**
@@ -538,50 +588,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
 *from [Marxon13](https://github.com/Marxon13):*
 > *A suite containing many tools to display progress information on iOS.* 
-
-
-
-
-## ImageView
-**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
-*from [gkye](https://github.com/gkye):*
-> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
-
-
-
-**[URWeatherView](https://github.com/jegumhon/URWeatherView)**
-*from [jegumhon](https://github.com/jegumhon):*
-> *Show the weather effects onto view written in Swift3* 
-
-
-
-**[InitialsImageView](https://github.com/bachonk/InitialsImageView)**
-*from [bachonk](https://github.com/bachonk):*
-> *A simple UIImageView extension for using initials as a profile image, written in swift* 
-
-
-
-**[Lightbox](https://github.com/hyperoslo/Lightbox)**
-*from [hyperoslo](https://github.com/hyperoslo):*
-> *:milky_way: A convenient and easy to use image viewer for your iOS app* 
-
-
-
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
-*from [Flipboard](https://github.com/Flipboard):*
-> *Performant animated GIF engine for iOS* 
-
-
-
-**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)**
-*from [EddyBorja](https://github.com/EddyBorja):*
-> *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.* 
-
-
-
-**[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
-*from [autresphere](https://github.com/autresphere):*
-> *iOS library to animate your image and video thumbnails to fullscreen.* 
 
 
 
