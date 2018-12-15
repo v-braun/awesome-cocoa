@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Toggle](#Toggle)
     - [ImageView](#ImageView)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
@@ -38,7 +39,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Cards](#Cards)
     - [TableView](#TableView)
     - [PullToRefresh](#PullToRefresh)
-    - [Toggle](#Toggle)
     - [Tags](#Tags)
     - [Button](#Button)
     - [Notification](#Notification)
@@ -61,6 +61,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)**
+*from [TBXark](https://github.com/TBXark):*
+> *An animation switch collection* 
+
+
+
+![](https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/exchange.gif)
+
+
+
+
+--------------------------
 
 **[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
 *from [scihant](https://github.com/scihant):*
@@ -176,20 +189,27 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *You can use blur effect and it's animation easily to call only two methods.* 
-
-
-
-![](https://raw.githubusercontent.com/marty-suzuki/SABlurImageView/master/SampleImage/sample.gif)
-
-
-
 # By Category
+
+## Toggle
+**[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)**
+*from [TBXark](https://github.com/TBXark):*
+> *An animation switch collection* 
+
+
+
+**[Switch](https://github.com/T-Pham/Switch)**
+*from [T-Pham](https://github.com/T-Pham):*
+> *An iOS switch control implemented in Swift with full Interface Builder support.* 
+
+
+
+**[MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch)**
+*from [JaleelNazir](https://github.com/JaleelNazir):*
+> *A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift* 
+
+
+
 
 ## ImageView
 **[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
@@ -1029,20 +1049,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)**
 *from [cemolcay](https://github.com/cemolcay):*
 > *PullToRefresh extension for all UIScrollView type classes with animated text drawing style* 
-
-
-
-
-## Toggle
-**[Switch](https://github.com/T-Pham/Switch)**
-*from [T-Pham](https://github.com/T-Pham):*
-> *An iOS switch control implemented in Swift with full Interface Builder support.* 
-
-
-
-**[MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch)**
-*from [JaleelNazir](https://github.com/JaleelNazir):*
-> *A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift* 
 
 
 
