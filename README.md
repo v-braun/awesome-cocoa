@@ -16,11 +16,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [TabBar](#TabBar)
     - [Toggle](#Toggle)
     - [ImageView](#ImageView)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
-    - [TabBar](#TabBar)
     - [CollectionView](#CollectionView)
     - [PageControl](#PageControl)
     - [MediaPlayer](#MediaPlayer)
@@ -61,6 +61,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
+*from [marcosgriselli](https://github.com/marcosgriselli):*
+> *UITabBarController with swipe interaction between its tabs.* 
+
+
+
+![](https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/GIFs/SwipeableTabBarController.gif)
+
+
+
+
+--------------------------
 
 **[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)**
 *from [TBXark](https://github.com/TBXark):*
@@ -176,20 +189,69 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)**
-*from [WorldDownTown](https://github.com/WorldDownTown):*
-> *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
-
-
-
-![](https://github.com/WorldDownTown/ZoomTransitioning/raw/master/images/demo.gif)
-
-
-
 # By Category
+
+## TabBar
+**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
+*from [marcosgriselli](https://github.com/marcosgriselli):*
+> *UITabBarController with swipe interaction between its tabs.* 
+
+
+
+**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
+*from [Cuberto](https://github.com/Cuberto):*
+> *One another nice animated tabbar* 
+
+
+
+**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
+> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
+
+
+
+**[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)**
+*from [telly](https://github.com/telly):*
+> *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
+
+
+
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion* 
+
+
+
+**[Tabman](https://github.com/uias/Tabman)**
+*from [uias](https://github.com/uias):*
+> *™️ A powerful paging view controller with tab bar.* 
+
+
+
+**[VBRRollingPit](https://github.com/v-braun/VBRRollingPit)**
+*from [v-braun](https://github.com/v-braun):*
+> *Simple, beatiful and interactive UITabBar* 
+
+
+
+**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *Folding Tab Bar and Tab Bar Controller* 
+
+
+
+**[BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)**
+*from [bfeher](https://github.com/bfeher):*
+> *iOS UITabBar (controller) inspired by Google's Paper Material Design.* 
+
+
+
+**[MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)**
+*from [jamesdunay](https://github.com/jamesdunay):*
+> *null* 
+
+
+
 
 ## Toggle
 **[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)**
@@ -273,62 +335,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Shift](https://github.com/kgellci/Shift)**
 *from [kgellci](https://github.com/kgellci):*
 > *Animate gradient changes with time or motion for iOS Swift* 
-
-
-
-
-## TabBar
-**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
-*from [Cuberto](https://github.com/Cuberto):*
-> *One another nice animated tabbar* 
-
-
-
-**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)**
-*from [cwRichardKim](https://github.com/cwRichardKim):*
-> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
-
-
-
-**[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)**
-*from [telly](https://github.com/telly):*
-> *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
-
-
-
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion* 
-
-
-
-**[Tabman](https://github.com/uias/Tabman)**
-*from [uias](https://github.com/uias):*
-> *™️ A powerful paging view controller with tab bar.* 
-
-
-
-**[VBRRollingPit](https://github.com/v-braun/VBRRollingPit)**
-*from [v-braun](https://github.com/v-braun):*
-> *Simple, beatiful and interactive UITabBar* 
-
-
-
-**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *Folding Tab Bar and Tab Bar Controller* 
-
-
-
-**[BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)**
-*from [bfeher](https://github.com/bfeher):*
-> *iOS UITabBar (controller) inspired by Google's Paper Material Design.* 
-
-
-
-**[MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)**
-*from [jamesdunay](https://github.com/jamesdunay):*
-> *null* 
 
 
 
