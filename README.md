@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [TableView](#TableView)
     - [TabBar](#TabBar)
     - [Toggle](#Toggle)
     - [ImageView](#ImageView)
@@ -37,7 +38,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Map](#Map)
     - [Style](#Style)
     - [Cards](#Cards)
-    - [TableView](#TableView)
     - [PullToRefresh](#PullToRefresh)
     - [Tags](#Tags)
     - [Button](#Button)
@@ -61,6 +61,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
+*from [instant-solutions](https://github.com/instant-solutions):*
+> *Simple timeline view written in Swift 3* 
+
+
+
+![](https://raw.githubusercontent.com/instant-solutions/ISTimeline/master/screenshots/timeline.png)
+
+
+
+
+--------------------------
 
 **[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
@@ -176,20 +189,75 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[FloatRatingView](https://github.com/glenyi/FloatRatingView)**
-*from [glenyi](https://github.com/glenyi):*
-> *Whole, half or floating point ratings control written in Swift* 
-
-
-
-![](https://raw.githubusercontent.com/strekfus/FloatRatingView/master/FloatRatingView.gif)
-
-
-
 # By Category
+
+## TableView
+**[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
+*from [instant-solutions](https://github.com/instant-solutions):*
+> *Simple timeline view written in Swift 3* 
+
+
+
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)**
+*from [SwipeCellKit](https://github.com/SwipeCellKit):*
+> *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
+
+
+
+**[SwiftyComments](https://github.com/tsucres/SwiftyComments)**
+*from [tsucres](https://github.com/tsucres):*
+> *UITableView based component designed to display a hierarchy of expandable/foldable comments.* 
+
+
+
+**[YNExpandableCell](https://github.com/younatics/YNExpandableCell)**
+*from [younatics](https://github.com/younatics):*
+> *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4* 
+
+
+
+**[BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)**
+*from [bitwit](https://github.com/bitwit):*
+> *A Swift library for swipeable table cells* 
+
+
+
+**[URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.* 
+
+
+
+**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)**
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
+> *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.* 
+
+
+
+**[folding-cell](https://github.com/Ramotion/folding-cell)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion* 
+
+
+
+**[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.* 
+
+
+
+**[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**
+*from [slackhq](https://github.com/slackhq):*
+> *A drop-in UIViewController subclass with a growing text input view and other useful messaging features* 
+
+
+
+**[MPSkewed](https://github.com/MP0w/MPSkewed)**
+*from [MP0w](https://github.com/MP0w):*
+> *An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images * 
+
+
+
 
 ## TabBar
 **[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
@@ -955,68 +1023,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Wallet](https://github.com/rshevchuk/Wallet)**
 *from [rshevchuk](https://github.com/rshevchuk):*
 > *Wallet is a library to manage cards and passes.* 
-
-
-
-
-## TableView
-**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)**
-*from [SwipeCellKit](https://github.com/SwipeCellKit):*
-> *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
-
-
-
-**[SwiftyComments](https://github.com/tsucres/SwiftyComments)**
-*from [tsucres](https://github.com/tsucres):*
-> *UITableView based component designed to display a hierarchy of expandable/foldable comments.* 
-
-
-
-**[YNExpandableCell](https://github.com/younatics/YNExpandableCell)**
-*from [younatics](https://github.com/younatics):*
-> *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4* 
-
-
-
-**[BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)**
-*from [bitwit](https://github.com/bitwit):*
-> *A Swift library for swipeable table cells* 
-
-
-
-**[URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.* 
-
-
-
-**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)**
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
-> *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.* 
-
-
-
-**[folding-cell](https://github.com/Ramotion/folding-cell)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion* 
-
-
-
-**[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.* 
-
-
-
-**[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**
-*from [slackhq](https://github.com/slackhq):*
-> *A drop-in UIViewController subclass with a growing text input view and other useful messaging features* 
-
-
-
-**[MPSkewed](https://github.com/MP0w/MPSkewed)**
-*from [MP0w](https://github.com/MP0w):*
-> *An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images * 
 
 
 
