@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Cards](#Cards)
     - [TableView](#TableView)
     - [TabBar](#TabBar)
     - [Toggle](#Toggle)
@@ -37,7 +38,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [TextField](#TextField)
     - [Map](#Map)
     - [Style](#Style)
-    - [Cards](#Cards)
     - [PullToRefresh](#PullToRefresh)
     - [Tags](#Tags)
     - [Button](#Button)
@@ -61,6 +61,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[CardStackView](https://github.com/gomfucius/CardStackView)**
+*from [gomfucius](https://github.com/gomfucius):*
+> *Inifinite swipeable stacked UIViews.* 
+
+
+
+![](https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif)
+
+
+
+
+--------------------------
 
 **[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
 *from [instant-solutions](https://github.com/instant-solutions):*
@@ -176,20 +189,39 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer)**
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
-> *🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.* 
-
-
-
-![](https://camo.githubusercontent.com/7faa6619b75174b63f687955c688409b2f2871ce/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f326134616462333135303136363539373163653565316334)
-
-
-
 # By Category
+
+## Cards
+**[CardStackView](https://github.com/gomfucius/CardStackView)**
+*from [gomfucius](https://github.com/gomfucius):*
+> *Inifinite swipeable stacked UIViews.* 
+
+
+
+**[Koloda](https://github.com/Yalantis/Koloda)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
+
+
+
+**[Cards](https://github.com/PaoloCuscela/Cards)**
+*from [PaoloCuscela](https://github.com/PaoloCuscela):*
+> *Awesome iOS 11 appstore cards in swift 4.* 
+
+
+
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
+*from [JoniVR](https://github.com/JoniVR):*
+> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
+
+
+
+**[Wallet](https://github.com/rshevchuk/Wallet)**
+*from [rshevchuk](https://github.com/rshevchuk):*
+> *Wallet is a library to manage cards and passes.* 
+
+
+
 
 ## TableView
 **[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
@@ -997,32 +1029,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[NightNight](https://github.com/Draveness/NightNight)**
 *from [Draveness](https://github.com/Draveness):*
 > *Elegant way to integrate night mode to swift projects* 
-
-
-
-
-## Cards
-**[Koloda](https://github.com/Yalantis/Koloda)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
-
-
-
-**[Cards](https://github.com/PaoloCuscela/Cards)**
-*from [PaoloCuscela](https://github.com/PaoloCuscela):*
-> *Awesome iOS 11 appstore cards in swift 4.* 
-
-
-
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
-*from [JoniVR](https://github.com/JoniVR):*
-> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
-
-
-
-**[Wallet](https://github.com/rshevchuk/Wallet)**
-*from [rshevchuk](https://github.com/rshevchuk):*
-> *Wallet is a library to manage cards and passes.* 
 
 
 
