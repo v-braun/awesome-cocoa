@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Button](#Button)
     - [Cards](#Cards)
     - [TableView](#TableView)
     - [TabBar](#TabBar)
@@ -40,7 +41,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
     - [Tags](#Tags)
-    - [Button](#Button)
     - [Notification](#Notification)
     - [Parallax](#Parallax)
     - [Loading](#Loading)
@@ -61,6 +61,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
+
+
+
+![](https://raw.githubusercontent.com/suzuki-0000/AnimatablePlayButton/master/Screenshots/example01.gif)
+
+
+
+
+--------------------------
 
 **[CardStackView](https://github.com/gomfucius/CardStackView)**
 *from [gomfucius](https://github.com/gomfucius):*
@@ -176,20 +189,45 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
-*from [TBXark](https://github.com/TBXark):*
-> *A rubber animation pagecontrol* 
-
-
-
-![](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
-
-
-
 # By Category
+
+## Button
+**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
+
+
+
+**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
+*from [AladinWay](https://github.com/AladinWay):*
+> *UIButton sublass for loading and transition animation.* 
+
+
+
+**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
+*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
+> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
+
+
+
+**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
+*from [yonat](https://github.com/yonat):*
+> *Multiple state tap to toggle UIButton in Swift* 
+
+
+
+**[LGButton](https://github.com/loregr/LGButton)**
+*from [loregr](https://github.com/loregr):*
+> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
+
+
+
+**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
+*from [okmr-d](https://github.com/okmr-d):*
+> *Cute Animated Button written in Swift.* 
+
+
+
 
 ## Cards
 **[CardStackView](https://github.com/gomfucius/CardStackView)**
@@ -1081,38 +1119,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)**
 *from [optonaut](https://github.com/optonaut):*
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift* 
-
-
-
-
-## Button
-**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
-*from [AladinWay](https://github.com/AladinWay):*
-> *UIButton sublass for loading and transition animation.* 
-
-
-
-**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
-*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
-> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
-
-
-
-**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
-*from [yonat](https://github.com/yonat):*
-> *Multiple state tap to toggle UIButton in Swift* 
-
-
-
-**[LGButton](https://github.com/loregr/LGButton)**
-*from [loregr](https://github.com/loregr):*
-> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
-
-
-
-**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
-*from [okmr-d](https://github.com/okmr-d):*
-> *Cute Animated Button written in Swift.* 
 
 
 
