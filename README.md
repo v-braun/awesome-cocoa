@@ -16,12 +16,13 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Label](#Label)
+    - [ImageView](#ImageView)
     - [Button](#Button)
     - [Cards](#Cards)
     - [TableView](#TableView)
     - [TabBar](#TabBar)
     - [Toggle](#Toggle)
-    - [ImageView](#ImageView)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
     - [CollectionView](#CollectionView)
@@ -61,6 +62,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *Custom Label to apply animations on whole text or letters.* 
+
+
+
+![](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
+
+
+
+
+--------------------------
+
+**[HoneycombView](https://github.com/suzuki-0000/HoneycombView)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift * 
+
+
+
+![](https://raw.githubusercontent.com/suzuki-0000/HoneycombView/master/Screenshots/HoneycombViewSample1.gif)
+
+
+
+
+--------------------------
 
 **[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
 *from [suzuki-0000](https://github.com/suzuki-0000):*
@@ -163,33 +190,71 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
-*from [Cuberto](https://github.com/Cuberto):*
-> *One another nice animated tabbar* 
-
-
-
-![](https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/Screenshots/animation.gif)
-
-
-
-
---------------------------
-
-**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
-*from [manuelescrig](https://github.com/manuelescrig):*
-> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
-
-
-
-![](https://cloud.githubusercontent.com/assets/1849990/15137846/645a0d18-168c-11e6-96e2-651d8f8de3b0.gif)
-
-
-
 # By Category
+
+## Label
+**[Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *Custom Label to apply animations on whole text or letters.* 
+
+
+
+
+## ImageView
+**[HoneycombView](https://github.com/suzuki-0000/HoneycombView)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift * 
+
+
+
+**[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
+*from [scihant](https://github.com/scihant):*
+> *A library that displays spherical or cylindrical panoramas with touch or motion based controls.* 
+
+
+
+**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
+*from [gkye](https://github.com/gkye):*
+> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
+
+
+
+**[URWeatherView](https://github.com/jegumhon/URWeatherView)**
+*from [jegumhon](https://github.com/jegumhon):*
+> *Show the weather effects onto view written in Swift3* 
+
+
+
+**[InitialsImageView](https://github.com/bachonk/InitialsImageView)**
+*from [bachonk](https://github.com/bachonk):*
+> *A simple UIImageView extension for using initials as a profile image, written in swift* 
+
+
+
+**[Lightbox](https://github.com/hyperoslo/Lightbox)**
+*from [hyperoslo](https://github.com/hyperoslo):*
+> *:milky_way: A convenient and easy to use image viewer for your iOS app* 
+
+
+
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
+*from [Flipboard](https://github.com/Flipboard):*
+> *Performant animated GIF engine for iOS* 
+
+
+
+**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)**
+*from [EddyBorja](https://github.com/EddyBorja):*
+> *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.* 
+
+
+
+**[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
+*from [autresphere](https://github.com/autresphere):*
+> *iOS library to animate your image and video thumbnails to fullscreen.* 
+
+
+
 
 ## Button
 **[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
@@ -407,56 +472,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch)**
 *from [JaleelNazir](https://github.com/JaleelNazir):*
 > *A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift* 
-
-
-
-
-## ImageView
-**[CTPanoramaView](https://github.com/scihant/CTPanoramaView)**
-*from [scihant](https://github.com/scihant):*
-> *A library that displays spherical or cylindrical panoramas with touch or motion based controls.* 
-
-
-
-**[ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)**
-*from [gkye](https://github.com/gkye):*
-> *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js* 
-
-
-
-**[URWeatherView](https://github.com/jegumhon/URWeatherView)**
-*from [jegumhon](https://github.com/jegumhon):*
-> *Show the weather effects onto view written in Swift3* 
-
-
-
-**[InitialsImageView](https://github.com/bachonk/InitialsImageView)**
-*from [bachonk](https://github.com/bachonk):*
-> *A simple UIImageView extension for using initials as a profile image, written in swift* 
-
-
-
-**[Lightbox](https://github.com/hyperoslo/Lightbox)**
-*from [hyperoslo](https://github.com/hyperoslo):*
-> *:milky_way: A convenient and easy to use image viewer for your iOS app* 
-
-
-
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)**
-*from [Flipboard](https://github.com/Flipboard):*
-> *Performant animated GIF engine for iOS* 
-
-
-
-**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages)**
-*from [EddyBorja](https://github.com/EddyBorja):*
-> *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.* 
-
-
-
-**[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
-*from [autresphere](https://github.com/autresphere):*
-> *iOS library to animate your image and video thumbnails to fullscreen.* 
 
 
 
