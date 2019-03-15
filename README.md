@@ -16,8 +16,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
-    - [Progress](#Progress)
     - [Cards](#Cards)
+    - [Progress](#Progress)
     - [CollectionView](#CollectionView)
     - [Label](#Label)
     - [ImageView](#ImageView)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
+*from [presentco](https://github.com/presentco):*
+> *A Pretty Card Scrolling UI in Swift* 
+
+
+
+![](https://github.com/presentco/PresentCardScroller/raw/master/Media/screens1.gif)
+
+
+
+
+--------------------------
 
 **[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
 *from [DholStudio](https://github.com/DholStudio):*
@@ -177,20 +190,51 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)**
-*from [TBXark](https://github.com/TBXark):*
-> *An animation switch collection* 
-
-
-
-![](https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/exchange.gif)
-
-
-
 # By Category
+
+## Cards
+**[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
+*from [presentco](https://github.com/presentco):*
+> *A Pretty Card Scrolling UI in Swift* 
+
+
+
+**[HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout)**
+*from [hfrahmann](https://github.com/hfrahmann):*
+> *The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.* 
+
+
+
+**[CardStackView](https://github.com/gomfucius/CardStackView)**
+*from [gomfucius](https://github.com/gomfucius):*
+> *Inifinite swipeable stacked UIViews.* 
+
+
+
+**[Koloda](https://github.com/Yalantis/Koloda)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
+
+
+
+**[Cards](https://github.com/PaoloCuscela/Cards)**
+*from [PaoloCuscela](https://github.com/PaoloCuscela):*
+> *Awesome iOS 11 appstore cards in swift 4.* 
+
+
+
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
+*from [JoniVR](https://github.com/JoniVR):*
+> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
+
+
+
+**[Wallet](https://github.com/rshevchuk/Wallet)**
+*from [rshevchuk](https://github.com/rshevchuk):*
+> *Wallet is a library to manage cards and passes.* 
+
+
+
 
 ## Progress
 **[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
@@ -274,44 +318,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
 *from [Marxon13](https://github.com/Marxon13):*
 > *A suite containing many tools to display progress information on iOS.* 
-
-
-
-
-## Cards
-**[HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout)**
-*from [hfrahmann](https://github.com/hfrahmann):*
-> *The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.* 
-
-
-
-**[CardStackView](https://github.com/gomfucius/CardStackView)**
-*from [gomfucius](https://github.com/gomfucius):*
-> *Inifinite swipeable stacked UIViews.* 
-
-
-
-**[Koloda](https://github.com/Yalantis/Koloda)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
-
-
-
-**[Cards](https://github.com/PaoloCuscela/Cards)**
-*from [PaoloCuscela](https://github.com/PaoloCuscela):*
-> *Awesome iOS 11 appstore cards in swift 4.* 
-
-
-
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
-*from [JoniVR](https://github.com/JoniVR):*
-> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
-
-
-
-**[Wallet](https://github.com/rshevchuk/Wallet)**
-*from [rshevchuk](https://github.com/rshevchuk):*
-> *Wallet is a library to manage cards and passes.* 
 
 
 
