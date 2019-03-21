@@ -16,12 +16,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Button](#Button)
     - [Cards](#Cards)
     - [Progress](#Progress)
     - [CollectionView](#CollectionView)
     - [Label](#Label)
     - [ImageView](#ImageView)
-    - [Button](#Button)
     - [TableView](#TableView)
     - [TabBar](#TabBar)
     - [Toggle](#Toggle)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
+*from [BalestraPatrick](https://github.com/BalestraPatrick):*
+> *A button that squishes when pressed. As seen in the Clips app.* 
+
+
+
+![](https://raw.githubusercontent.com/BalestraPatrick/SquishButton/master/demo.gif)
+
+
+
+
+--------------------------
 
 **[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
 *from [presentco](https://github.com/presentco):*
@@ -177,20 +190,51 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
-*from [marcosgriselli](https://github.com/marcosgriselli):*
-> *UITabBarController with swipe interaction between its tabs.* 
-
-
-
-![](https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/GIFs/SwipeableTabBarController.gif)
-
-
-
 # By Category
+
+## Button
+**[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
+*from [BalestraPatrick](https://github.com/BalestraPatrick):*
+> *A button that squishes when pressed. As seen in the Clips app.* 
+
+
+
+**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
+
+
+
+**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
+*from [AladinWay](https://github.com/AladinWay):*
+> *UIButton sublass for loading and transition animation.* 
+
+
+
+**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
+*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
+> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
+
+
+
+**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
+*from [yonat](https://github.com/yonat):*
+> *Multiple state tap to toggle UIButton in Swift* 
+
+
+
+**[LGButton](https://github.com/loregr/LGButton)**
+*from [loregr](https://github.com/loregr):*
+> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
+
+
+
+**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
+*from [okmr-d](https://github.com/okmr-d):*
+> *Cute Animated Button written in Swift.* 
+
+
+
 
 ## Cards
 **[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
@@ -438,44 +482,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
 *from [autresphere](https://github.com/autresphere):*
 > *iOS library to animate your image and video thumbnails to fullscreen.* 
-
-
-
-
-## Button
-**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
-
-
-
-**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
-*from [AladinWay](https://github.com/AladinWay):*
-> *UIButton sublass for loading and transition animation.* 
-
-
-
-**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
-*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
-> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
-
-
-
-**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
-*from [yonat](https://github.com/yonat):*
-> *Multiple state tap to toggle UIButton in Swift* 
-
-
-
-**[LGButton](https://github.com/loregr/LGButton)**
-*from [loregr](https://github.com/loregr):*
-> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
-
-
-
-**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
-*from [okmr-d](https://github.com/okmr-d):*
-> *Cute Animated Button written in Swift.* 
 
 
 
