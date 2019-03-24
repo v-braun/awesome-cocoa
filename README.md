@@ -16,10 +16,10 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [CollectionView](#CollectionView)
     - [Button](#Button)
     - [Cards](#Cards)
     - [Progress](#Progress)
-    - [CollectionView](#CollectionView)
     - [Label](#Label)
     - [ImageView](#ImageView)
     - [TableView](#TableView)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
+*from [abdullahselek](https://github.com/abdullahselek):*
+> *A Swift collection view inspired by Airbnb.* 
+
+
+
+![](https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png)
+
+
+
+
+--------------------------
 
 **[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
 *from [BalestraPatrick](https://github.com/BalestraPatrick):*
@@ -177,20 +190,69 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
-*from [instant-solutions](https://github.com/instant-solutions):*
-> *Simple timeline view written in Swift 3* 
-
-
-
-![](https://raw.githubusercontent.com/instant-solutions/ISTimeline/master/screenshots/timeline.png)
-
-
-
 # By Category
+
+## CollectionView
+**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
+*from [abdullahselek](https://github.com/abdullahselek):*
+> *A Swift collection view inspired by Airbnb.* 
+
+
+
+**[ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel)**
+*from [ZacharyKhan](https://github.com/ZacharyKhan):*
+> *A simple carousel implementation written in Swift* 
+
+
+
+**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
+*from [manuelescrig](https://github.com/manuelescrig):*
+> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
+
+
+
+**[CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)**
+*from [ananthbh](https://github.com/ananthbh):*
+> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
+
+
+
+**[SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)**
+*from [stuffrabbit](https://github.com/stuffrabbit):*
+> *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
+
+
+
+**[ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)**
+*from [tdscientist](https://github.com/tdscientist):*
+> *iOS custom view to display books on shelf* 
+
+
+
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)**
+*from [yacir](https://github.com/yacir):*
+> *UICollectionViewLayout to display slanted content* 
+
+
+
+**[AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)**
+*from [AfrozZaheer](https://github.com/AfrozZaheer):*
+> * Easy way to integrate pagination with dummy views in CollectionView, make Instagram "Discover" within minutes.* 
+
+
+
+**[MosaicLayout](https://github.com/betzerra/MosaicLayout)**
+*from [betzerra](https://github.com/betzerra):*
+> *MosaicLayout using UICollectionViews* 
+
+
+
+**[RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)**
+*from [ra1028](https://github.com/ra1028):*
+> *A UICollectionView layout whitch can move item with drag and drop.* 
+
+
+
 
 ## Button
 **[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
@@ -362,62 +424,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
 *from [Marxon13](https://github.com/Marxon13):*
 > *A suite containing many tools to display progress information on iOS.* 
-
-
-
-
-## CollectionView
-**[ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel)**
-*from [ZacharyKhan](https://github.com/ZacharyKhan):*
-> *A simple carousel implementation written in Swift* 
-
-
-
-**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
-*from [manuelescrig](https://github.com/manuelescrig):*
-> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
-
-
-
-**[CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)**
-*from [ananthbh](https://github.com/ananthbh):*
-> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
-
-
-
-**[SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)**
-*from [stuffrabbit](https://github.com/stuffrabbit):*
-> *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
-
-
-
-**[ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)**
-*from [tdscientist](https://github.com/tdscientist):*
-> *iOS custom view to display books on shelf* 
-
-
-
-**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)**
-*from [yacir](https://github.com/yacir):*
-> *UICollectionViewLayout to display slanted content* 
-
-
-
-**[AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)**
-*from [AfrozZaheer](https://github.com/AfrozZaheer):*
-> * Easy way to integrate pagination with dummy views in CollectionView, make Instagram "Discover" within minutes.* 
-
-
-
-**[MosaicLayout](https://github.com/betzerra/MosaicLayout)**
-*from [betzerra](https://github.com/betzerra):*
-> *MosaicLayout using UICollectionViews* 
-
-
-
-**[RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)**
-*from [ra1028](https://github.com/ra1028):*
-> *A UICollectionView layout whitch can move item with drag and drop.* 
 
 
 
