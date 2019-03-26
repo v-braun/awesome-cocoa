@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Tags](#Tags)
     - [CollectionView](#CollectionView)
     - [Button](#Button)
     - [Cards](#Cards)
@@ -41,7 +42,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Map](#Map)
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
-    - [Tags](#Tags)
     - [Notification](#Notification)
     - [Parallax](#Parallax)
     - [Loading](#Loading)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PARTagPicker](https://github.com/paulrolfe/PARTagPicker)**
+*from [paulrolfe](https://github.com/paulrolfe):*
+> *This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.* 
+
+
+
+![](https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png)
+
+
+
+
+--------------------------
 
 **[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
 *from [abdullahselek](https://github.com/abdullahselek):*
@@ -177,20 +190,27 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[CardStackView](https://github.com/gomfucius/CardStackView)**
-*from [gomfucius](https://github.com/gomfucius):*
-> *Inifinite swipeable stacked UIViews.* 
-
-
-
-![](https://raw.githubusercontent.com/gomfucius/CardStackView/master/Example/example.gif)
-
-
-
 # By Category
+
+## Tags
+**[PARTagPicker](https://github.com/paulrolfe/PARTagPicker)**
+*from [paulrolfe](https://github.com/paulrolfe):*
+> *This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.* 
+
+
+
+**[TagListView](https://github.com/ElaWorkshop/TagListView)**
+*from [ElaWorkshop](https://github.com/ElaWorkshop):*
+> *Simple and highly customizable iOS tag list view, in Swift.* 
+
+
+
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)**
+*from [optonaut](https://github.com/optonaut):*
+> *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift* 
+
+
+
 
 ## CollectionView
 **[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
@@ -1156,20 +1176,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)**
 *from [cemolcay](https://github.com/cemolcay):*
 > *PullToRefresh extension for all UIScrollView type classes with animated text drawing style* 
-
-
-
-
-## Tags
-**[TagListView](https://github.com/ElaWorkshop/TagListView)**
-*from [ElaWorkshop](https://github.com/ElaWorkshop):*
-> *Simple and highly customizable iOS tag list view, in Swift.* 
-
-
-
-**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)**
-*from [optonaut](https://github.com/optonaut):*
-> *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift* 
 
 
 
