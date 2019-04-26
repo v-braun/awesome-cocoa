@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Dialog](#Dialog)
     - [Tags](#Tags)
     - [CollectionView](#CollectionView)
     - [Button](#Button)
@@ -50,7 +51,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Material](#Material)
     - [Bar](#Bar)
     - [ScrollView](#ScrollView)
-    - [Dialog](#Dialog)
     - [TreeView](#TreeView)
     - [Navigation](#Navigation)
     - [Gestures](#Gestures)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PanModal](https://github.com/slackhq/PanModal)**
+*from [slackhq](https://github.com/slackhq):*
+> *An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.* 
+
+
+
+![](https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif)
+
+
+
+
+--------------------------
 
 **[PARTagPicker](https://github.com/paulrolfe/PARTagPicker)**
 *from [paulrolfe](https://github.com/paulrolfe):*
@@ -177,20 +190,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
-
-
-
-![](https://raw.githubusercontent.com/suzuki-0000/AnimatablePlayButton/master/Screenshots/example01.gif)
-
-
-
 # By Category
+
+## Dialog
+**[PanModal](https://github.com/slackhq/PanModal)**
+*from [slackhq](https://github.com/slackhq):*
+> *An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.* 
+
+
+
+**[KLCPopup](https://github.com/jmascia/KLCPopup)**
+*from [jmascia](https://github.com/jmascia):*
+> *A simple and flexible class for presenting custom views as a popup in iOS.* 
+
+
+
 
 ## Tags
 **[PARTagPicker](https://github.com/paulrolfe/PARTagPicker)**
@@ -1348,14 +1362,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[DSDynamicScrollView](https://github.com/damirstuhec/DSDynamicScrollView)**
 *from [damirstuhec](https://github.com/damirstuhec):*
 > *iOS (Swift + Objective-C) component for building dynamic and animated UIScrollView.* 
-
-
-
-
-## Dialog
-**[KLCPopup](https://github.com/jmascia/KLCPopup)**
-*from [jmascia](https://github.com/jmascia):*
-> *A simple and flexible class for presenting custom views as a popup in iOS.* 
 
 
 
