@@ -16,11 +16,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Cards](#Cards)
     - [Dialog](#Dialog)
     - [Tags](#Tags)
     - [CollectionView](#CollectionView)
     - [Button](#Button)
-    - [Cards](#Cards)
     - [Progress](#Progress)
     - [Label](#Label)
     - [ImageView](#ImageView)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[tispr-card-stack](https://github.com/tispr/tispr-card-stack)**
+*from [tispr](https://github.com/tispr):*
+> *Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI* 
+
+
+
+![](https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif)
+
+
+
+
+--------------------------
 
 **[PanModal](https://github.com/slackhq/PanModal)**
 *from [slackhq](https://github.com/slackhq):*
@@ -177,20 +190,57 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[HoneycombView](https://github.com/suzuki-0000/HoneycombView)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift * 
-
-
-
-![](https://raw.githubusercontent.com/suzuki-0000/HoneycombView/master/Screenshots/HoneycombViewSample1.gif)
-
-
-
 # By Category
+
+## Cards
+**[tispr-card-stack](https://github.com/tispr/tispr-card-stack)**
+*from [tispr](https://github.com/tispr):*
+> *Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI* 
+
+
+
+**[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
+*from [presentco](https://github.com/presentco):*
+> *A Pretty Card Scrolling UI in Swift* 
+
+
+
+**[HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout)**
+*from [hfrahmann](https://github.com/hfrahmann):*
+> *The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.* 
+
+
+
+**[CardStackView](https://github.com/gomfucius/CardStackView)**
+*from [gomfucius](https://github.com/gomfucius):*
+> *Inifinite swipeable stacked UIViews.* 
+
+
+
+**[Koloda](https://github.com/Yalantis/Koloda)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
+
+
+
+**[Cards](https://github.com/PaoloCuscela/Cards)**
+*from [PaoloCuscela](https://github.com/PaoloCuscela):*
+> *Awesome iOS 11 appstore cards in swift 4.* 
+
+
+
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
+*from [JoniVR](https://github.com/JoniVR):*
+> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
+
+
+
+**[Wallet](https://github.com/rshevchuk/Wallet)**
+*from [rshevchuk](https://github.com/rshevchuk):*
+> *Wallet is a library to manage cards and passes.* 
+
+
+
 
 ## Dialog
 **[PanModal](https://github.com/slackhq/PanModal)**
@@ -328,50 +378,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
 *from [okmr-d](https://github.com/okmr-d):*
 > *Cute Animated Button written in Swift.* 
-
-
-
-
-## Cards
-**[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
-*from [presentco](https://github.com/presentco):*
-> *A Pretty Card Scrolling UI in Swift* 
-
-
-
-**[HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout)**
-*from [hfrahmann](https://github.com/hfrahmann):*
-> *The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.* 
-
-
-
-**[CardStackView](https://github.com/gomfucius/CardStackView)**
-*from [gomfucius](https://github.com/gomfucius):*
-> *Inifinite swipeable stacked UIViews.* 
-
-
-
-**[Koloda](https://github.com/Yalantis/Koloda)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. * 
-
-
-
-**[Cards](https://github.com/PaoloCuscela/Cards)**
-*from [PaoloCuscela](https://github.com/PaoloCuscela):*
-> *Awesome iOS 11 appstore cards in swift 4.* 
-
-
-
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)**
-*from [JoniVR](https://github.com/JoniVR):*
-> *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.* 
-
-
-
-**[Wallet](https://github.com/rshevchuk/Wallet)**
-*from [rshevchuk](https://github.com/rshevchuk):*
-> *Wallet is a library to manage cards and passes.* 
 
 
 
