@@ -16,12 +16,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Progress](#Progress)
+    - [CollectionView](#CollectionView)
     - [Cards](#Cards)
     - [Dialog](#Dialog)
     - [Tags](#Tags)
-    - [CollectionView](#CollectionView)
     - [Button](#Button)
-    - [Progress](#Progress)
     - [Label](#Label)
     - [ImageView](#ImageView)
     - [TableView](#TableView)
@@ -62,6 +62,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[StepProgressView](https://github.com/yonat/StepProgressView)**
+*from [yonat](https://github.com/yonat):*
+> *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
+
+
+
+![](https://raw.githubusercontent.com/yonat/StepProgressView/master/screenshots/blue.gif)
+
+
+
+
+--------------------------
+
+**[CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView)**
+*from [touchlane](https://github.com/touchlane):*
+> *Collapse and expand UICollectionView sections with one method call.* 
+
+
+
+![](https://github.com/touchlane/CampcotCollectionView/raw/master/Example/Assets/campcot.gif)
+
+
+
+
+--------------------------
 
 **[tispr-card-stack](https://github.com/tispr/tispr-card-stack)**
 *from [tispr](https://github.com/tispr):*
@@ -164,8 +190,112 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
+# By Category
 
---------------------------
+## Progress
+**[StepProgressView](https://github.com/yonat/StepProgressView)**
+*from [yonat](https://github.com/yonat):*
+> *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
+
+
+
+**[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
+*from [DholStudio](https://github.com/DholStudio):*
+> *A simple animated progress bar in Swift* 
+
+
+
+**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
+*from [soberman](https://github.com/soberman):*
+> *iOS progress bar, replacement for the default activity indicator.* 
+
+
+
+**[SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)**
+*from [simformsolutions](https://github.com/simformsolutions):*
+> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
+
+
+
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)**
+*from [keygx](https://github.com/keygx):*
+> *Customizable progress indicator library in Swift* 
+
+
+
+**[DockProgress](https://github.com/sindresorhus/DockProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
+> *Show progress in your app's Dock icon* 
+
+
+
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
+> *Circular progress indicator for your macOS app* 
+
+
+
+**[RSLoadingView](https://github.com/roytornado/RSLoadingView)**
+*from [roytornado](https://github.com/roytornado):*
+> *Awesome loading animations using 3D engine written with Swift* 
+
+
+
+**[RetroProgress](https://github.com/hyperoslo/RetroProgress)**
+*from [hyperoslo](https://github.com/hyperoslo):*
+> *💈 Retro looking progress bar straight from the 90s* 
+
+
+
+**[MRProgress](https://github.com/mrackwitz/MRProgress)**
+*from [mrackwitz](https://github.com/mrackwitz):*
+> *Collection of iOS drop-in components to visualize progress* 
+
+
+
+**[GaugeKit](https://github.com/skywinder/GaugeKit)**
+*from [skywinder](https://github.com/skywinder):*
+> *Kit for building custom gauges + easy reproducible Apple's style ring gauges.* 
+
+
+
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
+*from [ninjaprox](https://github.com/ninjaprox):*
+> *A collection of awesome loading animations* 
+
+
+
+**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)**
+*from [uzysjung](https://github.com/uzysjung):*
+> *Add PullToRefresh using animated GIF to any scrollView with just simple code* 
+
+
+
+**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)**
+*from [elbryan](https://github.com/elbryan):*
+> *FFCircularProgressView - An iOS 7-inspired blue circular progress view* 
+
+
+
+**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
+*from [Marxon13](https://github.com/Marxon13):*
+> *A suite containing many tools to display progress information on iOS.* 
+
+
+
+
+## CollectionView
+**[CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView)**
+*from [touchlane](https://github.com/touchlane):*
+> *Collapse and expand UICollectionView sections with one method call.* 
+
+
+
+**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
+*from [abdullahselek](https://github.com/abdullahselek):*
+> *A Swift collection view inspired by Airbnb.* 
+
+
 
 **[ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel)**
 *from [ZacharyKhan](https://github.com/ZacharyKhan):*
@@ -173,24 +303,54 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-![](https://camo.githubusercontent.com/044cfb58b409025d9ce9d1751722d8b72164f675/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f576b376f554d38486e484f65732f67697068792e676966)
+**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
+*from [manuelescrig](https://github.com/manuelescrig):*
+> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
 
 
 
-
---------------------------
-
-**[Preloader.Ophiuchus](https://github.com/Yalantis/Preloader.Ophiuchus)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *Custom Label to apply animations on whole text or letters.* 
+**[CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)**
+*from [ananthbh](https://github.com/ananthbh):*
+> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
 
 
 
-![](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
+**[SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)**
+*from [stuffrabbit](https://github.com/stuffrabbit):*
+> *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
 
 
 
-# By Category
+**[ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)**
+*from [tdscientist](https://github.com/tdscientist):*
+> *iOS custom view to display books on shelf* 
+
+
+
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)**
+*from [yacir](https://github.com/yacir):*
+> *UICollectionViewLayout to display slanted content* 
+
+
+
+**[AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)**
+*from [AfrozZaheer](https://github.com/AfrozZaheer):*
+> * Easy way to integrate pagination with dummy views in CollectionView, make Instagram "Discover" within minutes.* 
+
+
+
+**[MosaicLayout](https://github.com/betzerra/MosaicLayout)**
+*from [betzerra](https://github.com/betzerra):*
+> *MosaicLayout using UICollectionViews* 
+
+
+
+**[RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)**
+*from [ra1028](https://github.com/ra1028):*
+> *A UICollectionView layout whitch can move item with drag and drop.* 
+
+
+
 
 ## Cards
 **[tispr-card-stack](https://github.com/tispr/tispr-card-stack)**
@@ -276,68 +436,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-## CollectionView
-**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView)**
-*from [abdullahselek](https://github.com/abdullahselek):*
-> *A Swift collection view inspired by Airbnb.* 
-
-
-
-**[ZKCarousel](https://github.com/ZacharyKhan/ZKCarousel)**
-*from [ZacharyKhan](https://github.com/ZacharyKhan):*
-> *A simple carousel implementation written in Swift* 
-
-
-
-**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts)**
-*from [manuelescrig](https://github.com/manuelescrig):*
-> *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.* 
-
-
-
-**[CenteredCollectionView](https://github.com/ananthbh/CenteredCollectionView)**
-*from [ananthbh](https://github.com/ananthbh):*
-> *A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift* 
-
-
-
-**[SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet)**
-*from [stuffrabbit](https://github.com/stuffrabbit):*
-> *Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶* 
-
-
-
-**[ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)**
-*from [tdscientist](https://github.com/tdscientist):*
-> *iOS custom view to display books on shelf* 
-
-
-
-**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)**
-*from [yacir](https://github.com/yacir):*
-> *UICollectionViewLayout to display slanted content* 
-
-
-
-**[AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController)**
-*from [AfrozZaheer](https://github.com/AfrozZaheer):*
-> * Easy way to integrate pagination with dummy views in CollectionView, make Instagram "Discover" within minutes.* 
-
-
-
-**[MosaicLayout](https://github.com/betzerra/MosaicLayout)**
-*from [betzerra](https://github.com/betzerra):*
-> *MosaicLayout using UICollectionViews* 
-
-
-
-**[RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout)**
-*from [ra1028](https://github.com/ra1028):*
-> *A UICollectionView layout whitch can move item with drag and drop.* 
-
-
-
-
 ## Button
 **[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
 *from [BalestraPatrick](https://github.com/BalestraPatrick):*
@@ -378,92 +476,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
 *from [okmr-d](https://github.com/okmr-d):*
 > *Cute Animated Button written in Swift.* 
-
-
-
-
-## Progress
-**[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
-*from [DholStudio](https://github.com/DholStudio):*
-> *A simple animated progress bar in Swift* 
-
-
-
-**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
-*from [soberman](https://github.com/soberman):*
-> *iOS progress bar, replacement for the default activity indicator.* 
-
-
-
-**[SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)**
-*from [simformsolutions](https://github.com/simformsolutions):*
-> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
-
-
-
-**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)**
-*from [keygx](https://github.com/keygx):*
-> *Customizable progress indicator library in Swift* 
-
-
-
-**[DockProgress](https://github.com/sindresorhus/DockProgress)**
-*from [sindresorhus](https://github.com/sindresorhus):*
-> *Show progress in your app's Dock icon* 
-
-
-
-**[CircularProgress](https://github.com/sindresorhus/CircularProgress)**
-*from [sindresorhus](https://github.com/sindresorhus):*
-> *Circular progress indicator for your macOS app* 
-
-
-
-**[RSLoadingView](https://github.com/roytornado/RSLoadingView)**
-*from [roytornado](https://github.com/roytornado):*
-> *Awesome loading animations using 3D engine written with Swift* 
-
-
-
-**[RetroProgress](https://github.com/hyperoslo/RetroProgress)**
-*from [hyperoslo](https://github.com/hyperoslo):*
-> *💈 Retro looking progress bar straight from the 90s* 
-
-
-
-**[MRProgress](https://github.com/mrackwitz/MRProgress)**
-*from [mrackwitz](https://github.com/mrackwitz):*
-> *Collection of iOS drop-in components to visualize progress* 
-
-
-
-**[GaugeKit](https://github.com/skywinder/GaugeKit)**
-*from [skywinder](https://github.com/skywinder):*
-> *Kit for building custom gauges + easy reproducible Apple's style ring gauges.* 
-
-
-
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
-*from [ninjaprox](https://github.com/ninjaprox):*
-> *A collection of awesome loading animations* 
-
-
-
-**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)**
-*from [uzysjung](https://github.com/uzysjung):*
-> *Add PullToRefresh using animated GIF to any scrollView with just simple code* 
-
-
-
-**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)**
-*from [elbryan](https://github.com/elbryan):*
-> *FFCircularProgressView - An iOS 7-inspired blue circular progress view* 
-
-
-
-**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
-*from [Marxon13](https://github.com/Marxon13):*
-> *A suite containing many tools to display progress information on iOS.* 
 
 
 
