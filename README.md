@@ -63,6 +63,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+**[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
+*from [MatiBot](https://github.com/MatiBot):*
+> *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)* 
+
+
+
+![](https://camo.githubusercontent.com/066003a670c9ee878d3e9426df85f1a99ce00961/68747470733a2f2f7261772e6769746875622e636f6d2f6d617469626f742f4d4243697263756c617250726f67726573734261722f302e322f526561646d652f6578616d706c652e706e67)
+
+
+
+
+--------------------------
+
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar)**
+*from [fxm90](https://github.com/fxm90):*
+> *A customizable animated gradient loading bar.* 
+
+
+
+![](https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966)
+
+
+
+
+--------------------------
+
 **[StepProgressView](https://github.com/yonat/StepProgressView)**
 *from [yonat](https://github.com/yonat):*
 > *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
@@ -164,35 +190,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
-*from [DholStudio](https://github.com/DholStudio):*
-> *A simple animated progress bar in Swift* 
-
-
-
-![](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
-
-
-
-
---------------------------
-
-**[HFCardCollectionViewLayout](https://github.com/hfrahmann/HFCardCollectionViewLayout)**
-*from [hfrahmann](https://github.com/hfrahmann):*
-> *The HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.* 
-
-
-
-![](https://raw.githubusercontent.com/hfrahmann/HFCardCollectionViewLayout/master/ReadmeAssets/Screenplay.gif)
-
-
-
 # By Category
 
 ## Progress
+**[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
+*from [MatiBot](https://github.com/MatiBot):*
+> *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)* 
+
+
+
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar)**
+*from [fxm90](https://github.com/fxm90):*
+> *A customizable animated gradient loading bar.* 
+
+
+
 **[StepProgressView](https://github.com/yonat/StepProgressView)**
 *from [yonat](https://github.com/yonat):*
 > *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
