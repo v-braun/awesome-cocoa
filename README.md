@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Chart](#Chart)
     - [Progress](#Progress)
     - [CollectionView](#CollectionView)
     - [Cards](#Cards)
@@ -35,7 +36,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Animation](#Animation)
     - [Menu](#Menu)
     - [BlurEffect](#BlurEffect)
-    - [Chart](#Chart)
     - [Calendar](#Calendar)
     - [Introduction](#Introduction)
     - [Shadow](#Shadow)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[BSChart](https://github.com/iBlacksus/BSChart)**
+*from [iBlacksus](https://github.com/iBlacksus):*
+> *BSChart is a simple and useful chart library written on Swift* 
+
+
+
+![](https://github.com/iBlacksus/BSChart/raw/master/ReadmeResources/demo.gif)
+
+
+
+
+--------------------------
 
 **[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
 *from [MatiBot](https://github.com/MatiBot):*
@@ -177,20 +190,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[PresentCardScroller](https://github.com/presentco/PresentCardScroller)**
-*from [presentco](https://github.com/presentco):*
-> *A Pretty Card Scrolling UI in Swift* 
-
-
-
-![](https://github.com/presentco/PresentCardScroller/raw/master/Media/screens1.gif)
-
-
-
 # By Category
+
+## Chart
+**[BSChart](https://github.com/iBlacksus/BSChart)**
+*from [iBlacksus](https://github.com/iBlacksus):*
+> *BSChart is a simple and useful chart library written on Swift* 
+
+
+
+**[JYRadarChart](https://github.com/johnnywjy/JYRadarChart)**
+*from [johnnywjy](https://github.com/johnnywjy):*
+> *an iOS open source Radar Chart implementation* 
+
+
+
 
 ## Progress
 **[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
@@ -994,14 +1008,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[VisualEffectView](https://github.com/efremidze/VisualEffectView)**
 *from [efremidze](https://github.com/efremidze):*
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱* 
-
-
-
-
-## Chart
-**[JYRadarChart](https://github.com/johnnywjy/JYRadarChart)**
-*from [johnnywjy](https://github.com/johnnywjy):*
-> *an iOS open source Radar Chart implementation* 
 
 
 
