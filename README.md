@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Navigation](#Navigation)
     - [Chart](#Chart)
     - [Progress](#Progress)
     - [CollectionView](#CollectionView)
@@ -52,7 +53,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Bar](#Bar)
     - [ScrollView](#ScrollView)
     - [TreeView](#TreeView)
-    - [Navigation](#Navigation)
     - [Gestures](#Gestures)
     - [Gallery](#Gallery)
     - [Video](#Video)
@@ -62,6 +62,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer)**
+*from [KyleGoddard](https://github.com/KyleGoddard):*
+> *A floating navigation drawer with an interesting animated presentation written in Swift.* 
+
+
+
+![](https://raw.githubusercontent.com/KyleGoddard/KGFloatingDrawer/master/kgfloatingdrawer_github_preview.gif)
+
+
+
+
+--------------------------
 
 **[BSChart](https://github.com/iBlacksus/BSChart)**
 *from [iBlacksus](https://github.com/iBlacksus):*
@@ -177,20 +190,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
-*from [BalestraPatrick](https://github.com/BalestraPatrick):*
-> *A button that squishes when pressed. As seen in the Clips app.* 
-
-
-
-![](https://raw.githubusercontent.com/BalestraPatrick/SquishButton/master/demo.gif)
-
-
-
 # By Category
+
+## Navigation
+**[KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer)**
+*from [KyleGoddard](https://github.com/KyleGoddard):*
+> *A floating navigation drawer with an interesting animated presentation written in Swift.* 
+
+
+
+**[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!* 
+
+
+
 
 ## Chart
 **[BSChart](https://github.com/iBlacksus/BSChart)**
@@ -1406,14 +1420,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[RATreeView](https://github.com/Augustyniak/RATreeView)**
 *from [Augustyniak](https://github.com/Augustyniak):*
 > *Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.* 
-
-
-
-
-## Navigation
-**[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!* 
 
 
 
