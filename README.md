@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Alert](#Alert)
     - [CollectionView](#CollectionView)
     - [Navigation](#Navigation)
     - [Chart](#Chart)
@@ -62,6 +63,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[RMActionController](https://github.com/CooperRS/RMActionController)**
+*from [CooperRS](https://github.com/CooperRS):*
+> *This is an iOS control for presenting any UIView in an UIAlertController like manner* 
+
+
+
+![](https://camo.githubusercontent.com/15a7e6981e9cf115c742fc13c2cb28a3f2961910/687474703a2f2f636f6f70657272732e6769746875622e696f2f524d416374696f6e436f6e74726f6c6c65722f496d616765732f437573746f6d2d57686974652e706e67)
+
+
+
+
+--------------------------
 
 **[CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell)**
 *from [yonat](https://github.com/yonat):*
@@ -177,20 +191,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[PARTagPicker](https://github.com/paulrolfe/PARTagPicker)**
-*from [paulrolfe](https://github.com/paulrolfe):*
-> *This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.* 
-
-
-
-![](https://raw.githubusercontent.com/abdullahselek/ASCollectionView/master/screenshots/ascollectionview_1.png)
-
-
-
 # By Category
+
+## Alert
+**[RMActionController](https://github.com/CooperRS/RMActionController)**
+*from [CooperRS](https://github.com/CooperRS):*
+> *This is an iOS control for presenting any UIView in an UIAlertController like manner* 
+
+
+
 
 ## CollectionView
 **[CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell)**
