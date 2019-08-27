@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Notification](#Notification)
     - [Button](#Button)
     - [CollectionView](#CollectionView)
     - [Animation](#Animation)
@@ -45,7 +46,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Map](#Map)
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
-    - [Notification](#Notification)
     - [Parallax](#Parallax)
     - [Loading](#Loading)
     - [RangeSelect](#RangeSelect)
@@ -63,6 +63,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[SwiftOverlays](https://github.com/peterprokop/SwiftOverlays)**
+*from [peterprokop](https://github.com/peterprokop):*
+> *SwiftOverlays is a Swift GUI library for displaying various popups and notifications* 
+
+
+
+![](https://camo.githubusercontent.com/c3b9d10cdcb04eba4503f744950b23ccb8802e42/68747470733a2f2f692e696d67666c69702e636f6d2f6466356b352e676966)
+
+
+
+
+--------------------------
 
 **[PMSuperButton](https://github.com/pmusolino/PMSuperButton)**
 *from [pmusolino](https://github.com/pmusolino):*
@@ -178,20 +191,81 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[StepProgressView](https://github.com/yonat/StepProgressView)**
-*from [yonat](https://github.com/yonat):*
-> *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
-
-
-
-![](https://raw.githubusercontent.com/yonat/StepProgressView/master/screenshots/blue.gif)
-
-
-
 # By Category
+
+## Notification
+**[SwiftOverlays](https://github.com/peterprokop/SwiftOverlays)**
+*from [peterprokop](https://github.com/peterprokop):*
+> *SwiftOverlays is a Swift GUI library for displaying various popups and notifications* 
+
+
+
+**[PKHUD](https://github.com/pkluz/PKHUD)**
+*from [pkluz](https://github.com/pkluz):*
+> *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.* 
+
+
+
+**[CFNotify](https://github.com/hallelujahbaby/CFNotify)**
+*from [hallelujahbaby](https://github.com/hallelujahbaby):*
+> *A customizable framework to create draggable views* 
+
+
+
+**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView)**
+*from [candostdagdeviren](https://github.com/candostdagdeviren):*
+> *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift* 
+
+
+
+**[CRToast](https://github.com/cruffenach/CRToast)**
+*from [cruffenach](https://github.com/cruffenach):*
+> *A modern iOS toast view that can fit your notification needs* 
+
+
+
+**[JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)**
+*from [atljeremy](https://github.com/atljeremy):*
+> *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.* 
+
+
+
+**[TSMessages](https://github.com/KrauseFx/TSMessages)**
+*from [KrauseFx](https://github.com/KrauseFx):*
+> *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot* 
+
+
+
+**[LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)**
+*from [LeoNatan](https://github.com/LeoNatan):*
+> *A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.* 
+
+
+
+**[TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)**
+*from [terryworona](https://github.com/terryworona):*
+> *An iOS manager for presenting system-wide notifications via a dropdown message bar.* 
+
+
+
+**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
+> *iOS / Objective C: an extremely simple UIAlertView alternative* 
+
+
+
+**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
+> *Make any UIView a full fledged notification center* 
+
+
+
+**[Notie](https://github.com/thii/Notie)**
+*from [thii](https://github.com/thii):*
+> *In-app notification in Swift, with customizable buttons and input text field.* 
+
+
+
 
 ## Button
 **[PMSuperButton](https://github.com/pmusolino/PMSuperButton)**
@@ -1273,74 +1347,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)**
 *from [cemolcay](https://github.com/cemolcay):*
 > *PullToRefresh extension for all UIScrollView type classes with animated text drawing style* 
-
-
-
-
-## Notification
-**[PKHUD](https://github.com/pkluz/PKHUD)**
-*from [pkluz](https://github.com/pkluz):*
-> *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.* 
-
-
-
-**[CFNotify](https://github.com/hallelujahbaby/CFNotify)**
-*from [hallelujahbaby](https://github.com/hallelujahbaby):*
-> *A customizable framework to create draggable views* 
-
-
-
-**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView)**
-*from [candostdagdeviren](https://github.com/candostdagdeviren):*
-> *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift* 
-
-
-
-**[CRToast](https://github.com/cruffenach/CRToast)**
-*from [cruffenach](https://github.com/cruffenach):*
-> *A modern iOS toast view that can fit your notification needs* 
-
-
-
-**[JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)**
-*from [atljeremy](https://github.com/atljeremy):*
-> *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.* 
-
-
-
-**[TSMessages](https://github.com/KrauseFx/TSMessages)**
-*from [KrauseFx](https://github.com/KrauseFx):*
-> *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot* 
-
-
-
-**[LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI)**
-*from [LeoNatan](https://github.com/LeoNatan):*
-> *A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.* 
-
-
-
-**[TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)**
-*from [terryworona](https://github.com/terryworona):*
-> *An iOS manager for presenting system-wide notifications via a dropdown message bar.* 
-
-
-
-**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)**
-*from [cwRichardKim](https://github.com/cwRichardKim):*
-> *iOS / Objective C: an extremely simple UIAlertView alternative* 
-
-
-
-**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)**
-*from [cwRichardKim](https://github.com/cwRichardKim):*
-> *Make any UIView a full fledged notification center* 
-
-
-
-**[Notie](https://github.com/thii/Notie)**
-*from [thii](https://github.com/thii):*
-> *In-app notification in Swift, with customizable buttons and input text field.* 
 
 
 
