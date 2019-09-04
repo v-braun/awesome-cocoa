@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Progress](#Progress)
     - [Notification](#Notification)
     - [Button](#Button)
     - [CollectionView](#CollectionView)
@@ -23,7 +24,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Alert](#Alert)
     - [Navigation](#Navigation)
     - [Chart](#Chart)
-    - [Progress](#Progress)
     - [Cards](#Cards)
     - [Dialog](#Dialog)
     - [Tags](#Tags)
@@ -63,6 +63,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[KWStepper](https://github.com/kyleweiner/KWStepper)**
+*from [kyleweiner](https://github.com/kyleweiner):*
+> *A stepper control with flexible UI and tailored UX.* 
+
+
+
+![](https://raw.githubusercontent.com/kyleweiner/KWStepper/master/screenshots.png)
+
+
+
+
+--------------------------
 
 **[SwiftOverlays](https://github.com/peterprokop/SwiftOverlays)**
 *from [peterprokop](https://github.com/peterprokop):*
@@ -178,8 +191,20 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
+# By Category
 
---------------------------
+## Progress
+**[KWStepper](https://github.com/kyleweiner/KWStepper)**
+*from [kyleweiner](https://github.com/kyleweiner):*
+> *A stepper control with flexible UI and tailored UX.* 
+
+
+
+**[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
+*from [MatiBot](https://github.com/MatiBot):*
+> *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)* 
+
+
 
 **[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar)**
 *from [fxm90](https://github.com/fxm90):*
@@ -187,11 +212,96 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-![](https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966)
+**[StepProgressView](https://github.com/yonat/StepProgressView)**
+*from [yonat](https://github.com/yonat):*
+> *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
 
 
 
-# By Category
+**[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
+*from [DholStudio](https://github.com/DholStudio):*
+> *A simple animated progress bar in Swift* 
+
+
+
+**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
+*from [soberman](https://github.com/soberman):*
+> *iOS progress bar, replacement for the default activity indicator.* 
+
+
+
+**[SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)**
+*from [simformsolutions](https://github.com/simformsolutions):*
+> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
+
+
+
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)**
+*from [keygx](https://github.com/keygx):*
+> *Customizable progress indicator library in Swift* 
+
+
+
+**[DockProgress](https://github.com/sindresorhus/DockProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
+> *Show progress in your app's Dock icon* 
+
+
+
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress)**
+*from [sindresorhus](https://github.com/sindresorhus):*
+> *Circular progress indicator for your macOS app* 
+
+
+
+**[RSLoadingView](https://github.com/roytornado/RSLoadingView)**
+*from [roytornado](https://github.com/roytornado):*
+> *Awesome loading animations using 3D engine written with Swift* 
+
+
+
+**[RetroProgress](https://github.com/hyperoslo/RetroProgress)**
+*from [hyperoslo](https://github.com/hyperoslo):*
+> *💈 Retro looking progress bar straight from the 90s* 
+
+
+
+**[MRProgress](https://github.com/mrackwitz/MRProgress)**
+*from [mrackwitz](https://github.com/mrackwitz):*
+> *Collection of iOS drop-in components to visualize progress* 
+
+
+
+**[GaugeKit](https://github.com/skywinder/GaugeKit)**
+*from [skywinder](https://github.com/skywinder):*
+> *Kit for building custom gauges + easy reproducible Apple's style ring gauges.* 
+
+
+
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
+*from [ninjaprox](https://github.com/ninjaprox):*
+> *A collection of awesome loading animations* 
+
+
+
+**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)**
+*from [uzysjung](https://github.com/uzysjung):*
+> *Add PullToRefresh using animated GIF to any scrollView with just simple code* 
+
+
+
+**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)**
+*from [elbryan](https://github.com/elbryan):*
+> *FFCircularProgressView - An iOS 7-inspired blue circular progress view* 
+
+
+
+**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
+*from [Marxon13](https://github.com/Marxon13):*
+> *A suite containing many tools to display progress information on iOS.* 
+
+
+
 
 ## Notification
 **[SwiftOverlays](https://github.com/peterprokop/SwiftOverlays)**
@@ -557,110 +667,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[JYRadarChart](https://github.com/johnnywjy/JYRadarChart)**
 *from [johnnywjy](https://github.com/johnnywjy):*
 > *an iOS open source Radar Chart implementation* 
-
-
-
-
-## Progress
-**[MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar)**
-*from [MatiBot](https://github.com/MatiBot):*
-> *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)* 
-
-
-
-**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar)**
-*from [fxm90](https://github.com/fxm90):*
-> *A customizable animated gradient loading bar.* 
-
-
-
-**[StepProgressView](https://github.com/yonat/StepProgressView)**
-*from [yonat](https://github.com/yonat):*
-> *Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.* 
-
-
-
-**[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView)**
-*from [DholStudio](https://github.com/DholStudio):*
-> *A simple animated progress bar in Swift* 
-
-
-
-**[ARSLineProgress](https://github.com/soberman/ARSLineProgress)**
-*from [soberman](https://github.com/soberman):*
-> *iOS progress bar, replacement for the default activity indicator.* 
-
-
-
-**[SSSpinnerButton](https://github.com/simformsolutions/SSSpinnerButton)**
-*from [simformsolutions](https://github.com/simformsolutions):*
-> *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.* 
-
-
-
-**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)**
-*from [keygx](https://github.com/keygx):*
-> *Customizable progress indicator library in Swift* 
-
-
-
-**[DockProgress](https://github.com/sindresorhus/DockProgress)**
-*from [sindresorhus](https://github.com/sindresorhus):*
-> *Show progress in your app's Dock icon* 
-
-
-
-**[CircularProgress](https://github.com/sindresorhus/CircularProgress)**
-*from [sindresorhus](https://github.com/sindresorhus):*
-> *Circular progress indicator for your macOS app* 
-
-
-
-**[RSLoadingView](https://github.com/roytornado/RSLoadingView)**
-*from [roytornado](https://github.com/roytornado):*
-> *Awesome loading animations using 3D engine written with Swift* 
-
-
-
-**[RetroProgress](https://github.com/hyperoslo/RetroProgress)**
-*from [hyperoslo](https://github.com/hyperoslo):*
-> *💈 Retro looking progress bar straight from the 90s* 
-
-
-
-**[MRProgress](https://github.com/mrackwitz/MRProgress)**
-*from [mrackwitz](https://github.com/mrackwitz):*
-> *Collection of iOS drop-in components to visualize progress* 
-
-
-
-**[GaugeKit](https://github.com/skywinder/GaugeKit)**
-*from [skywinder](https://github.com/skywinder):*
-> *Kit for building custom gauges + easy reproducible Apple's style ring gauges.* 
-
-
-
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)**
-*from [ninjaprox](https://github.com/ninjaprox):*
-> *A collection of awesome loading animations* 
-
-
-
-**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)**
-*from [uzysjung](https://github.com/uzysjung):*
-> *Add PullToRefresh using animated GIF to any scrollView with just simple code* 
-
-
-
-**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView)**
-*from [elbryan](https://github.com/elbryan):*
-> *FFCircularProgressView - An iOS 7-inspired blue circular progress view* 
-
-
-
-**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)**
-*from [Marxon13](https://github.com/Marxon13):*
-> *A suite containing many tools to display progress information on iOS.* 
 
 
 
