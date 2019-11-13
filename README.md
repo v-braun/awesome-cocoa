@@ -16,6 +16,8 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Shadow](#Shadow)
+    - [TextField](#TextField)
     - [Menu](#Menu)
     - [TableView](#TableView)
     - [Progress](#Progress)
@@ -41,8 +43,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [BlurEffect](#BlurEffect)
     - [Calendar](#Calendar)
     - [Introduction](#Introduction)
-    - [Shadow](#Shadow)
-    - [TextField](#TextField)
     - [Map](#Map)
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
@@ -63,6 +63,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[SwiftyShadow](https://github.com/noblakit01/SwiftyShadow)**
+*from [noblakit01](https://github.com/noblakit01):*
+> *Helper Shadow Path for UIView in Swift iOS* 
+
+
+
+![](https://raw.githubusercontent.com/noblakit01/SwiftyShadow/master/Screenshot/elliptical_shadow.png)
+
+
+
+
+--------------------------
+
+**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS)**
+*from [orazz](https://github.com/orazz):*
+> *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.* 
+
+
+
+![](https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif)
+
+
+
+
+--------------------------
 
 **[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift)**
 *from [liufengting](https://github.com/liufengting):*
@@ -165,33 +191,101 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell)**
-*from [yonat](https://github.com/yonat):*
-> *UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app "Select" mode.* 
-
-
-
-![](https://raw.githubusercontent.com/yonat/CheckmarkCollectionViewCell/master/Screenshots/CheckmarkCollectionViewCell.png)
-
-
-
-
---------------------------
-
-**[KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer)**
-*from [KyleGoddard](https://github.com/KyleGoddard):*
-> *A floating navigation drawer with an interesting animated presentation written in Swift.* 
-
-
-
-![](https://raw.githubusercontent.com/KyleGoddard/KGFloatingDrawer/master/kgfloatingdrawer_github_preview.gif)
-
-
-
 # By Category
+
+## Shadow
+**[SwiftyShadow](https://github.com/noblakit01/SwiftyShadow)**
+*from [noblakit01](https://github.com/noblakit01):*
+> *Helper Shadow Path for UIView in Swift iOS* 
+
+
+
+**[ShadowView](https://github.com/PierrePerrin/ShadowView)**
+*from [PierrePerrin](https://github.com/PierrePerrin):*
+> *An iOS Library that makes shadows management easy on UIView.* 
+
+
+
+
+## TextField
+**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS)**
+*from [orazz](https://github.com/orazz):*
+> *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.* 
+
+
+
+**[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)**
+*from [Skyscanner](https://github.com/Skyscanner):*
+> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
+
+
+
+**[Translucid](https://github.com/Ekhoo/Translucid)**
+*from [Ekhoo](https://github.com/Ekhoo):*
+> *Lightweight library to set an Image as text background. Written in swift.* 
+
+
+
+**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)**
+*from [me-abhinav](https://github.com/me-abhinav):*
+> *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.* 
+
+
+
+**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields)**
+*from [FahimF](https://github.com/FahimF):*
+> *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.* 
+
+
+
+**[DTTextField](https://github.com/iDhaval/DTTextField)**
+*from [iDhaval](https://github.com/iDhaval):*
+> *DTTextField is a custom textfield with floating placeholder and error label* 
+
+
+
+**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Simple countdown UILabel with morphing animation, and some useful function.* 
+
+
+
+**[WSTagsField](https://github.com/whitesmith/WSTagsField)**
+*from [whitesmith](https://github.com/whitesmith):*
+> *An iOS text field that represents different Tags* 
+
+
+
+**[CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)**
+*from [Fawxy](https://github.com/Fawxy):*
+> *A customisable view for entering arbitrary length numerical pins or codes in iOS.* 
+
+
+
+**[AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)**
+*from [jogendra](https://github.com/jogendra):*
+> *Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.* 
+
+
+
+**[HTYTextField](https://github.com/hanton/HTYTextField)**
+*from [hanton](https://github.com/hanton):*
+> *A UITextField with bouncy placeholder. * 
+
+
+
+**[RKRichTextView](https://github.com/ren6/RKRichTextView)**
+*from [ren6](https://github.com/ren6):*
+> *Rich Text Editor for iOS* 
+
+
+
+**[RichEditorView](https://github.com/cjwirth/RichEditorView)**
+*from [cjwirth](https://github.com/cjwirth):*
+> *RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.* 
+
+
+
 
 ## Menu
 **[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift)**
@@ -1223,88 +1317,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Onboard](https://github.com/mamaral/Onboard)**
 *from [mamaral](https://github.com/mamaral):*
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.* 
-
-
-
-
-## Shadow
-**[ShadowView](https://github.com/PierrePerrin/ShadowView)**
-*from [PierrePerrin](https://github.com/PierrePerrin):*
-> *An iOS Library that makes shadows management easy on UIView.* 
-
-
-
-
-## TextField
-**[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)**
-*from [Skyscanner](https://github.com/Skyscanner):*
-> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
-
-
-
-**[Translucid](https://github.com/Ekhoo/Translucid)**
-*from [Ekhoo](https://github.com/Ekhoo):*
-> *Lightweight library to set an Image as text background. Written in swift.* 
-
-
-
-**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)**
-*from [me-abhinav](https://github.com/me-abhinav):*
-> *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.* 
-
-
-
-**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields)**
-*from [FahimF](https://github.com/FahimF):*
-> *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.* 
-
-
-
-**[DTTextField](https://github.com/iDhaval/DTTextField)**
-*from [iDhaval](https://github.com/iDhaval):*
-> *DTTextField is a custom textfield with floating placeholder and error label* 
-
-
-
-**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *Simple countdown UILabel with morphing animation, and some useful function.* 
-
-
-
-**[WSTagsField](https://github.com/whitesmith/WSTagsField)**
-*from [whitesmith](https://github.com/whitesmith):*
-> *An iOS text field that represents different Tags* 
-
-
-
-**[CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)**
-*from [Fawxy](https://github.com/Fawxy):*
-> *A customisable view for entering arbitrary length numerical pins or codes in iOS.* 
-
-
-
-**[AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)**
-*from [jogendra](https://github.com/jogendra):*
-> *Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.* 
-
-
-
-**[HTYTextField](https://github.com/hanton/HTYTextField)**
-*from [hanton](https://github.com/hanton):*
-> *A UITextField with bouncy placeholder. * 
-
-
-
-**[RKRichTextView](https://github.com/ren6/RKRichTextView)**
-*from [ren6](https://github.com/ren6):*
-> *Rich Text Editor for iOS* 
-
-
-
-**[RichEditorView](https://github.com/cjwirth/RichEditorView)**
-*from [cjwirth](https://github.com/cjwirth):*
-> *RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.* 
 
 
 
