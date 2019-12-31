@@ -16,13 +16,13 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Button](#Button)
     - [Shadow](#Shadow)
     - [TextField](#TextField)
     - [Menu](#Menu)
     - [TableView](#TableView)
     - [Progress](#Progress)
     - [Notification](#Notification)
-    - [Button](#Button)
     - [CollectionView](#CollectionView)
     - [Animation](#Animation)
     - [Alert](#Alert)
@@ -63,6 +63,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[FloatingButton](https://github.com/exyte/FloatingButton)**
+*from [exyte](https://github.com/exyte):*
+> *Easily customizable floating button menu created with SwiftUI* 
+
+
+
+![](https://raw.githubusercontent.com/exyte/FloatingButton/master/Assets/demo.gif)
+
+
+
+
+--------------------------
 
 **[SwiftyShadow](https://github.com/noblakit01/SwiftyShadow)**
 *from [noblakit01](https://github.com/noblakit01):*
@@ -178,20 +191,63 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[RMActionController](https://github.com/CooperRS/RMActionController)**
-*from [CooperRS](https://github.com/CooperRS):*
-> *This is an iOS control for presenting any UIView in an UIAlertController like manner* 
-
-
-
-![](https://camo.githubusercontent.com/15a7e6981e9cf115c742fc13c2cb28a3f2961910/687474703a2f2f636f6f70657272732e6769746875622e696f2f524d416374696f6e436f6e74726f6c6c65722f496d616765732f437573746f6d2d57686974652e706e67)
-
-
-
 # By Category
+
+## Button
+**[FloatingButton](https://github.com/exyte/FloatingButton)**
+*from [exyte](https://github.com/exyte):*
+> *Easily customizable floating button menu created with SwiftUI* 
+
+
+
+**[PMSuperButton](https://github.com/pmusolino/PMSuperButton)**
+*from [pmusolino](https://github.com/pmusolino):*
+> *🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎* 
+
+
+
+**[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
+*from [BalestraPatrick](https://github.com/BalestraPatrick):*
+> *A button that squishes when pressed. As seen in the Clips app.* 
+
+
+
+**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
+
+
+
+**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
+*from [AladinWay](https://github.com/AladinWay):*
+> *UIButton sublass for loading and transition animation.* 
+
+
+
+**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
+*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
+> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
+
+
+
+**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
+*from [yonat](https://github.com/yonat):*
+> *Multiple state tap to toggle UIButton in Swift* 
+
+
+
+**[LGButton](https://github.com/loregr/LGButton)**
+*from [loregr](https://github.com/loregr):*
+> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
+
+
+
+**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
+*from [okmr-d](https://github.com/okmr-d):*
+> *Cute Animated Button written in Swift.* 
+
+
+
 
 ## Shadow
 **[SwiftyShadow](https://github.com/noblakit01/SwiftyShadow)**
@@ -657,62 +713,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Notie](https://github.com/thii/Notie)**
 *from [thii](https://github.com/thii):*
 > *In-app notification in Swift, with customizable buttons and input text field.* 
-
-
-
-
-## Button
-**[PMSuperButton](https://github.com/pmusolino/PMSuperButton)**
-*from [pmusolino](https://github.com/pmusolino):*
-> *🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎* 
-
-
-
-**[SquishButton](https://github.com/BalestraPatrick/SquishButton)**
-*from [BalestraPatrick](https://github.com/BalestraPatrick):*
-> *A button that squishes when pressed. As seen in the Clips app.* 
-
-
-
-**[AnimatablePlayButton](https://github.com/suzuki-0000/AnimatablePlayButton)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.* 
-
-
-
-**[TransitionButton](https://github.com/AladinWay/TransitionButton)**
-*from [AladinWay](https://github.com/AladinWay):*
-> *UIButton sublass for loading and transition animation.* 
-
-
-
-**[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)**
-*from [LeonardoCardoso](https://github.com/LeonardoCardoso):*
-> *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.* 
-
-
-
-**[MultiToggleButton](https://github.com/yonat/MultiToggleButton)**
-*from [yonat](https://github.com/yonat):*
-> *Multiple state tap to toggle UIButton in Swift* 
-
-
-
-**[LGButton](https://github.com/loregr/LGButton)**
-*from [loregr](https://github.com/loregr):*
-> *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.* 
-
-
-
-**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
-*from [okmr-d](https://github.com/okmr-d):*
-> *Cute Animated Button written in Swift.* 
-
-
-
-**[FloatingButton](https://github.com/exyte/FloatingButton)**
-*from [exyte](https://github.com/exyte):*
-> *Easily customizable floating button menu created with SwiftUI* 
 
 
 
