@@ -710,6 +710,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
+**[FloatingButton](https://github.com/exyte/FloatingButton)**
+*from [exyte](https://github.com/exyte):*
+> *Easily customizable floating button menu created with SwiftUI* 
+
+
+
 
 ## CollectionView
 **[CollectionViewWaterfallLayout](https://github.com/ecerney/CollectionViewWaterfallLayout)**
