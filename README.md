@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Stack](#Stack)
     - [Button](#Button)
     - [Shadow](#Shadow)
     - [TextField](#TextField)
@@ -63,6 +64,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[StackViewController](https://github.com/seedco/StackViewController)**
+*from [seedco](https://github.com/seedco):*
+> *A controller that uses a UIStackView and view controller composition to display content in a list* 
+
+
+
+![](https://raw.githubusercontent.com/seedco/StackViewController/master/screenshot.png)
+
+
+
+
+--------------------------
 
 **[FloatingButton](https://github.com/exyte/FloatingButton)**
 *from [exyte](https://github.com/exyte):*
@@ -178,20 +192,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SpeechRecognizerButton](https://github.com/alexruperez/SpeechRecognizerButton)**
-*from [alexruperez](https://github.com/alexruperez):*
-> *UIButton subclass with push to talk recording, speech recognition and Siri-style waveform view.* 
-
-
-
-![](https://raw.githubusercontent.com/alexruperez/SpeechRecognizerButton/master/SpeechRecognizerButton.gif)
-
-
-
 # By Category
+
+## Stack
+**[StackViewController](https://github.com/seedco/StackViewController)**
+*from [seedco](https://github.com/seedco):*
+> *A controller that uses a UIStackView and view controller composition to display content in a list* 
+
+
+
 
 ## Button
 **[FloatingButton](https://github.com/exyte/FloatingButton)**
