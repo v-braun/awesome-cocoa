@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Parallax](#Parallax)
     - [Animation](#Animation)
     - [Menu](#Menu)
     - [Stack](#Stack)
@@ -47,7 +48,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Map](#Map)
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
-    - [Parallax](#Parallax)
     - [Loading](#Loading)
     - [RangeSelect](#RangeSelect)
     - [Picker](#Picker)
@@ -64,6 +64,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)**
+*from [DroidsOnRoids](https://github.com/DroidsOnRoids):*
+> *Apple TV Parallax effect in Swift.* 
+
+
+
+![](https://github.com/DroidsOnRoids/MPParallaxView/raw/master/Resources/demo.gif)
+
+
+
+
+--------------------------
 
 **[SPLarkController](https://github.com/ivanvorobei/SPLarkController)**
 *from [ivanvorobei](https://github.com/ivanvorobei):*
@@ -179,20 +192,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SwiftOverlays](https://github.com/peterprokop/SwiftOverlays)**
-*from [peterprokop](https://github.com/peterprokop):*
-> *SwiftOverlays is a Swift GUI library for displaying various popups and notifications* 
-
-
-
-![](https://camo.githubusercontent.com/c3b9d10cdcb04eba4503f744950b23ccb8802e42/68747470733a2f2f692e696d67666c69702e636f6d2f6466356b352e676966)
-
-
-
 # By Category
+
+## Parallax
+**[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)**
+*from [DroidsOnRoids](https://github.com/DroidsOnRoids):*
+> *Apple TV Parallax effect in Swift.* 
+
+
+
+**[MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)**
+*from [maxep](https://github.com/maxep):*
+> *Simple parallax header for UIScrollView* 
+
+
+
 
 ## Animation
 **[SPLarkController](https://github.com/ivanvorobei/SPLarkController)**
@@ -1404,14 +1418,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText)**
 *from [cemolcay](https://github.com/cemolcay):*
 > *PullToRefresh extension for all UIScrollView type classes with animated text drawing style* 
-
-
-
-
-## Parallax
-**[MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)**
-*from [maxep](https://github.com/maxep):*
-> *Simple parallax header for UIScrollView* 
 
 
 
