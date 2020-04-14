@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Tooltip](#Tooltip)
     - [Parallax](#Parallax)
     - [Animation](#Animation)
     - [Menu](#Menu)
@@ -64,6 +65,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[MKToolTip](https://github.com/metinkilicaslan/MKToolTip)**
+*from [metinkilicaslan](https://github.com/metinkilicaslan):*
+> *MKToolTip is a customizable tooltip view written in Swift that can be used as a informative tip* 
+
+
+
+![](https://raw.githubusercontent.com/metinkilicaslan/MKToolTip/master/MKToolTip.gif)
+
+
+
+
+--------------------------
 
 **[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)**
 *from [DroidsOnRoids](https://github.com/DroidsOnRoids):*
@@ -179,20 +193,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[KWStepper](https://github.com/kyleweiner/KWStepper)**
-*from [kyleweiner](https://github.com/kyleweiner):*
-> *A stepper control with flexible UI and tailored UX.* 
-
-
-
-![](https://raw.githubusercontent.com/kyleweiner/KWStepper/master/screenshots.png)
-
-
-
 # By Category
+
+## Tooltip
+**[MKToolTip](https://github.com/metinkilicaslan/MKToolTip)**
+*from [metinkilicaslan](https://github.com/metinkilicaslan):*
+> *MKToolTip is a customizable tooltip view written in Swift that can be used as a informative tip* 
+
+
+
 
 ## Parallax
 **[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)**
