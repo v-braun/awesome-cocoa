@@ -16,10 +16,10 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Menu](#Menu)
     - [Tooltip](#Tooltip)
     - [Parallax](#Parallax)
     - [Animation](#Animation)
-    - [Menu](#Menu)
     - [Stack](#Stack)
     - [Button](#Button)
     - [Shadow](#Shadow)
@@ -65,6 +65,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[FlowingMenu](https://github.com/yannickl/FlowingMenu)**
+*from [yannickl](https://github.com/yannickl):*
+> *Interactive view transition to display menus with flowing and bouncing effects in Swift* 
+
+
+
+![](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
+
+
+
+
+--------------------------
 
 **[MKToolTip](https://github.com/metinkilicaslan/MKToolTip)**
 *from [metinkilicaslan](https://github.com/metinkilicaslan):*
@@ -180,20 +193,135 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[TableFlip](https://github.com/mergesort/TableFlip)**
-*from [mergesort](https://github.com/mergesort):*
-> *A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻* 
-
-
-
-![](https://raw.githubusercontent.com/mergesort/TableFlip/master/gifs/left.gif)
-
-
-
 # By Category
+
+## Menu
+**[FlowingMenu](https://github.com/yannickl/FlowingMenu)**
+*from [yannickl](https://github.com/yannickl):*
+> *Interactive view transition to display menus with flowing and bouncing effects in Swift* 
+
+
+
+**[PinterestSegment](https://github.com/TBXark/PinterestSegment)**
+*from [TBXark](https://github.com/TBXark):*
+> *A Pinterest-like segment control with masking animation.* 
+
+
+
+**[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift)**
+*from [liufengting](https://github.com/liufengting):*
+> *FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.* 
+
+
+
+**[PopMenu](https://github.com/CaliCastle/PopMenu)**
+*from [CaliCastle](https://github.com/CaliCastle):*
+> *A cool and customizable popup style action sheet for iOS 😎* 
+
+
+
+**[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
+
+
+
+**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController)**
+*from [yysskk](https://github.com/yysskk):*
+> *Swipable tab and menu View and ViewController.* 
+
+
+
+**[XLActionController](https://github.com/xmartlabs/XLActionController)**
+*from [xmartlabs](https://github.com/xmartlabs):*
+> *Fully customizable and extensible action sheet controller written in Swift* 
+
+
+
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)**
+*from [younatics](https://github.com/younatics):*
+> *✨ Awesome Dropdown menu for iOS with Swift 4* 
+
+
+
+**[Panels](https://github.com/antoniocasero/Panels)**
+*from [antoniocasero](https://github.com/antoniocasero):*
+> *Panels is a framework to easily add sliding panels to your application* 
+
+
+
+**[SideMenu](https://github.com/jonkykong/SideMenu)**
+*from [jonkykong](https://github.com/jonkykong):*
+> *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.* 
+
+
+
+**[MediumMenu](https://github.com/pixyzehn/MediumMenu)**
+*from [pixyzehn](https://github.com/pixyzehn):*
+> *A menu based on Medium iOS app.* 
+
+
+
+**[Hexacon](https://github.com/gautier-gdx/Hexacon)**
+*from [gautier-gdx](https://github.com/gautier-gdx):*
+> *A fancy hexagonal layout for displaying data like your Apple Watch* 
+
+
+
+**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)**
+*from [evnaz](https://github.com/evnaz):*
+> *A simple side menu for iOS written in Swift. * 
+
+
+
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)**
+*from [xmartlabs](https://github.com/xmartlabs):*
+> *Android PagerTabStrip for iOS.* 
+
+
+
+**[MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen)**
+*from [pixyzehn](https://github.com/pixyzehn):*
+> *Medium's upper and lower Menu in Scroll.* 
+
+
+
+**[AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu)**
+*from [ashishkakkad8](https://github.com/ashishkakkad8):*
+> *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11* 
+
+
+
+**[RESideMenu](https://github.com/romaonthego/RESideMenu)**
+*from [romaonthego](https://github.com/romaonthego):*
+> *iOS 7/8 style side menu with parallax effect.* 
+
+
+
+**[cariocamenu](https://github.com/arn00s/cariocamenu)**
+*from [arn00s](https://github.com/arn00s):*
+> *The fastest zero-tap iOS menu.* 
+
+
+
+**[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)**
+*from [romaonthego](https://github.com/romaonthego):*
+> *iOS 7/8 style blurred view controller that appears on top of your view controller.* 
+
+
+
+**[TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)**
+*from [twotoasters](https://github.com/twotoasters):*
+> *Side Menus for iOS 7* 
+
+
+
+**[AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)**
+*from [arturdev](https://github.com/arturdev):*
+> *Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.* 
+
+
+
 
 ## Tooltip
 **[MKToolTip](https://github.com/metinkilicaslan/MKToolTip)**
@@ -347,128 +475,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)**
 *from [andreamazz](https://github.com/andreamazz):*
 > *UITextField category that adds shake animation* 
-
-
-
-
-## Menu
-**[PinterestSegment](https://github.com/TBXark/PinterestSegment)**
-*from [TBXark](https://github.com/TBXark):*
-> *A Pinterest-like segment control with masking animation.* 
-
-
-
-**[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift)**
-*from [liufengting](https://github.com/liufengting):*
-> *FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.* 
-
-
-
-**[PopMenu](https://github.com/CaliCastle/PopMenu)**
-*from [CaliCastle](https://github.com/CaliCastle):*
-> *A cool and customizable popup style action sheet for iOS 😎* 
-
-
-
-**[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.* 
-
-
-
-**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController)**
-*from [yysskk](https://github.com/yysskk):*
-> *Swipable tab and menu View and ViewController.* 
-
-
-
-**[XLActionController](https://github.com/xmartlabs/XLActionController)**
-*from [xmartlabs](https://github.com/xmartlabs):*
-> *Fully customizable and extensible action sheet controller written in Swift* 
-
-
-
-**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu)**
-*from [younatics](https://github.com/younatics):*
-> *✨ Awesome Dropdown menu for iOS with Swift 4* 
-
-
-
-**[Panels](https://github.com/antoniocasero/Panels)**
-*from [antoniocasero](https://github.com/antoniocasero):*
-> *Panels is a framework to easily add sliding panels to your application* 
-
-
-
-**[SideMenu](https://github.com/jonkykong/SideMenu)**
-*from [jonkykong](https://github.com/jonkykong):*
-> *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.* 
-
-
-
-**[MediumMenu](https://github.com/pixyzehn/MediumMenu)**
-*from [pixyzehn](https://github.com/pixyzehn):*
-> *A menu based on Medium iOS app.* 
-
-
-
-**[Hexacon](https://github.com/gautier-gdx/Hexacon)**
-*from [gautier-gdx](https://github.com/gautier-gdx):*
-> *A fancy hexagonal layout for displaying data like your Apple Watch* 
-
-
-
-**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)**
-*from [evnaz](https://github.com/evnaz):*
-> *A simple side menu for iOS written in Swift. * 
-
-
-
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)**
-*from [xmartlabs](https://github.com/xmartlabs):*
-> *Android PagerTabStrip for iOS.* 
-
-
-
-**[MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen)**
-*from [pixyzehn](https://github.com/pixyzehn):*
-> *Medium's upper and lower Menu in Scroll.* 
-
-
-
-**[AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu)**
-*from [ashishkakkad8](https://github.com/ashishkakkad8):*
-> *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11* 
-
-
-
-**[RESideMenu](https://github.com/romaonthego/RESideMenu)**
-*from [romaonthego](https://github.com/romaonthego):*
-> *iOS 7/8 style side menu with parallax effect.* 
-
-
-
-**[cariocamenu](https://github.com/arn00s/cariocamenu)**
-*from [arn00s](https://github.com/arn00s):*
-> *The fastest zero-tap iOS menu.* 
-
-
-
-**[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)**
-*from [romaonthego](https://github.com/romaonthego):*
-> *iOS 7/8 style blurred view controller that appears on top of your view controller.* 
-
-
-
-**[TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController)**
-*from [twotoasters](https://github.com/twotoasters):*
-> *Side Menus for iOS 7* 
-
-
-
-**[AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu)**
-*from [arturdev](https://github.com/arturdev):*
-> *Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.* 
 
 
 
