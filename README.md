@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Sheet](#Sheet)
     - [Menu](#Menu)
     - [Tooltip](#Tooltip)
     - [Parallax](#Parallax)
@@ -65,6 +66,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PullableSheet](https://github.com/tattn/PullableSheet)**
+*from [tattn](https://github.com/tattn):*
+> *Pullable sheet like a default map app or bottom sheets (Android).* 
+
+
+
+![](https://raw.githubusercontent.com/tattn/PullableSheet/master/docs/assets/demo1.gif)
+
+
+
+
+--------------------------
 
 **[FlowingMenu](https://github.com/yannickl/FlowingMenu)**
 *from [yannickl](https://github.com/yannickl):*
@@ -180,20 +194,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[FTPopOverMenu_Swift](https://github.com/liufengting/FTPopOverMenu_Swift)**
-*from [liufengting](https://github.com/liufengting):*
-> *FTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.* 
-
-
-
-![](https://raw.githubusercontent.com/liufengting/FTResourceRepo/master/Resource/FTPopOverMenu/screenshots.gif)
-
-
-
 # By Category
+
+## Sheet
+**[PullableSheet](https://github.com/tattn/PullableSheet)**
+*from [tattn](https://github.com/tattn):*
+> *Pullable sheet like a default map app or bottom sheets (Android).* 
+
+
+
 
 ## Menu
 **[FlowingMenu](https://github.com/yannickl/FlowingMenu)**
