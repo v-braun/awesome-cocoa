@@ -67,6 +67,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
+**[SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView)**
+*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
+> * SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️* 
+
+
+
+![](https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/third.gif)
+
+
+
+
+--------------------------
+
 **[PullableSheet](https://github.com/tattn/PullableSheet)**
 *from [tattn](https://github.com/tattn):*
 > *Pullable sheet like a default map app or bottom sheets (Android).* 
@@ -181,22 +194,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS)**
-*from [orazz](https://github.com/orazz):*
-> *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.* 
-
-
-
-![](https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif)
-
-
-
 # By Category
 
 ## Sheet
+**[SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView)**
+*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
+> * SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️* 
+
+
+
 **[PullableSheet](https://github.com/tattn/PullableSheet)**
 *from [tattn](https://github.com/tattn):*
 > *Pullable sheet like a default map app or bottom sheets (Android).* 
