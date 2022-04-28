@@ -17,6 +17,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 - [New](#new)
 - [By Category](#By-Category)
     - [Button](#Button)
+    - [TabBar](#TabBar)
     - [Progress](#Progress)
     - [Sheet](#Sheet)
     - [Menu](#Menu)
@@ -37,7 +38,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Tags](#Tags)
     - [Label](#Label)
     - [ImageView](#ImageView)
-    - [TabBar](#TabBar)
     - [Toggle](#Toggle)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
@@ -66,6 +66,32 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[buttoncraft](https://github.com/atrinh0/buttoncraft)**
+*from [atrinh0](https://github.com/atrinh0):*
+> *Craft that perfect SwiftUI button effect 👌🏼* 
+
+
+
+![](https://raw.githubusercontent.com/atrinh0/buttoncraft/master/images/taphere.gif)
+
+
+
+
+--------------------------
+
+**[SOTabBar](https://github.com/Ahmadalsofi/SOTabBar)**
+*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
+> *Light way to add Fancy bottom bar 📲* 
+
+
+
+![](https://raw.githubusercontent.com/Ahmadalsofi/SOTabBar/master/Screenshots/headerGif.gif)
+
+
+
+
+--------------------------
 
 **[DynamicButton](https://github.com/yannickl/DynamicButton)**
 *from [yannickl](https://github.com/yannickl):*
@@ -168,35 +194,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[PinterestSegment](https://github.com/TBXark/PinterestSegment)**
-*from [TBXark](https://github.com/TBXark):*
-> *A Pinterest-like segment control with masking animation.* 
-
-
-
-![](https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif)
-
-
-
-
---------------------------
-
-**[StackViewController](https://github.com/seedco/StackViewController)**
-*from [seedco](https://github.com/seedco):*
-> *A controller that uses a UIStackView and view controller composition to display content in a list* 
-
-
-
-![](https://raw.githubusercontent.com/seedco/StackViewController/master/screenshot.png)
-
-
-
 # By Category
 
 ## Button
+**[buttoncraft](https://github.com/atrinh0/buttoncraft)**
+*from [atrinh0](https://github.com/atrinh0):*
+> *Craft that perfect SwiftUI button effect 👌🏼* 
+
+
+
 **[DynamicButton](https://github.com/yannickl/DynamicButton)**
 *from [yannickl](https://github.com/yannickl):*
 > *Yet another animated flat buttons in Swift* 
@@ -254,6 +260,74 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)**
 *from [okmr-d](https://github.com/okmr-d):*
 > *Cute Animated Button written in Swift.* 
+
+
+
+
+## TabBar
+**[SOTabBar](https://github.com/Ahmadalsofi/SOTabBar)**
+*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
+> *Light way to add Fancy bottom bar 📲* 
+
+
+
+**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
+*from [marcosgriselli](https://github.com/marcosgriselli):*
+> *UITabBarController with swipe interaction between its tabs.* 
+
+
+
+**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
+*from [Cuberto](https://github.com/Cuberto):*
+> *One another nice animated tabbar* 
+
+
+
+**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)**
+*from [cwRichardKim](https://github.com/cwRichardKim):*
+> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
+
+
+
+**[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)**
+*from [telly](https://github.com/telly):*
+> *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
+
+
+
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion* 
+
+
+
+**[Tabman](https://github.com/uias/Tabman)**
+*from [uias](https://github.com/uias):*
+> *™️ A powerful paging view controller with tab bar.* 
+
+
+
+**[VBRRollingPit](https://github.com/v-braun/VBRRollingPit)**
+*from [v-braun](https://github.com/v-braun):*
+> *Simple, beatiful and interactive UITabBar* 
+
+
+
+**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)**
+*from [Yalantis](https://github.com/Yalantis):*
+> *Folding Tab Bar and Tab Bar Controller* 
+
+
+
+**[BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)**
+*from [bfeher](https://github.com/bfeher):*
+> *iOS UITabBar (controller) inspired by Google's Paper Material Design.* 
+
+
+
+**[MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)**
+*from [jamesdunay](https://github.com/jamesdunay):*
+> *null* 
 
 
 
@@ -1182,68 +1256,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager)**
 *from [autresphere](https://github.com/autresphere):*
 > *iOS library to animate your image and video thumbnails to fullscreen.* 
-
-
-
-
-## TabBar
-**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)**
-*from [marcosgriselli](https://github.com/marcosgriselli):*
-> *UITabBarController with swipe interaction between its tabs.* 
-
-
-
-**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)**
-*from [Cuberto](https://github.com/Cuberto):*
-> *One another nice animated tabbar* 
-
-
-
-**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)**
-*from [cwRichardKim](https://github.com/cwRichardKim):*
-> *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar* 
-
-
-
-**[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)**
-*from [telly](https://github.com/telly):*
-> *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!* 
-
-
-
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion* 
-
-
-
-**[Tabman](https://github.com/uias/Tabman)**
-*from [uias](https://github.com/uias):*
-> *™️ A powerful paging view controller with tab bar.* 
-
-
-
-**[VBRRollingPit](https://github.com/v-braun/VBRRollingPit)**
-*from [v-braun](https://github.com/v-braun):*
-> *Simple, beatiful and interactive UITabBar* 
-
-
-
-**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)**
-*from [Yalantis](https://github.com/Yalantis):*
-> *Folding Tab Bar and Tab Bar Controller* 
-
-
-
-**[BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController)**
-*from [bfeher](https://github.com/bfeher):*
-> *iOS UITabBar (controller) inspired by Google's Paper Material Design.* 
-
-
-
-**[MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)**
-*from [jamesdunay](https://github.com/jamesdunay):*
-> *null* 
 
 
 
