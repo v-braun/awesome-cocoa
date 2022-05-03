@@ -87,7 +87,7 @@ function createTOC(recByTag){
   return result;
 }
 
-request.get(dataUrl, (err, response, body) => {
+request.get({uri: dataUrl}, (err, response, body) => {
   if(err){
     log.fatal('fetch for data failed');
     log.error(err);

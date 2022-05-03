@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [PageControl](#PageControl)
     - [Button](#Button)
     - [TabBar](#TabBar)
     - [Progress](#Progress)
@@ -41,7 +42,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Toggle](#Toggle)
     - [Panel](#Panel)
     - [Gradient](#Gradient)
-    - [PageControl](#PageControl)
     - [MediaPlayer](#MediaPlayer)
     - [Rating](#Rating)
     - [BlurEffect](#BlurEffect)
@@ -66,6 +66,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
+*from [kazuhiro4949](https://github.com/kazuhiro4949):*
+> *PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. * 
+
+
+
+![](https://user-images.githubusercontent.com/18320004/31583441-eb6ff894-b1d6-11e7-943a-675d6460919a.png)
+
+
+
+
+--------------------------
 
 **[buttoncraft](https://github.com/atrinh0/buttoncraft)**
 *from [atrinh0](https://github.com/atrinh0):*
@@ -181,20 +194,27 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SPLarkController](https://github.com/ivanvorobei/SPLarkController)**
-*from [ivanvorobei](https://github.com/ivanvorobei):*
-> *Custom transition between controllers. Settings controller for your iOS app.* 
-
-
-
-![](https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif)
-
-
-
 # By Category
+
+## PageControl
+**[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
+*from [kazuhiro4949](https://github.com/kazuhiro4949):*
+> *PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. * 
+
+
+
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
+*from [TBXark](https://github.com/TBXark):*
+> *A rubber animation pagecontrol* 
+
+
+
+**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)**
+*from [shima11](https://github.com/shima11):*
+> *A flexible UIPageControl like Instagram.* 
+
+
+
 
 ## Button
 **[buttoncraft](https://github.com/atrinh0/buttoncraft)**
@@ -1292,20 +1312,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Shift](https://github.com/kgellci/Shift)**
 *from [kgellci](https://github.com/kgellci):*
 > *Animate gradient changes with time or motion for iOS Swift* 
-
-
-
-
-## PageControl
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
-*from [TBXark](https://github.com/TBXark):*
-> *A rubber animation pagecontrol* 
-
-
-
-**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)**
-*from [shima11](https://github.com/shima11):*
-> *A flexible UIPageControl like Instagram.* 
 
 
 
