@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Pin](#Pin)
     - [PageControl](#PageControl)
     - [Button](#Button)
     - [TabBar](#TabBar)
@@ -66,6 +67,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[KAPinField](https://github.com/kirualex/KAPinField)**
+*from [kirualex](https://github.com/kirualex):*
+> *Lightweight, highly customizable Pin Code Field library for iOS, written in Swift* 
+
+
+
+![](https://raw.githubusercontent.com/kirualex/KAPinField/4.0.0/preview1.gif)
+
+
+
+
+--------------------------
 
 **[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
 *from [kazuhiro4949](https://github.com/kazuhiro4949):*
@@ -181,20 +195,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)**
-*from [DroidsOnRoids](https://github.com/DroidsOnRoids):*
-> *Apple TV Parallax effect in Swift.* 
-
-
-
-![](https://github.com/DroidsOnRoids/MPParallaxView/raw/master/Resources/demo.gif)
-
-
-
 # By Category
+
+## Pin
+**[KAPinField](https://github.com/kirualex/KAPinField)**
+*from [kirualex](https://github.com/kirualex):*
+> *Lightweight, highly customizable Pin Code Field library for iOS, written in Swift* 
+
+
+
 
 ## PageControl
 **[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
