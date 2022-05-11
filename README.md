@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Slider](#Slider)
     - [Pin](#Pin)
     - [PageControl](#PageControl)
     - [Button](#Button)
@@ -67,6 +68,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider)**
+*from [muukii](https://github.com/muukii):*
+> *PrecisionLevelSlider* 
+
+
+
+![](https://github.com/muukii/PrecisionLevelSlider/raw/main/sample.png)
+
+
+
+
+--------------------------
 
 **[KAPinField](https://github.com/kirualex/KAPinField)**
 *from [kirualex](https://github.com/kirualex):*
@@ -182,20 +196,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[MKToolTip](https://github.com/metinkilicaslan/MKToolTip)**
-*from [metinkilicaslan](https://github.com/metinkilicaslan):*
-> *MKToolTip is a customizable tooltip view written in Swift that can be used as a informative tip* 
-
-
-
-![](https://raw.githubusercontent.com/metinkilicaslan/MKToolTip/master/MKToolTip.gif)
-
-
-
 # By Category
+
+## Slider
+**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider)**
+*from [muukii](https://github.com/muukii):*
+> *PrecisionLevelSlider* 
+
+
+
 
 ## Pin
 **[KAPinField](https://github.com/kirualex/KAPinField)**
