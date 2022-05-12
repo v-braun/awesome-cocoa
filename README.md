@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Toast](#Toast)
     - [Slider](#Slider)
     - [Pin](#Pin)
     - [PageControl](#PageControl)
@@ -68,6 +69,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PopupView](https://github.com/exyte/PopupView)**
+*from [exyte](https://github.com/exyte):*
+> *Toasts and popups library written with SwiftUI* 
+
+
+
+![](https://raw.githubusercontent.com/exyte/PopupView/master/Assets/demo.gif)
+
+
+
+
+--------------------------
 
 **[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider)**
 *from [muukii](https://github.com/muukii):*
@@ -183,20 +197,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[FlowingMenu](https://github.com/yannickl/FlowingMenu)**
-*from [yannickl](https://github.com/yannickl):*
-> *Interactive view transition to display menus with flowing and bouncing effects in Swift* 
-
-
-
-![](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
-
-
-
 # By Category
+
+## Toast
+**[PopupView](https://github.com/exyte/PopupView)**
+*from [exyte](https://github.com/exyte):*
+> *Toasts and popups library written with SwiftUI* 
+
+
+
 
 ## Slider
 **[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider)**
