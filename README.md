@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Animation](#Animation)
     - [Toast](#Toast)
     - [Slider](#Slider)
     - [Pin](#Pin)
@@ -27,7 +28,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Menu](#Menu)
     - [Tooltip](#Tooltip)
     - [Parallax](#Parallax)
-    - [Animation](#Animation)
     - [Stack](#Stack)
     - [Shadow](#Shadow)
     - [TextField](#TextField)
@@ -69,6 +69,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)**
+*from [marcosgriselli](https://github.com/marcosgriselli):*
+> *ViewAnimator brings your UI to life with just one line* 
+
+
+
+![](https://camo.githubusercontent.com/ad6460f2537f1744367611f29edb74e1ad9f8ad3e560041e0d4969b075acad00/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3730323738392f73637265656e73686f74732f333831363038372f707265766965772d6d657373616b692e676966)
+
+
+
+
+--------------------------
 
 **[PopupView](https://github.com/exyte/PopupView)**
 *from [exyte](https://github.com/exyte):*
@@ -184,20 +197,147 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[PullableSheet](https://github.com/tattn/PullableSheet)**
-*from [tattn](https://github.com/tattn):*
-> *Pullable sheet like a default map app or bottom sheets (Android).* 
-
-
-
-![](https://raw.githubusercontent.com/tattn/PullableSheet/master/docs/assets/demo1.gif)
-
-
-
 # By Category
+
+## Animation
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)**
+*from [marcosgriselli](https://github.com/marcosgriselli):*
+> *ViewAnimator brings your UI to life with just one line* 
+
+
+
+**[SPLarkController](https://github.com/ivanvorobei/SPLarkController)**
+*from [ivanvorobei](https://github.com/ivanvorobei):*
+> *Custom transition between controllers. Settings controller for your iOS app.* 
+
+
+
+**[SpeechRecognizerButton](https://github.com/alexruperez/SpeechRecognizerButton)**
+*from [alexruperez](https://github.com/alexruperez):*
+> *UIButton subclass with push to talk recording, speech recognition and Siri-style waveform view.* 
+
+
+
+**[ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)**
+*from [WorldDownTown](https://github.com/WorldDownTown):*
+> *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
+
+
+
+**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *You can use blur effect and it's animation easily to call only two methods.* 
+
+
+
+**[RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)**
+*from [digital-horizon](https://github.com/digital-horizon):*
+> *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
+
+
+
+**[Hero](https://github.com/HeroTransitions/Hero)**
+*from [HeroTransitions](https://github.com/HeroTransitions):*
+> *Elegant transition library for iOS & tvOS* 
+
+
+
+**[Comets](https://github.com/cruisediary/Comets)**
+*from [cruisediary](https://github.com/cruisediary):*
+> *☄️Comets: Animating Particles in Swift* 
+
+
+
+**[CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)**
+*from [cristi-lupu](https://github.com/cristi-lupu):*
+> *A UIView what able to show water wave effect* 
+
+
+
+**[garland-view](https://github.com/Ramotion/garland-view)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
+
+
+
+**[Transition](https://github.com/Touchwonders/Transition)**
+*from [Touchwonders](https://github.com/Touchwonders):*
+> *Easy interactive interruptible custom ViewController transitions* 
+
+
+
+**[Shiny](https://github.com/efremidze/Shiny)**
+*from [efremidze](https://github.com/efremidze):*
+> *Iridescent Effect View (inspired by Apple Pay Cash) ✨* 
+
+
+
+**[Twinkle](https://github.com/piemonte/Twinkle)**
+*from [piemonte](https://github.com/piemonte):*
+> *:sparkles: Twinkle iOS/tvOS app elements in Swift* 
+
+
+
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)**
+*from [ChiliLabs](https://github.com/ChiliLabs):*
+> *A set of cool animated page controls written in Swift to replace boring UIPageControl.* 
+
+
+
+**[BubbleTransition](https://github.com/andreamazz/BubbleTransition)**
+*from [andreamazz](https://github.com/andreamazz):*
+> *A custom modal transition that presents and dismiss a controller with an expanding bubble effect.* 
+
+
+
+**[AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)**
+*from [shu223](https://github.com/shu223):*
+> *A gallery app of custom animated transitions for iOS.* 
+
+
+
+**[CBZSplashView](https://github.com/callumboddy/CBZSplashView)**
+*from [callumboddy](https://github.com/callumboddy):*
+> *Twitter style Splash Screen View. Grows to reveal the Initial view behind* 
+
+
+
+**[JazzHands](https://github.com/IFTTT/JazzHands)**
+*from [IFTTT](https://github.com/IFTTT):*
+> *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.* 
+
+
+
+**[PulsingHalo](https://github.com/shu223/PulsingHalo)**
+*from [shu223](https://github.com/shu223):*
+> *iOS Component for creating a pulsing animation.* 
+
+
+
+**[DCAnimationKit](https://github.com/daltoniam/DCAnimationKit)**
+*from [daltoniam](https://github.com/daltoniam):*
+> *A collection of animations for iOS. Simple, just add water animations.* 
+
+
+
+**[WobbleView](https://github.com/inFullMobile/WobbleView)**
+*from [inFullMobile](https://github.com/inFullMobile):*
+> *null* 
+
+
+
+**[RZTransitions](https://github.com/Raizlabs/RZTransitions)**
+*from [Raizlabs](https://github.com/Raizlabs):*
+> *A library of custom iOS View Controller Animations and Interactions.* 
+
+
+
+**[UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)**
+*from [andreamazz](https://github.com/andreamazz):*
+> *UITextField category that adds shake animation* 
+
+
+
 
 ## Toast
 **[PopupView](https://github.com/exyte/PopupView)**
@@ -655,140 +795,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[MXParallaxHeader](https://github.com/maxep/MXParallaxHeader)**
 *from [maxep](https://github.com/maxep):*
 > *Simple parallax header for UIScrollView* 
-
-
-
-
-## Animation
-**[SPLarkController](https://github.com/ivanvorobei/SPLarkController)**
-*from [ivanvorobei](https://github.com/ivanvorobei):*
-> *Custom transition between controllers. Settings controller for your iOS app.* 
-
-
-
-**[SpeechRecognizerButton](https://github.com/alexruperez/SpeechRecognizerButton)**
-*from [alexruperez](https://github.com/alexruperez):*
-> *UIButton subclass with push to talk recording, speech recognition and Siri-style waveform view.* 
-
-
-
-**[ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)**
-*from [WorldDownTown](https://github.com/WorldDownTown):*
-> *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.* 
-
-
-
-**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *You can use blur effect and it's animation easily to call only two methods.* 
-
-
-
-**[RoundCoachMark](https://github.com/digital-horizon/RoundCoachMark)**
-*from [digital-horizon](https://github.com/digital-horizon):*
-> *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)* 
-
-
-
-**[Hero](https://github.com/HeroTransitions/Hero)**
-*from [HeroTransitions](https://github.com/HeroTransitions):*
-> *Elegant transition library for iOS & tvOS* 
-
-
-
-**[Comets](https://github.com/cruisediary/Comets)**
-*from [cruisediary](https://github.com/cruisediary):*
-> *☄️Comets: Animating Particles in Swift* 
-
-
-
-**[CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)**
-*from [cristi-lupu](https://github.com/cristi-lupu):*
-> *A UIView what able to show water wave effect* 
-
-
-
-**[garland-view](https://github.com/Ramotion/garland-view)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion* 
-
-
-
-**[Transition](https://github.com/Touchwonders/Transition)**
-*from [Touchwonders](https://github.com/Touchwonders):*
-> *Easy interactive interruptible custom ViewController transitions* 
-
-
-
-**[Shiny](https://github.com/efremidze/Shiny)**
-*from [efremidze](https://github.com/efremidze):*
-> *Iridescent Effect View (inspired by Apple Pay Cash) ✨* 
-
-
-
-**[Twinkle](https://github.com/piemonte/Twinkle)**
-*from [piemonte](https://github.com/piemonte):*
-> *:sparkles: Twinkle iOS/tvOS app elements in Swift* 
-
-
-
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)**
-*from [ChiliLabs](https://github.com/ChiliLabs):*
-> *A set of cool animated page controls written in Swift to replace boring UIPageControl.* 
-
-
-
-**[BubbleTransition](https://github.com/andreamazz/BubbleTransition)**
-*from [andreamazz](https://github.com/andreamazz):*
-> *A custom modal transition that presents and dismiss a controller with an expanding bubble effect.* 
-
-
-
-**[AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)**
-*from [shu223](https://github.com/shu223):*
-> *A gallery app of custom animated transitions for iOS.* 
-
-
-
-**[CBZSplashView](https://github.com/callumboddy/CBZSplashView)**
-*from [callumboddy](https://github.com/callumboddy):*
-> *Twitter style Splash Screen View. Grows to reveal the Initial view behind* 
-
-
-
-**[JazzHands](https://github.com/IFTTT/JazzHands)**
-*from [IFTTT](https://github.com/IFTTT):*
-> *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.* 
-
-
-
-**[PulsingHalo](https://github.com/shu223/PulsingHalo)**
-*from [shu223](https://github.com/shu223):*
-> *iOS Component for creating a pulsing animation.* 
-
-
-
-**[DCAnimationKit](https://github.com/daltoniam/DCAnimationKit)**
-*from [daltoniam](https://github.com/daltoniam):*
-> *A collection of animations for iOS. Simple, just add water animations.* 
-
-
-
-**[WobbleView](https://github.com/inFullMobile/WobbleView)**
-*from [inFullMobile](https://github.com/inFullMobile):*
-> *null* 
-
-
-
-**[RZTransitions](https://github.com/Raizlabs/RZTransitions)**
-*from [Raizlabs](https://github.com/Raizlabs):*
-> *A library of custom iOS View Controller Animations and Interactions.* 
-
-
-
-**[UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)**
-*from [andreamazz](https://github.com/andreamazz):*
-> *UITextField category that adds shake animation* 
 
 
 
