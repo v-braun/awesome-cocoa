@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [Popup](#Popup)
     - [Animation](#Animation)
     - [Toast](#Toast)
     - [Slider](#Slider)
@@ -69,6 +70,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[BulletinBoard](https://github.com/alexisakers/BulletinBoard)**
+*from [alexisakers](https://github.com/alexisakers):*
+> *General-purpose contextual cards for iOS* 
+
+
+
+![](https://raw.githubusercontent.com/alexaubry/BulletinBoard/main/.assets/demo_screenshots.png)
+
+
+
+
+--------------------------
 
 **[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
@@ -184,20 +198,15 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView)**
-*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
-> * SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️* 
-
-
-
-![](https://raw.githubusercontent.com/Ahmadalsofi/SOPullUpView/master/third.gif)
-
-
-
 # By Category
+
+## Popup
+**[BulletinBoard](https://github.com/alexisakers/BulletinBoard)**
+*from [alexisakers](https://github.com/alexisakers):*
+> *General-purpose contextual cards for iOS* 
+
+
+
 
 ## Animation
 **[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)**
