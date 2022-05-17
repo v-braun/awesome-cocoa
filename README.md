@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [TextField](#TextField)
     - [Popup](#Popup)
     - [Animation](#Animation)
     - [Toast](#Toast)
@@ -31,7 +32,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Parallax](#Parallax)
     - [Stack](#Stack)
     - [Shadow](#Shadow)
-    - [TextField](#TextField)
     - [TableView](#TableView)
     - [Notification](#Notification)
     - [CollectionView](#CollectionView)
@@ -70,6 +70,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)**
+*from [muukii](https://github.com/muukii):*
+> *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.* 
+
+
+
+![](https://user-images.githubusercontent.com/1888355/156420538-76b2d75b-ca50-46f0-b95f-056d2ef30953.gif)
+
+
+
+
+--------------------------
 
 **[BulletinBoard](https://github.com/alexisakers/BulletinBoard)**
 *from [alexisakers](https://github.com/alexisakers):*
@@ -185,20 +198,93 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[StepSlider](https://github.com/spromicky/StepSlider)**
-*from [spromicky](https://github.com/spromicky):*
-> *StepSlider its custom implementation of slider such as UISlider for preset integer values.* 
-
-
-
-![](https://github.com/spromicky/StepSlider/raw/master/screenshots/example.gif)
-
-
-
 # By Category
+
+## TextField
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)**
+*from [muukii](https://github.com/muukii):*
+> *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.* 
+
+
+
+**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS)**
+*from [orazz](https://github.com/orazz):*
+> *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.* 
+
+
+
+**[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)**
+*from [Skyscanner](https://github.com/Skyscanner):*
+> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
+
+
+
+**[Translucid](https://github.com/Ekhoo/Translucid)**
+*from [Ekhoo](https://github.com/Ekhoo):*
+> *Lightweight library to set an Image as text background. Written in swift.* 
+
+
+
+**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)**
+*from [me-abhinav](https://github.com/me-abhinav):*
+> *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.* 
+
+
+
+**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields)**
+*from [FahimF](https://github.com/FahimF):*
+> *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.* 
+
+
+
+**[DTTextField](https://github.com/iDhaval/DTTextField)**
+*from [iDhaval](https://github.com/iDhaval):*
+> *DTTextField is a custom textfield with floating placeholder and error label* 
+
+
+
+**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)**
+*from [suzuki-0000](https://github.com/suzuki-0000):*
+> *Simple countdown UILabel with morphing animation, and some useful function.* 
+
+
+
+**[WSTagsField](https://github.com/whitesmith/WSTagsField)**
+*from [whitesmith](https://github.com/whitesmith):*
+> *An iOS text field that represents different Tags* 
+
+
+
+**[CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)**
+*from [Fawxy](https://github.com/Fawxy):*
+> *A customisable view for entering arbitrary length numerical pins or codes in iOS.* 
+
+
+
+**[AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)**
+*from [jogendra](https://github.com/jogendra):*
+> *Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.* 
+
+
+
+**[HTYTextField](https://github.com/hanton/HTYTextField)**
+*from [hanton](https://github.com/hanton):*
+> *A UITextField with bouncy placeholder. * 
+
+
+
+**[RKRichTextView](https://github.com/ren6/RKRichTextView)**
+*from [ren6](https://github.com/ren6):*
+> *Rich Text Editor for iOS* 
+
+
+
+**[RichEditorView](https://github.com/cjwirth/RichEditorView)**
+*from [cjwirth](https://github.com/cjwirth):*
+> *RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.* 
+
+
+
 
 ## Popup
 **[BulletinBoard](https://github.com/alexisakers/BulletinBoard)**
@@ -826,86 +912,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[ShadowView](https://github.com/PierrePerrin/ShadowView)**
 *from [PierrePerrin](https://github.com/PierrePerrin):*
 > *An iOS Library that makes shadows management easy on UIView.* 
-
-
-
-
-## TextField
-**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS)**
-*from [orazz](https://github.com/orazz):*
-> *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.* 
-
-
-
-**[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)**
-*from [Skyscanner](https://github.com/Skyscanner):*
-> *A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.* 
-
-
-
-**[Translucid](https://github.com/Ekhoo/Translucid)**
-*from [Ekhoo](https://github.com/Ekhoo):*
-> *Lightweight library to set an Image as text background. Written in swift.* 
-
-
-
-**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)**
-*from [me-abhinav](https://github.com/me-abhinav):*
-> *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.* 
-
-
-
-**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields)**
-*from [FahimF](https://github.com/FahimF):*
-> *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.* 
-
-
-
-**[DTTextField](https://github.com/iDhaval/DTTextField)**
-*from [iDhaval](https://github.com/iDhaval):*
-> *DTTextField is a custom textfield with floating placeholder and error label* 
-
-
-
-**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)**
-*from [suzuki-0000](https://github.com/suzuki-0000):*
-> *Simple countdown UILabel with morphing animation, and some useful function.* 
-
-
-
-**[WSTagsField](https://github.com/whitesmith/WSTagsField)**
-*from [whitesmith](https://github.com/whitesmith):*
-> *An iOS text field that represents different Tags* 
-
-
-
-**[CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)**
-*from [Fawxy](https://github.com/Fawxy):*
-> *A customisable view for entering arbitrary length numerical pins or codes in iOS.* 
-
-
-
-**[AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)**
-*from [jogendra](https://github.com/jogendra):*
-> *Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.* 
-
-
-
-**[HTYTextField](https://github.com/hanton/HTYTextField)**
-*from [hanton](https://github.com/hanton):*
-> *A UITextField with bouncy placeholder. * 
-
-
-
-**[RKRichTextView](https://github.com/ren6/RKRichTextView)**
-*from [ren6](https://github.com/ren6):*
-> *Rich Text Editor for iOS* 
-
-
-
-**[RichEditorView](https://github.com/cjwirth/RichEditorView)**
-*from [cjwirth](https://github.com/cjwirth):*
-> *RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.* 
 
 
 
