@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [RangeSelect](#RangeSelect)
     - [TextField](#TextField)
     - [Popup](#Popup)
     - [Animation](#Animation)
@@ -55,7 +56,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Style](#Style)
     - [PullToRefresh](#PullToRefresh)
     - [Loading](#Loading)
-    - [RangeSelect](#RangeSelect)
     - [Picker](#Picker)
     - [Material](#Material)
     - [Bar](#Bar)
@@ -70,6 +70,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[rubber-range-picker](https://github.com/Cuberto/rubber-range-picker)**
+*from [Cuberto](https://github.com/Cuberto):*
+> *null* 
+
+
+
+![](https://raw.githubusercontent.com/Cuberto/rubber-range-picker/master/Screenshots/animation.gif)
+
+
+
+
+--------------------------
 
 **[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)**
 *from [muukii](https://github.com/muukii):*
@@ -185,20 +198,21 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[DynamicButton](https://github.com/yannickl/DynamicButton)**
-*from [yannickl](https://github.com/yannickl):*
-> *Yet another animated flat buttons in Swift* 
-
-
-
-![](https://cloud.githubusercontent.com/assets/798235/20039804/d4b533ca-a44a-11e6-8d4e-07aa45ef4a76.gif)
-
-
-
 # By Category
+
+## RangeSelect
+**[rubber-range-picker](https://github.com/Cuberto/rubber-range-picker)**
+*from [Cuberto](https://github.com/Cuberto):*
+> *null* 
+
+
+
+**[fluid-slider](https://github.com/Ramotion/fluid-slider)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion* 
+
+
+
 
 ## TextField
 **[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)**
@@ -1546,14 +1560,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[Windless](https://github.com/Interactive-Studio/Windless)**
 *from [Interactive-Studio](https://github.com/Interactive-Studio):*
 > *Windless makes it easy to implement invisible layout loading view.* 
-
-
-
-
-## RangeSelect
-**[fluid-slider](https://github.com/Ramotion/fluid-slider)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion* 
 
 
 
