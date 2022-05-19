@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [TableView](#TableView)
     - [RangeSelect](#RangeSelect)
     - [TextField](#TextField)
     - [Popup](#Popup)
@@ -33,7 +34,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Parallax](#Parallax)
     - [Stack](#Stack)
     - [Shadow](#Shadow)
-    - [TableView](#TableView)
     - [Notification](#Notification)
     - [CollectionView](#CollectionView)
     - [Alert](#Alert)
@@ -70,6 +70,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[SwipyCell](https://github.com/moritzsternemann/SwipyCell)**
+*from [moritzsternemann](https://github.com/moritzsternemann):*
+> *Easy to use UITableViewCell implementing swiping to trigger actions.* 
+
+
+
+![](https://raw.githubusercontent.com/moritzsternemann/SwipyCell/main/.github/images/swipycell-hero.jpg)
+
+
+
+
+--------------------------
 
 **[rubber-range-picker](https://github.com/Cuberto/rubber-range-picker)**
 *from [Cuberto](https://github.com/Cuberto):*
@@ -185,20 +198,87 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[SOTabBar](https://github.com/Ahmadalsofi/SOTabBar)**
-*from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
-> *Light way to add Fancy bottom bar 📲* 
-
-
-
-![](https://raw.githubusercontent.com/Ahmadalsofi/SOTabBar/master/Screenshots/headerGif.gif)
-
-
-
 # By Category
+
+## TableView
+**[SwipyCell](https://github.com/moritzsternemann/SwipyCell)**
+*from [moritzsternemann](https://github.com/moritzsternemann):*
+> *Easy to use UITableViewCell implementing swiping to trigger actions.* 
+
+
+
+**[TableFlip](https://github.com/mergesort/TableFlip)**
+*from [mergesort](https://github.com/mergesort):*
+> *A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻* 
+
+
+
+**[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
+*from [instant-solutions](https://github.com/instant-solutions):*
+> *Simple timeline view written in Swift 3* 
+
+
+
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)**
+*from [SwipeCellKit](https://github.com/SwipeCellKit):*
+> *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
+
+
+
+**[SwiftyComments](https://github.com/tsucres/SwiftyComments)**
+*from [tsucres](https://github.com/tsucres):*
+> *UITableView based component designed to display a hierarchy of expandable/foldable comments.* 
+
+
+
+**[YNExpandableCell](https://github.com/younatics/YNExpandableCell)**
+*from [younatics](https://github.com/younatics):*
+> *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4* 
+
+
+
+**[BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)**
+*from [bitwit](https://github.com/bitwit):*
+> *A Swift library for swipeable table cells* 
+
+
+
+**[URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.* 
+
+
+
+**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)**
+*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
+> *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.* 
+
+
+
+**[folding-cell](https://github.com/Ramotion/folding-cell)**
+*from [Ramotion](https://github.com/Ramotion):*
+> *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion* 
+
+
+
+**[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)**
+*from [marty-suzuki](https://github.com/marty-suzuki):*
+> *SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.* 
+
+
+
+**[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**
+*from [slackhq](https://github.com/slackhq):*
+> *A drop-in UIViewController subclass with a growing text input view and other useful messaging features* 
+
+
+
+**[MPSkewed](https://github.com/MP0w/MPSkewed)**
+*from [MP0w](https://github.com/MP0w):*
+> *An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images * 
+
+
+
 
 ## RangeSelect
 **[rubber-range-picker](https://github.com/Cuberto/rubber-range-picker)**
@@ -926,80 +1006,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[ShadowView](https://github.com/PierrePerrin/ShadowView)**
 *from [PierrePerrin](https://github.com/PierrePerrin):*
 > *An iOS Library that makes shadows management easy on UIView.* 
-
-
-
-
-## TableView
-**[TableFlip](https://github.com/mergesort/TableFlip)**
-*from [mergesort](https://github.com/mergesort):*
-> *A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻* 
-
-
-
-**[ISTimeline](https://github.com/instant-solutions/ISTimeline)**
-*from [instant-solutions](https://github.com/instant-solutions):*
-> *Simple timeline view written in Swift 3* 
-
-
-
-**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)**
-*from [SwipeCellKit](https://github.com/SwipeCellKit):*
-> *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.* 
-
-
-
-**[SwiftyComments](https://github.com/tsucres/SwiftyComments)**
-*from [tsucres](https://github.com/tsucres):*
-> *UITableView based component designed to display a hierarchy of expandable/foldable comments.* 
-
-
-
-**[YNExpandableCell](https://github.com/younatics/YNExpandableCell)**
-*from [younatics](https://github.com/younatics):*
-> *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4* 
-
-
-
-**[BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell)**
-*from [bitwit](https://github.com/bitwit):*
-> *A Swift library for swipeable table cells* 
-
-
-
-**[URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.* 
-
-
-
-**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll)**
-*from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
-> *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.* 
-
-
-
-**[folding-cell](https://github.com/Ramotion/folding-cell)**
-*from [Ramotion](https://github.com/Ramotion):*
-> *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion* 
-
-
-
-**[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift)**
-*from [marty-suzuki](https://github.com/marty-suzuki):*
-> *SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.* 
-
-
-
-**[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**
-*from [slackhq](https://github.com/slackhq):*
-> *A drop-in UIViewController subclass with a growing text input view and other useful messaging features* 
-
-
-
-**[MPSkewed](https://github.com/MP0w/MPSkewed)**
-*from [MP0w](https://github.com/MP0w):*
-> *An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images * 
 
 
 
