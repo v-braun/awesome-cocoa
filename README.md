@@ -16,6 +16,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 # Content  
 - [New](#new)
 - [By Category](#By-Category)
+    - [PageControl](#PageControl)
     - [TableView](#TableView)
     - [RangeSelect](#RangeSelect)
     - [TextField](#TextField)
@@ -24,7 +25,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
     - [Toast](#Toast)
     - [Slider](#Slider)
     - [Pin](#Pin)
-    - [PageControl](#PageControl)
     - [Button](#Button)
     - [TabBar](#TabBar)
     - [Progress](#Progress)
@@ -70,6 +70,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 # New
+
+**[PageControls](https://github.com/popwarsweet/PageControls)**
+*from [popwarsweet](https://github.com/popwarsweet):*
+> *This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection* 
+
+
+
+![](https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif)
+
+
+
+
+--------------------------
 
 **[SwipyCell](https://github.com/moritzsternemann/SwipyCell)**
 *from [moritzsternemann](https://github.com/moritzsternemann):*
@@ -185,20 +198,33 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 
 
-
---------------------------
-
-**[buttoncraft](https://github.com/atrinh0/buttoncraft)**
-*from [atrinh0](https://github.com/atrinh0):*
-> *Craft that perfect SwiftUI button effect 👌🏼* 
-
-
-
-![](https://raw.githubusercontent.com/atrinh0/buttoncraft/master/images/taphere.gif)
-
-
-
 # By Category
+
+## PageControl
+**[PageControls](https://github.com/popwarsweet/PageControls)**
+*from [popwarsweet](https://github.com/popwarsweet):*
+> *This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection* 
+
+
+
+**[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
+*from [kazuhiro4949](https://github.com/kazuhiro4949):*
+> *PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. * 
+
+
+
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
+*from [TBXark](https://github.com/TBXark):*
+> *A rubber animation pagecontrol* 
+
+
+
+**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)**
+*from [shima11](https://github.com/shima11):*
+> *A flexible UIPageControl like Instagram.* 
+
+
+
 
 ## TableView
 **[SwipyCell](https://github.com/moritzsternemann/SwipyCell)**
@@ -548,26 +574,6 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 **[KAPinField](https://github.com/kirualex/KAPinField)**
 *from [kirualex](https://github.com/kirualex):*
 > *Lightweight, highly customizable Pin Code Field library for iOS, written in Swift* 
-
-
-
-
-## PageControl
-**[PagingKit](https://github.com/kazuhiro4949/PagingKit)**
-*from [kazuhiro4949](https://github.com/kazuhiro4949):*
-> *PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. * 
-
-
-
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)**
-*from [TBXark](https://github.com/TBXark):*
-> *A rubber animation pagecontrol* 
-
-
-
-**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)**
-*from [shima11](https://github.com/shima11):*
-> *A flexible UIPageControl like Instagram.* 
 
 
 
